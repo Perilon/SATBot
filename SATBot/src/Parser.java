@@ -14,6 +14,7 @@ import edu.stanford.nlp.ling.Sentence;
 import edu.stanford.nlp.trees.*;
 import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 
+
 class Parser {
 
   /**
@@ -30,6 +31,7 @@ class Parser {
    */
   public static void main(String[] args) {
     LexicalizedParser lp = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
+    
     
     String textFile = (args.length > 1) ? args[1] : args[0];
     	depParse(lp, textFile);
