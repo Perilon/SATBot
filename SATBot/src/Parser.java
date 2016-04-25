@@ -65,12 +65,19 @@ class Parser {
 	        	Matcher m = p.matcher(rel);
 	        	m.find();
 	        	triples.add(new String[]{m.group(1),m.group(2),m.group(3)});
-	        	
 	        }
-	       // System.out.println(tdl);
-	       // System.out.println();
+//	        System.out.println(tdl);
+//	        System.out.println();
 	      }
 	    }
+	    
+//	    System.out.println("Triples size = " + Integer.toString(triples.size()));
+//	    for (int i = 0; i < triples.size(); i++) {
+//	    	for (int j = 0; j < triples.get(i).length; j++) {
+//	    		System.out.println(triples.get(i)[j]);
+//	    	}
+//	    }
+	    
 	    return triples;	
 	    
 	  }

@@ -3,8 +3,8 @@ import java.util.Arrays;
 
 public class Story {
 	public String ID; //ID, i.e. mc.500.0
-	public String author; //author nummber
-	public String qualScore; //dunno what this is, but it's calle dthe same thing in the triaing file
+	public String author; //author number
+	public String qualScore; //dunno what this is, but it's called the same thing in the training file
 	public String workTimes; //likewise, same as in original file
 	public String[] creativityWords; //keywords?
 	public String text; //story text to be parsed & asserted

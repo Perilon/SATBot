@@ -25,6 +25,11 @@ public class Question {
 		String C = lines[3].substring(3);
 		String D = lines[4].substring(3);
 		choices = new String[]{A,B,C,D};
+		
+//		for (int i = 0; i < choices.length; i++) {
+//			System.out.println(choices[i]);
+//		}
+		
 	}
 	
 	//returns question to original string format
