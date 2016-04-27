@@ -6,6 +6,8 @@ import edu.isi.stella.Stella_Object;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
 import java.io.*;
 
 
@@ -24,8 +26,6 @@ public class PowerLoom {
 		    System.out.print("Initializing...");
 		    PLI.initialize();
 		    System.out.println("    done.");
-
-
 		    System.out.println("Loading KBs:");
 
 			loadVerbosely(args[0]);
@@ -58,16 +58,35 @@ public class PowerLoom {
 		    	// All the sentences from one story
 		    	ArrayList<String[]> storyTriples = storyRelations.get(i);
 		    	
+		    	//get sets of relations and concepts because PowerLoom throws a fit if you create twice
+		    	Set<String> concepts = new HashSet<String>();
+		    	Set<String> relations = new HashSet<String>();
+		    	for (int j = 0; j < storyTriples.size(); j++) {
+		    			relations.add(storyTriples.get(j)[0]);
+		    			concepts.add(storyTriples.get(j)[1]);
+		    			concepts.add(storyTriples.get(j)[2]);
+		    	}
+		    	
+		    	for (String c : concepts){
+		    		PLI.sCreateConcept(c, null, workingModule, null);
+		    	}
+		    	for (String r : relations){
+		    		PLI.sCreateRelation(r, 2, workingModule, null);
+		    	}
 		    	// All the triples in one sentence
 		    	for (int j = 0; j < storyTriples.size(); j++) {
-		    		
+		  
 		    		// Write code that defines and asserts things given a triple.
-		    		
+		   		
 		    		//All the terms in each triple
-		    		// for (int k = 0; k < storyTriples.get(j).length; k++) {
-		    		//	
-		    		//	System.out.println(storyTriples.get(j)[k]);
-		    		// }
+		    		//for (int k = 0; k < storyTriples.get(j).length; k++) {   			
+		    		//}
+		    		System.out.println(String.join(" ", storyTriples.get(j)));
+		    		
+		    		PLI.sAssertProposition("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
+		    		
+		    		PowerLoomExample.printPowerLoomTruth("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
+		    		
 		    	}
 			    
 		    }

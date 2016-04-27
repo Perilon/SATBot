@@ -20,7 +20,7 @@ import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 	
 
 class Parser {
-	private Pattern p = Pattern.compile("([^)]*)\\((.*)-\\d+, (.*)-\\d+\\)");
+	private Pattern p = Pattern.compile("([^)]*)\\((.*)-\\d+'*?, (.*)-\\d+'*?\\)");
   /**
    * The main method demonstrates the easiest way to load a parser.
    * Simply call loadModel and specify the path of a serialized grammar
@@ -62,9 +62,12 @@ class Parser {
 	        List<TypedDependency> tdl = gs.typedDependenciesCCprocessed();
 	        for(int i=0;i< tdl.size();i++){
 	        	String rel = tdl.get(i).toString();
+	        	rel = rel.replaceAll("'", "SINGLEQUOTE");  //not allowed in PowerLoom words
+	        	//probably need more replacement here.
 	        	Matcher m = p.matcher(rel);
 	        	m.find();
-	        	triples.add(new String[]{m.group(1),m.group(2),m.group(3)});
+	        	triples.add(new String[]{m.group(1).replaceAll("root", "rootrel"),m.group(2),m.group(3)});
+	        	//PowerLoom won't allow both root as a relation and root as a concept
 	        }
 //	        System.out.println(tdl);
 //	        System.out.println();
