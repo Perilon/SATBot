@@ -2,7 +2,18 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Properties;
 import java.io.File;
+
+import edu.stanford.nlp.ling.CoreAnnotations.LemmaAnnotation;
+import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
+import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
+import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.pipeline.Annotation;
+import edu.stanford.nlp.pipeline.StanfordCoreNLP;
+import edu.stanford.nlp.util.CoreMap;
+import java.util.Properties;
+
 
 public class Main {
 	public static void main(String[] args) throws Exception {
@@ -16,17 +27,19 @@ public class Main {
 	    String kbfileDefault = "./test.plm";
 	    String workingModule = "STORY";
 	    String[] loomParams = new String[]{kbfileDefault, workingModule};
+	    
+	    Lemmatizer lemmatizer = new Lemmatizer();
 		
 		Main m = new Main();//oddity to to static/nonstatic issues
 		String txt = m.readFile(inputTxt).trim();
-		ArrayList<ArrayList<String[]>> storyRelations = m.processStories(txt);
+		ArrayList<ArrayList<String[]>> storyRelations = m.processStoryTexts(txt, lemmatizer);
 		
 		doPowerLoom(loomParams, storyRelations);
 
 	}
 	
-	public ArrayList<ArrayList<String[]>> processStories(String txt){
-		ArrayList<ArrayList<String[]>> storyRels = new ArrayList<ArrayList<String[]>>();
+	public ArrayList<ArrayList<String[]>> processStoryTexts(String txt, Lemmatizer lemmatizer){
+		ArrayList<ArrayList<String[]>> storyTextRels = new ArrayList<ArrayList<String[]>>();
 		
 		String[] txts = txt.split("\\*{51}");
 		ArrayList<Story> stories = new ArrayList<Story>();
@@ -40,10 +53,40 @@ public class Main {
 	
 		Parser p = new Parser();
 		for(int i=0; i < stories.size();i++){
-			ArrayList<String[]> relsToAssert = p.parseString(stories.get(i).text);
-			storyRels.add(relsToAssert);
+			ArrayList<String[]> relsToAssert = p.parseString(stories.get(i).text, lemmatizer);
+			storyTextRels.add(relsToAssert);
 		}
-		return storyRels;
+		return storyTextRels;
+	}
+	
+	// getting into the weeds
+	public ArrayList<ArrayList<ArrayList<String[]>>> processStoryQuestions(String txt, Lemmatizer lemmatizer){
+		ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRels = new ArrayList<ArrayList<ArrayList<String[]>>>();
+		
+		String[] txts = txt.split("\\*{51}");
+		ArrayList<Story> stories = new ArrayList<Story>();
+		for(int i=1; i < txts.length; i++){
+			stories.add(new Story(txts[i]));
+		}
+	
+		Parser p = new Parser();
+		for(int i=0; i < stories.size();i++){
+			
+			ArrayList<ArrayList<String[]>> qParses = new ArrayList<ArrayList<String[]>>();
+			ArrayList<Question> questions = stories.get(i).questions;
+			
+			// To do: write code that takes the choices for each question and combines each choice
+			// with the question text, for its own parse, that can be evaluated against the
+			// truthiness of the corresponding story
+			
+			for (Question q : questions) {
+				ArrayList<String[]> qParse = p.parseString(q.question, lemmatizer);
+				qParses.add(qParse);
+			}
+			
+			storyQuestionRels.add(qParses);
+		}
+		return storyQuestionRels;
 	}
 	
 	
@@ -88,7 +131,6 @@ public class Main {
             System.out.println("Failed to create empty file: " + file.getPath());
         }
  
-    }
-	
+    }	
 }
 
