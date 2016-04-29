@@ -69,17 +69,17 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		    	
 		    	for (int j = 0; j < questionTriples.size(); j++) {
 		    		for (int k = 0; k < questionTriples.get(j).size(); k++) {
-		    			System.out.println("question triple = " + questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " + questionTriples.get(j).get(k)[2]);
+		    			System.out.println("story " + Integer.toString(i) + " question " + Integer.toString(j) + " triple " + Integer.toString(k) + " = " +
+questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " + questionTriples.get(j).get(k)[2]);
 		    		}
 		    		
-		    		for (int L = 0; L < choiceTriples.get(i).get(j).size(); L++) {
-		    			System.out.println("\tchoice triple = " + choiceTriples.get(i).get(j).get(L)[0] + " " + choiceTriples.get(i).get(j).get(L)[1] +
-" " + choiceTriples.get(i).get(j).get(L)[2]);
+		    		for (int L = 0; L < choiceTriples.get(j).size(); L++) {
+		    			for (int m = 0; m < choiceTriples.get(j).get(L).size(); m++) {
+		    				System.out.println("\tstory " + Integer.toString(i) + " question " + Integer.toString(j) + " choice " + Integer.toString(L) +
+" triple " + Integer.toString(m) +  " = " + choiceTriples.get(j).get(L).get(m)[0] + " " + choiceTriples.get(j).get(L).get(m)[1] + " " + choiceTriples.get(j).get(L).get(m)[2]);
+		    			}
 		    		}
 		    	}
-		
-		    	
-		    	
 		    	
 		    	
 		    	//get sets of relations and concepts because PowerLoom throws a fit if you create twice
@@ -110,8 +110,64 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 //		    		PLI.sAssertProposition("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
 //		    		
 //		    		PowerLoomExample.printPowerLoomTruth("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
+		    	}
+		    	
+		    	// For each question
+		    	for (int j = 0; j < questionTriples.size(); j++) {
+		    		
+		    		// initialize a list of batches of new triples
+		    		ArrayList<ArrayList<String[]>> questionChoiceCombinedParses = new ArrayList<ArrayList<String[]>>();
+		    		
+			    	
+			    	// for each choice
+			    	for (int L = 0; L < choiceTriples.get(j).size(); L++) {
+			    		
+			    		// initialize a new batch of triples
+				    	ArrayList<String[]> questionChoiceCombinedParse = new ArrayList<String[]>();
+				    	
+				    	// if dealing with a question starting with "what"
+				    	if (questionTriples.get(j).get(0)[2].equals("what")) {
+				    		
+				    		// identify the verb
+				    		String verb = questionTriples.get(j).get(0)[1];
+				    		
+				    		// for the triples in the choice
+				    		for (int m = 0; m < choiceTriples.get(j).get(L).size(); m++) {
+				    			
+				    			// find the one containing the rootrel, i.e., for choices like "the rock" or "Mr. fish"
+				    			if (choiceTriples.get(j).get(L).get(m)[0].equals("rootrel")) {
+				    				
+				    				// identify the noun
+				    				String noun = choiceTriples.get(j).get(L).get(m)[2];
+				    				
+				    				// make a new triple with the noun as the subject that does the verb
+				    				String[] newTriple = {"nsubj", verb, noun};
+				    				
+				    				// add it to the new set of triples for this question-choice pair
+				    				questionChoiceCombinedParse.add(newTriple);
+				    				
+				    			}
+				    		}
+				    						    		
+				    	}
+				    	
+				    	// add the rest of the triples from the question into the set of triples for this q-c pair
+				    	for (int n = 1; n < questionTriples.get(j).size(); n++) {
+				    		questionChoiceCombinedParse.add(questionTriples.get(j).get(n));
+				    	}
+			    		
+				    	// add the set of triples for this q-c pair to the list with one entry for each choice
+				    	questionChoiceCombinedParses.add(questionChoiceCombinedParse);
+				    	
+			    	}
+			    	
+			    	// TODO: create relations and concepts as above + evaluate truth for each entry in questionChoiceCombinedParses
 		    		
 		    	}
+		    	
+		    	
+		    	
+		    	
 			    
 		    }
 	  }

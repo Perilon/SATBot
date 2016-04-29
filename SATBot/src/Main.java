@@ -119,7 +119,7 @@ public class Main {
 				String[] choices = q.choices;
 				
 				for (String choice : choices) {
-					System.out.println(choice);
+//					System.out.println(choice);
 					ArrayList<String[]> cParse = p.parseString(choice, lemmatizer);
 					cParses.add(cParse);
 				}
