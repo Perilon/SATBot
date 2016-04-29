@@ -19,7 +19,8 @@ public class PowerLoom {
 	    System.out.println("  done.");
 	  }
 	
-	  public static void initializePowerLoom (String[] args, ArrayList<ArrayList<String[]>> storyRelations) {
+	  public static void initializePowerLoom (String[] args, ArrayList<ArrayList<String[]>> storyTextRelations,
+ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRelations) {
 
 		    // Initialize the basic PowerLoom code.
 		  		  
@@ -36,10 +37,11 @@ public class PowerLoom {
 		    // *** Initialization is now complete.  
 		    //     We begin working with the knowledge base.
 			
-		    doPowerLoomExamples(wModule, storyRelations);
+		    doPowerLoomExamples(wModule, storyTextRelations, storyQuestionRelations, storyChoiceRelations);
 		  }
 	  
-	  static void doPowerLoomExamples(String workingModule, ArrayList<ArrayList<String[]>> storyRelations) {
+	  static void doPowerLoomExamples(String workingModule, ArrayList<ArrayList<String[]>> storyRelations,
+ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRelations) {
 		  
 		  // For clarity...
 		  
@@ -51,12 +53,15 @@ public class PowerLoom {
 			    
 			    // ((name STRING) (parent LOGIC-OBJECT) (module MODULE) (environment ENVIRONMENT))
 			    // no parent; null module = current module; null environment = default environment = 'TAXONOMIC-ENV'
-			    // TAXONOMIC-ENV specifies that a knowledge base query should take into account explicitly-asserted propositions plus any rules that specify subsumption relationships.
+			    // TAXONOMIC-ENV specifies that a knowledge base query should take into account explicitly-asserted propositions
+			    // plus any rules that specify subsumption relationships.
 			    
 			    // PLI.createConcept("company", null, null, null);
 		    	
 		    	// All the sentences from one story
 		    	ArrayList<String[]> storyTriples = storyRelations.get(i);
+		    	
+		    	ArrayList<ArrayList<String[]>> questionTriples = storyQuestionRelations.get(i);
 		    	
 		    	//get sets of relations and concepts because PowerLoom throws a fit if you create twice
 		    	Set<String> concepts = new HashSet<String>();

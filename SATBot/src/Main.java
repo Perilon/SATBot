@@ -34,11 +34,12 @@ public class Main {
 		String txt = m.readFile(inputTxt).trim();
 		ArrayList<ArrayList<String[]>> storyRelations = m.processStoryTexts(txt, lemmatizer);
 		
-//		ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRels = m.processStoryQuestions(txt, lemmatizer);
+		ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations = m.processStoryQuestions(txt, lemmatizer);
+		ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRelations = m.processStoryChoices(txt, lemmatizer);
 				
 //		m.getQuestionTypes(txt, lemmatizer);
 		
-//		doPowerLoom(loomParams, storyRelations);
+		doPowerLoom(loomParams, storyRelations, storyQuestionRelations, storyChoiceRelations);
 
 	}
 	
@@ -85,15 +86,45 @@ public class Main {
 			// with the question text, for its own parse, that can be evaluated against the
 			// truthiness of the corresponding story
 			
+			// Parse the question itself
 			for (Question q : questions) {
 				ArrayList<String[]> qParse = p.parseString(q.question, lemmatizer);
+				
 				qParses.add(qParse);
 			}
 			
 			storyQuestionRels.add(qParses);
 		}
 		return storyQuestionRels;
-	}	
+	}
+	
+	public ArrayList<ArrayList<ArrayList<String[]>>> processStoryChoices(String txt, Lemmatizer lemmatizer){
+		
+		ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRels = new ArrayList<ArrayList<ArrayList<String[]>>>();
+		
+		String[] txts = txt.split("\\*{51}");
+		ArrayList<Story> stories = new ArrayList<Story>();
+		for(int i=1; i < txts.length; i++){
+			stories.add(new Story(txts[i]));
+		}
+		
+		Parser p = new Parser();
+		for(int i=0; i < stories.size();i++){
+			ArrayList<Question> questions = stories.get(i).questions;
+			
+			for (Question q : questions) {
+				ArrayList<ArrayList<String[]>> cParses = new ArrayList<ArrayList<String[]>>();
+				String[] choices = q.choices;
+				
+				for (String choice : choices) {
+					ArrayList<String[]> cParse = p.parseString(choice, lemmatizer);
+					cParses.add(cParse);
+				}
+				storyChoiceRels.add(cParses);
+			}
+		}
+		return storyChoiceRels;
+	}
 	
 	
 	public void getQuestionTypes(String txt, Lemmatizer lemmatizer){
@@ -140,6 +171,15 @@ public class Main {
 		for (ArrayList<String> other : qOther) {
 			System.out.println(other.toString());
 		}
+	}
+	
+	public static void doPowerLoom(String[] params, ArrayList<ArrayList<String[]>> storyTextRelations,
+			ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRelations) {
+		
+		createNewFile(params[0]);
+		
+		PowerLoom Loom = new PowerLoom();
+		Loom.initializePowerLoom(params, storyTextRelations, storyQuestionRelations, storyChoiceRelations);
 	}
 	
 	

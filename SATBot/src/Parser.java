@@ -62,7 +62,7 @@ class Parser {
 //  }
 	
   public ArrayList<String[]> parseString(String text, Lemmatizer lemmatizer) {
-	    System.out.println(text);
+//	    System.out.println(text);
 	  	ArrayList<String[]> triples = new ArrayList<String[]>();
 	    LexicalizedParser lp = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
 	    TreebankLanguagePack tlp = lp.treebankLanguagePack(); // a PennTreebankLanguagePack for English
@@ -156,7 +156,7 @@ class Parser {
 //	        	triples.add(triple);
 	        	
 	        	String[] triple = new String[]{m.group(1).replaceAll("root", "rootrel"),lemmatizer.lemmatizeWord(m.group(2)),lemmatizer.lemmatizeWord(m.group(3))};
-	        	System.out.println("triple = " + triple[0].toString() + " "+ triple[1].toString() + " " + triple[2].toString());
+//	        	System.out.println("triple = " + triple[0].toString() + " "+ triple[1].toString() + " " + triple[2].toString());
 	        	triples.add(triple);
 	        	
 	        	
