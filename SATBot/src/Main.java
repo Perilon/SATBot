@@ -35,7 +35,7 @@ public class Main {
 		ArrayList<ArrayList<String[]>> storyRelations = m.processStoryTexts(txt, lemmatizer);
 		
 		ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations = m.processStoryQuestions(txt, lemmatizer);
-		ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRelations = m.processStoryChoices(txt, lemmatizer);
+		ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> storyChoiceRelations = m.processStoryChoices(txt, lemmatizer);
 				
 //		m.getQuestionTypes(txt, lemmatizer);
 		
@@ -98,9 +98,9 @@ public class Main {
 		return storyQuestionRels;
 	}
 	
-	public ArrayList<ArrayList<ArrayList<String[]>>> processStoryChoices(String txt, Lemmatizer lemmatizer){
+	public ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> processStoryChoices(String txt, Lemmatizer lemmatizer){
 		
-		ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRels = new ArrayList<ArrayList<ArrayList<String[]>>>();
+		ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> storyChoiceRels = new ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>>();
 		
 		String[] txts = txt.split("\\*{51}");
 		ArrayList<Story> stories = new ArrayList<Story>();
@@ -112,16 +112,23 @@ public class Main {
 		for(int i=0; i < stories.size();i++){
 			ArrayList<Question> questions = stories.get(i).questions;
 			
+			ArrayList<ArrayList<ArrayList<String[]>>> q_cParses = new ArrayList<ArrayList<ArrayList<String[]>>>();
+			
 			for (Question q : questions) {
 				ArrayList<ArrayList<String[]>> cParses = new ArrayList<ArrayList<String[]>>();
 				String[] choices = q.choices;
 				
 				for (String choice : choices) {
+					System.out.println(choice);
 					ArrayList<String[]> cParse = p.parseString(choice, lemmatizer);
 					cParses.add(cParse);
 				}
-				storyChoiceRels.add(cParses);
+				
+				q_cParses.add(cParses);
+				
 			}
+			
+			storyChoiceRels.add(q_cParses);
 		}
 		return storyChoiceRels;
 	}
@@ -174,7 +181,7 @@ public class Main {
 	}
 	
 	public static void doPowerLoom(String[] params, ArrayList<ArrayList<String[]>> storyTextRelations,
-			ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRelations) {
+			ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> storyChoiceRelations) {
 		
 		createNewFile(params[0]);
 		

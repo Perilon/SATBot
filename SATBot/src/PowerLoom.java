@@ -20,7 +20,7 @@ public class PowerLoom {
 	  }
 	
 	  public static void initializePowerLoom (String[] args, ArrayList<ArrayList<String[]>> storyTextRelations,
-ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRelations) {
+ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> storyChoiceRelations) {
 
 		    // Initialize the basic PowerLoom code.
 		  		  
@@ -40,12 +40,12 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		    doPowerLoomExamples(wModule, storyTextRelations, storyQuestionRelations, storyChoiceRelations);
 		  }
 	  
-	  static void doPowerLoomExamples(String workingModule, ArrayList<ArrayList<String[]>> storyRelations,
-ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<String[]>>> storyChoiceRelations) {
+	  static void doPowerLoomExamples(String workingModule, ArrayList<ArrayList<String[]>> storyTextRelations,
+ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> storyChoiceRelations) {
 		  
 		  // For clarity...
 		  
-		    for (int i = 0; i < storyRelations.size(); i++) {
+		    for (int i = 0; i < storyTextRelations.size(); i++) {
 		    	
 			    PLI.createModule(workingModule, null, false);
 				  
@@ -59,9 +59,28 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 			    // PLI.createConcept("company", null, null, null);
 		    	
 		    	// All the sentences from one story
-		    	ArrayList<String[]> storyTriples = storyRelations.get(i);
+		    	ArrayList<String[]> storyTriples = storyTextRelations.get(i);
 		    	
+		    	// All the questions in one story
 		    	ArrayList<ArrayList<String[]>> questionTriples = storyQuestionRelations.get(i);
+		    	
+		    	// All the choices in one story
+		    	ArrayList<ArrayList<ArrayList<String[]>>> choiceTriples = storyChoiceRelations.get(i);
+		    	
+		    	for (int j = 0; j < questionTriples.size(); j++) {
+		    		for (int k = 0; k < questionTriples.get(j).size(); k++) {
+		    			System.out.println("question triple = " + questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " + questionTriples.get(j).get(k)[2]);
+		    		}
+		    		
+		    		for (int L = 0; L < choiceTriples.get(i).get(j).size(); L++) {
+		    			System.out.println("\tchoice triple = " + choiceTriples.get(i).get(j).get(L)[0] + " " + choiceTriples.get(i).get(j).get(L)[1] +
+" " + choiceTriples.get(i).get(j).get(L)[2]);
+		    		}
+		    	}
+		
+		    	
+		    	
+		    	
 		    	
 		    	//get sets of relations and concepts because PowerLoom throws a fit if you create twice
 		    	Set<String> concepts = new HashSet<String>();
@@ -86,11 +105,11 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		    		//All the terms in each triple
 		    		//for (int k = 0; k < storyTriples.get(j).length; k++) {   			
 		    		//}
-		    		System.out.println(String.join(" ", storyTriples.get(j)));
-		    		
-		    		PLI.sAssertProposition("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
-		    		
-		    		PowerLoomExample.printPowerLoomTruth("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
+//		    		System.out.println(String.join(" ", storyTriples.get(j)));
+//		    		
+//		    		PLI.sAssertProposition("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
+//		    		
+//		    		PowerLoomExample.printPowerLoomTruth("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
 		    		
 		    	}
 			    
