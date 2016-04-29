@@ -34,7 +34,11 @@ public class Main {
 		String txt = m.readFile(inputTxt).trim();
 		ArrayList<ArrayList<String[]>> storyRelations = m.processStoryTexts(txt, lemmatizer);
 		
-		doPowerLoom(loomParams, storyRelations);
+//		ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRels = m.processStoryQuestions(txt, lemmatizer);
+				
+//		m.getQuestionTypes(txt, lemmatizer);
+		
+//		doPowerLoom(loomParams, storyRelations);
 
 	}
 	
@@ -58,6 +62,8 @@ public class Main {
 		}
 		return storyTextRels;
 	}
+	
+	
 	
 	// getting into the weeds
 	public ArrayList<ArrayList<ArrayList<String[]>>> processStoryQuestions(String txt, Lemmatizer lemmatizer){
@@ -87,15 +93,53 @@ public class Main {
 			storyQuestionRels.add(qParses);
 		}
 		return storyQuestionRels;
-	}
+	}	
 	
 	
-	public static void doPowerLoom(String[] params, ArrayList<ArrayList<String[]>> storyRelations) {
+	public void getQuestionTypes(String txt, Lemmatizer lemmatizer){
 		
-		createNewFile(params[0]);
-		
-		PowerLoom Loom = new PowerLoom();
-		Loom.initializePowerLoom(params, storyRelations);
+		String[] txts = txt.split("\\*{51}");
+		ArrayList<Story> stories = new ArrayList<Story>();
+		String[] qTypes = new String[]{"who", "what", "where", "when", "why", "how", "which"};
+		ArrayList<ArrayList<String>> allQs = new ArrayList<ArrayList<String>>();
+		for(int i=1; i < txts.length; i++){
+			stories.add(new Story(txts[i]));
+		}
+		for (int i = 0; i < stories.size(); i++) {
+			ArrayList<Question> questions = stories.get(i).questions;
+			for (Question q : questions) {
+				allQs.add(lemmatizer.lemmatizeSentence(q.question));
+			}
+		}
+		ArrayList<ArrayList<String>> qOther = new ArrayList<ArrayList<String>>();
+		for (ArrayList<String> qAL : allQs) {
+			boolean present = false;
+			for (String w : qTypes) {
+				if (qAL.get(0).equals(w)) {
+					present = true;
+				}
+			}
+			if (!present) {
+				qOther.add(qAL);
+			}
+		}
+		for (int k = 0; k < qTypes.length; k++) {
+			ArrayList<ArrayList<String>> qType = new ArrayList<ArrayList<String>>();
+			for (ArrayList<String> qAL : allQs) {
+				if (qAL.get(0).equals(qTypes[k])) {
+					qType.add(qAL);
+				}
+			}
+			System.out.println("qType: " + qTypes[k] + ":\tnumber of this type = " + Integer.toString(qType.size()) + "\n");
+			for (ArrayList<String> qAL : qType) {
+				System.out.println(qAL.toString());
+			}
+			System.out.println("\n\n");
+		}
+		System.out.println("qOther:\tnumber of this type = " + Integer.toString(qOther.size()) + "\n");
+		for (ArrayList<String> other : qOther) {
+			System.out.println(other.toString());
+		}
 	}
 	
 	

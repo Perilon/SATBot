@@ -21,7 +21,8 @@ import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
 	
 
 class Parser {
-	private Pattern p = Pattern.compile("([^)]*)\\((.*)-\\d+'*?, (.*)-\\d+'*?\\)");
+	// changed this from "([^)]*)\\((.*)-\\d+'*?, (.*)-\\d+'*?\\)" so it doesn't fail to match where ' has been replaced by SINGLEQUOTE
+	private Pattern p = Pattern.compile("([^)]*)\\((.*)-\\d+'*.*, (.*)-\\d+'*.*\\)");
 //	private Pattern p2 = Pattern.compile("([^)]*)\\((.*-\\d+'*?), (.*-\\d+'*?)\\)");
 //	private Pattern p3 = Pattern.compile("(.*)-(\\d+'*?)");
   /**
@@ -61,6 +62,7 @@ class Parser {
 //  }
 	
   public ArrayList<String[]> parseString(String text, Lemmatizer lemmatizer) {
+	    System.out.println(text);
 	  	ArrayList<String[]> triples = new ArrayList<String[]>();
 	    LexicalizedParser lp = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz");
 	    TreebankLanguagePack tlp = lp.treebankLanguagePack(); // a PennTreebankLanguagePack for English
@@ -152,9 +154,9 @@ class Parser {
 //	        	String[] triple = new String[]{m.group(1).replaceAll("root", "rootrel"), lemmas.get(toAdd(w1index, missing)), lemmas.get(toAdd(w2index, missing))};
 	        	
 //	        	triples.add(triple);
-	        		        	
-	        	String[] triple = new String[]{m.group(1).replaceAll("root", "rootrel"),lemmatizer.lemmatize(m.group(2)),lemmatizer.lemmatize(m.group(3))};
-//	        	System.out.println("triple = " + triple[0].toString() + " "+ triple[1].toString() + " " + triple[2].toString());
+	        	
+	        	String[] triple = new String[]{m.group(1).replaceAll("root", "rootrel"),lemmatizer.lemmatizeWord(m.group(2)),lemmatizer.lemmatizeWord(m.group(3))};
+	        	System.out.println("triple = " + triple[0].toString() + " "+ triple[1].toString() + " " + triple[2].toString());
 	        	triples.add(triple);
 	        	
 	        	

@@ -40,7 +40,7 @@ public class Lemmatizer {
         this.pipeline = new StanfordCoreNLP(props);
     }
 
-    public String lemmatize(String text)
+    public String lemmatizeWord(String text)
     {
         ArrayList<String> lemmas = new ArrayList<String>();
         // Create an empty Annotation just with the given text
@@ -58,5 +58,25 @@ public class Lemmatizer {
             }
         }
         return lemmas.get(0);
+    }
+    
+    public ArrayList<String> lemmatizeSentence(String text)
+    {
+        ArrayList<String> lemmas = new ArrayList<String>();
+        // Create an empty Annotation just with the given text
+        Annotation anno = new Annotation(text);
+        // run all Annotators on this text
+        this.pipeline.annotate(anno);
+        // Iterate over all of the sentences found
+        List<CoreMap> sentences = anno.get(SentencesAnnotation.class);
+        for(CoreMap sentence: sentences) {
+            // Iterate over all tokens in a sentence
+            for (CoreLabel token: sentence.get(TokensAnnotation.class)) {
+                // Retrieve and add the lemma for each word into the
+                // list of lemmas
+                lemmas.add(token.get(LemmaAnnotation.class));
+            }
+        }
+        return lemmas;
     }
 }
