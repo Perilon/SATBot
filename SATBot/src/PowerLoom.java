@@ -107,7 +107,7 @@ questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " 
 		    		//}
 //		    		System.out.println(String.join(" ", storyTriples.get(j)));
 //		    		
-//		    		PLI.sAssertProposition("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
+		    		PLI.sAssertProposition("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
 //		    		
 //		    		PowerLoomExample.printPowerLoomTruth("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
 		    	}
@@ -150,11 +150,27 @@ questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " 
 				    		}
 				    						    		
 				    	}
-				    	
+				    	else if (questionTriples.get(j).get(0)[2].equals("which")){
+				    		// identify the verb
+				    		String verb = questionTriples.get(j).get(0)[1];
+				    		// for the triples in the choice
+				    		for (int m = 0; m < choiceTriples.get(j).get(L).size(); m++) {
+				    			// find the one containing the rootrel, i.e., for choices like "the rock" or "Mr. fish"
+				    			if (choiceTriples.get(j).get(L).get(m)[0].equals("rootrel")) {
+				    				// identify the noun
+				    				String noun = choiceTriples.get(j).get(L).get(m)[2];
+				    				// make a new triple with the noun as the subject that does the verb
+				    				String[] newTriple = {"nsubj", verb, noun};
+				    				// add it to the new set of triples for this question-choice pair
+				    				questionChoiceCombinedParse.add(newTriple);
+				    			}
+				    		}
+				    	}
 				    	// add the rest of the triples from the question into the set of triples for this q-c pair
 				    	for (int n = 1; n < questionTriples.get(j).size(); n++) {
 				    		questionChoiceCombinedParse.add(questionTriples.get(j).get(n));
 				    	}
+				    	//Note these will be the same for all choices
 			    		
 				    	// add the set of triples for this q-c pair to the list with one entry for each choice
 				    	questionChoiceCombinedParses.add(questionChoiceCombinedParse);
@@ -162,7 +178,23 @@ questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " 
 			    	}
 			    	
 			    	// TODO: create relations and concepts as above + evaluate truth for each entry in questionChoiceCombinedParses
-		    		
+			    		//for each qCCP
+			    	String[] letter = {"A","B","C","D"};
+			    	for(int qc=0; qc<questionChoiceCombinedParses.size();qc++){
+			    		//for each triple in the qCCP
+					    for (int t = 0; t < questionChoiceCombinedParses.get(qc).size(); t++) {
+					    	//PowerLoomExample.printPowerLoomTruth("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
+					    	TruthValue answer = PLI.sAsk("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
+					    	if (PLI.isTrue(answer)) {
+					    	      System.out.println("Question "+j+" choice"+letter[qc]+" has a true triple");
+					    	    } else if (PLI.isFalse(answer)) {
+					    	      System.out.println("Question "+j+" choice"+letter[qc]+" has a false triple");
+					   		    } else if (PLI.isUnknown(answer)) {
+					    	      System.out.println("Question "+j+" choice"+letter[qc]+" has a unknown triple");
+					    	    }
+					    	}
+			    		}
+			    		
 		    	}
 		    	
 		    	
