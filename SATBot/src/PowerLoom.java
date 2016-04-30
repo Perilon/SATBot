@@ -6,7 +6,10 @@ import edu.isi.stella.Stella_Object;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 import java.io.*;
 
@@ -19,7 +22,7 @@ public class PowerLoom {
 	    System.out.println("  done.");
 	  }
 	
-	  public static void initializePowerLoom (String[] args, ArrayList<ArrayList<String[]>> storyTextRelations,
+	  public static ArrayList<Integer> initializePowerLoom (String[] args, ArrayList<ArrayList<String[]>> storyTextRelations,
 ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> storyChoiceRelations) {
 
 		    // Initialize the basic PowerLoom code.
@@ -37,14 +40,18 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		    // *** Initialization is now complete.  
 		    //     We begin working with the knowledge base.
 			
-		    doPowerLoomExamples(wModule, storyTextRelations, storyQuestionRelations, storyChoiceRelations);
+		    ArrayList<Integer> answers = doPowerLoomExamples(wModule, storyTextRelations, storyQuestionRelations, storyChoiceRelations);
+		    return answers;
 		  }
 	  
-	  static void doPowerLoomExamples(String workingModule, ArrayList<ArrayList<String[]>> storyTextRelations,
+	  
+	  
+	  public static ArrayList<Integer> doPowerLoomExamples(String workingModule, ArrayList<ArrayList<String[]>> storyTextRelations,
 ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> storyChoiceRelations) {
 		  
-		  // For clarity...
-		  
+		  // initialize list of answers that we give
+		  ArrayList<Integer> answers = new ArrayList<Integer>();
+		  		  
 		    for (int i = 0; i < storyTextRelations.size(); i++) {
 		    	
 			    PLI.createModule(workingModule, null, false);
@@ -69,14 +76,14 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		    	
 		    	for (int j = 0; j < questionTriples.size(); j++) {
 		    		for (int k = 0; k < questionTriples.get(j).size(); k++) {
-		    			System.out.println("story " + Integer.toString(i) + " question " + Integer.toString(j) + " triple " + Integer.toString(k) + " = " +
-questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " + questionTriples.get(j).get(k)[2]);
+//		    			System.out.println("story " + Integer.toString(i) + " question " + Integer.toString(j) + " triple " + Integer.toString(k) + " = " +
+//questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " + questionTriples.get(j).get(k)[2]);
 		    		}
 		    		
 		    		for (int L = 0; L < choiceTriples.get(j).size(); L++) {
 		    			for (int m = 0; m < choiceTriples.get(j).get(L).size(); m++) {
-		    				System.out.println("\tstory " + Integer.toString(i) + " question " + Integer.toString(j) + " choice " + Integer.toString(L) +
-" triple " + Integer.toString(m) +  " = " + choiceTriples.get(j).get(L).get(m)[0] + " " + choiceTriples.get(j).get(L).get(m)[1] + " " + choiceTriples.get(j).get(L).get(m)[2]);
+//		    				System.out.println("\tstory " + Integer.toString(i) + " question " + Integer.toString(j) + " choice " + Integer.toString(L) +
+//" triple " + Integer.toString(m) +  " = " + choiceTriples.get(j).get(L).get(m)[0] + " " + choiceTriples.get(j).get(L).get(m)[1] + " " + choiceTriples.get(j).get(L).get(m)[2]);
 		    			}
 		    		}
 		    	}
@@ -125,47 +132,42 @@ questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " 
 			    		// initialize a new batch of triples
 				    	ArrayList<String[]> questionChoiceCombinedParse = new ArrayList<String[]>();
 				    	
-				    	// if dealing with a question starting with "what"
-				    	if (questionTriples.get(j).get(0)[2].equals("what")) {
+				    	// if dealing with a question starting with "what" or "which"
+				    	if (questionTriples.get(j).get(0)[2].equals("what") || questionTriples.get(j).get(0)[2].equals("which")) {
 				    		
 				    		// identify the verb
 				    		String verb = questionTriples.get(j).get(0)[1];
+				    		String rel = questionTriples.get(j).get(0)[0];
 				    		
-				    		// for the triples in the choice
+				    		// find out whether to substitute something other than "rootrel" from the choice
+			    			boolean nsubjpresent = false;
+			    			boolean dobjpresent = false;
 				    		for (int m = 0; m < choiceTriples.get(j).get(L).size(); m++) {
-				    			
-				    			// find the one containing the rootrel, i.e., for choices like "the rock" or "Mr. fish"
-				    			if (choiceTriples.get(j).get(L).get(m)[0].equals("rootrel")) {
-				    				
-				    				// identify the noun
-				    				String noun = choiceTriples.get(j).get(L).get(m)[2];
-				    				
-				    				// make a new triple with the noun as the subject that does the verb
-				    				String[] newTriple = {"nsubj", verb, noun};
-				    				
-				    				// add it to the new set of triples for this question-choice pair
-				    				questionChoiceCombinedParse.add(newTriple);
-				    				
+				    			if (choiceTriples.get(j).get(L).get(m)[0].equals("nsubj")) {
+				    				nsubjpresent = true;
+				    			} if (choiceTriples.get(j).get(L).get(m)[0].equals("dobj")) {
+				    				dobjpresent = true;
 				    			}
 				    		}
+				    		
+				    		// use "rootrel"
+				    		if (!nsubjpresent && !dobjpresent) {
+					    		// for the triples in the choice
+					    		for (int m = 0; m < choiceTriples.get(j).get(L).size(); m++) {
+					    			// find the one containing the rootrel, i.e., for choices like "the rock" or "Mr. fish"
+					    			if (choiceTriples.get(j).get(L).get(m)[0].equals("rootrel")) {
+					    				// identify the noun
+					    				String noun = choiceTriples.get(j).get(L).get(m)[2];
+					    				// make a new triple with the noun as the subject that does the verb
+					    				String[] newTriple = {rel, verb, noun};
+					    				// add it to the new set of triples for this question-choice pair
+					    				questionChoiceCombinedParse.add(newTriple);
+					    			}
+					    		}
+				    		} // else, do something with nsubj or dobj...
 				    						    		
 				    	}
-				    	else if (questionTriples.get(j).get(0)[2].equals("which")){
-				    		// identify the verb
-				    		String verb = questionTriples.get(j).get(0)[1];
-				    		// for the triples in the choice
-				    		for (int m = 0; m < choiceTriples.get(j).get(L).size(); m++) {
-				    			// find the one containing the rootrel, i.e., for choices like "the rock" or "Mr. fish"
-				    			if (choiceTriples.get(j).get(L).get(m)[0].equals("rootrel")) {
-				    				// identify the noun
-				    				String noun = choiceTriples.get(j).get(L).get(m)[2];
-				    				// make a new triple with the noun as the subject that does the verb
-				    				String[] newTriple = {"nsubj", verb, noun};
-				    				// add it to the new set of triples for this question-choice pair
-				    				questionChoiceCombinedParse.add(newTriple);
-				    			}
-				    		}
-				    	}
+
 				    	// add the rest of the triples from the question into the set of triples for this q-c pair
 				    	for (int n = 1; n < questionTriples.get(j).size(); n++) {
 				    		questionChoiceCombinedParse.add(questionTriples.get(j).get(n));
@@ -177,31 +179,80 @@ questionTriples.get(j).get(k)[0] + " " + questionTriples.get(j).get(k)[1] + " " 
 				    	
 			    	}
 			    	
-			    	// TODO: create relations and concepts as above + evaluate truth for each entry in questionChoiceCombinedParses
-			    		//for each qCCP
+			    	// for each qCCP
 			    	String[] letter = {"A","B","C","D"};
+			    	// initialize array of how many answers of each type we get for each q-c pair
+			    	int[] qcAnswerTrueCounts = {0,0,0,0};
+			    	int[] qcAnswerFalseCounts = {0,0,0,0};
+			    	int[] qcAnswerUnkCounts = {0,0,0,0};
 			    	for(int qc=0; qc<questionChoiceCombinedParses.size();qc++){
 			    		//for each triple in the qCCP
 					    for (int t = 0; t < questionChoiceCombinedParses.get(qc).size(); t++) {
 					    	//PowerLoomExample.printPowerLoomTruth("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
-					    	TruthValue answer = PLI.sAsk("("+String.join(" ", storyTriples.get(j))+")", workingModule, null);
-					    	if (PLI.isTrue(answer)) {
-					    	      System.out.println("Question "+j+" choice"+letter[qc]+" has a true triple");
-					    	    } else if (PLI.isFalse(answer)) {
-					    	      System.out.println("Question "+j+" choice"+letter[qc]+" has a false triple");
-					   		    } else if (PLI.isUnknown(answer)) {
-					    	      System.out.println("Question "+j+" choice"+letter[qc]+" has a unknown triple");
-					    	    }
+					    	
+					    	if (questionChoiceCombinedParses.get(qc).get(t)[0].equals("nsubj") || questionChoiceCombinedParses.get(qc).get(t)[0].equals("dobj")) {
+					    	
+					    		System.out.println("("+String.join(" ", questionChoiceCombinedParses.get(qc).get(t))+")");
+					    	
+						    	TruthValue answer = PLI.sAsk("("+String.join(" ", questionChoiceCombinedParses.get(qc).get(t))+")", workingModule, null);
+						    	if (PLI.isTrue(answer)) {
+						    	      System.out.println("Story "+i+" question "+j+" choice"+letter[qc]+" has a true triple");
+						    	      qcAnswerTrueCounts[qc]++;
+						    	    } else if (PLI.isFalse(answer)) {
+						    	      System.out.println("Story "+i+" question "+j+" choice"+letter[qc]+" has a false triple");
+						    	      qcAnswerFalseCounts[qc]++;
+						   		    } else if (PLI.isUnknown(answer)) {
+						    	      System.out.println("Story "+i+" question "+j+" choice"+letter[qc]+" has a unknown triple");
+						    	      qcAnswerUnkCounts[qc]++;
+						   		    }
 					    	}
-			    		}
-			    		
+				    	}
+		    		}
+			    	int bestAnswer = calcBestAnswer(qcAnswerTrueCounts, qcAnswerFalseCounts, qcAnswerUnkCounts);
+			    	answers.add(bestAnswer);
 		    	}
 		    	
-		    	
-		    	
-		    	
-			    
 		    }
+		    return answers;
 	  }
-
+	  
+	  public static int calcBestAnswer(int[] trueCands, int[] falseCands, int[] unkCands) {
+		  double trueWeight = 1;
+		  double unkWeight = 0;
+		  double falseWeight = -1;
+		  
+		  double[] totals = {0,0,0,0};
+		  
+		  for (int i = 0; i < trueCands.length; i++) {
+			  totals[i] += ((trueWeight * trueCands[i]) + (unkWeight * unkCands[i]) + (falseWeight * falseCands[i])); 
+		  }
+		  
+		  int ans = -1;
+		  
+		  double maxVal = getMax(totals);
+		  
+		  // hacky way to show when we're undecided by outputting -1; might not apply correctly in all cases
+		  if (maxVal == 0) {
+			  return ans;
+			  
+			// return the first of however many choices there are that share the max value  
+		  } else for (int i = 0; i < trueCands.length; i++) {
+			  if (totals[i] == maxVal) {
+				  ans = i;
+				  return ans;
+			  }
+		  }
+		  return ans;
+	  }
+	  
+	  public static double getMax(double[] inputArray) {
+		  double maxVal = inputArray[0];
+		  for (int i = 1; i < inputArray.length; i++) {
+			  if (inputArray[i] > maxVal) {
+				  maxVal = inputArray[i];
+			  }
+		  }
+		  return maxVal;
+	  }
+	  
 }

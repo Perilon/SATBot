@@ -39,8 +39,15 @@ public class Main {
 				
 //		m.getQuestionTypes(txt, lemmatizer);
 		
-		doPowerLoom(loomParams, storyRelations, storyQuestionRelations, storyChoiceRelations);
-
+		ArrayList<Integer> plAnswers = doPowerLoom(loomParams, storyRelations, storyQuestionRelations, storyChoiceRelations);
+		System.out.println("PowerLoom answers = " + plAnswers.toString());
+		
+		ArrayList<Integer> correctAnswers = m.getCorrectAnswers(txt);
+		System.out.println("Correct answers = " + correctAnswers.toString());
+		
+		double percentCorrect = m.calcPercentCorrect(correctAnswers, plAnswers);
+		System.out.println("Percent correct = " + Double.toString(percentCorrect));
+		
 	}
 	
 	public ArrayList<ArrayList<String[]>> processStoryTexts(String txt, Lemmatizer lemmatizer){
@@ -180,13 +187,50 @@ public class Main {
 		}
 	}
 	
-	public static void doPowerLoom(String[] params, ArrayList<ArrayList<String[]>> storyTextRelations,
+	public static ArrayList<Integer> doPowerLoom(String[] params, ArrayList<ArrayList<String[]>> storyTextRelations,
 			ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<ArrayList<ArrayList<ArrayList<String[]>>>> storyChoiceRelations) {
 		
 		createNewFile(params[0]);
 		
 		PowerLoom Loom = new PowerLoom();
-		Loom.initializePowerLoom(params, storyTextRelations, storyQuestionRelations, storyChoiceRelations);
+		ArrayList<Integer> answers = Loom.initializePowerLoom(params, storyTextRelations, storyQuestionRelations, storyChoiceRelations);
+		
+		return answers;
+	}
+	
+	
+	public static ArrayList<Integer> getCorrectAnswers(String txt) {
+		ArrayList<Integer> correctAnswers = new ArrayList<Integer>();
+		String[] txts = txt.split("\\*{51}");
+		ArrayList<Story> stories = new ArrayList<Story>();
+		for(int i=1; i < txts.length; i++){
+			stories.add(new Story(txts[i]));
+		}
+		
+		for (Story story : stories) {
+			ArrayList<Question> questions = story.questions;
+			for (Question question : questions) {
+				int correctAnswer = question.answer;
+				correctAnswers.add(correctAnswer);
+			}
+		}
+		return correctAnswers;
+	}
+	
+	public static double calcPercentCorrect(ArrayList<Integer> correctAns, ArrayList<Integer> candAns) {
+		
+		int lenCorr = correctAns.size();
+		int lenCand = candAns.size();
+		assert lenCorr == lenCand;
+		int numSame = 0;
+		for (int i = 0; i < lenCorr; i++) {
+			if (correctAns.get(i).equals(candAns.get(i))) {
+				numSame++;
+			}
+		}
+				
+		double ans = numSame / (double) lenCorr;
+		return ans;
 	}
 	
 	
