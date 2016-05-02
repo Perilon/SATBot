@@ -2,6 +2,12 @@ import edu.isi.powerloom.*;
 import edu.isi.powerloom.logic.*;
 import edu.isi.stella.Module;
 import edu.isi.stella.javalib.*;
+import net.sf.extjwnl.JWNLException;
+import net.sf.extjwnl.data.IndexWord;
+import net.sf.extjwnl.data.POS;
+import net.sf.extjwnl.data.Synset;
+import net.sf.extjwnl.data.Word;
+import net.sf.extjwnl.dictionary.Dictionary;
 import edu.isi.stella.Stella_Object;
 
 import java.io.File;
@@ -15,7 +21,7 @@ import java.io.*;
 
 
 public class PowerLoom {
-	
+	private static String[] powerLoomWords = {"name","thing","empty","different","range","set","float","heap","function","fork","void","mark"};
 	  private static void loadVerbosely (String filename) {
 	    System.out.print("  Loading " + filename + " ...");
 	    PLI.load(filename, null);
@@ -97,13 +103,22 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		    			concepts.add(storyTriples.get(j)[1]);
 		    			concepts.add(storyTriples.get(j)[2]);
 		    	}
-		    	
+		    	for(String w : powerLoomWords){
+	        		for(String c : concepts){
+	        			if (c.equals(w)){c="concept"+c;}
+	        		}
+	        		for(String r : relations){
+	        			if (r.equals(w)){r="relation"+r;}
+	        		}
+	        	}
 		    	for (String c : concepts){
 		    		PLI.sCreateConcept(c, null, workingModule, null);
 		    	}
+		    	assertSynonyms(concepts, workingModule, null);
 		    	for (String r : relations){
 		    		PLI.sCreateRelation(r, 2, workingModule, null);
 		    	}
+		    	
 		    	// All the triples in one sentence
 		    	for (int j = 0; j < storyTriples.size(); j++) {
 		  
@@ -254,5 +269,58 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		  }
 		  return maxVal;
 	  }
-	  
+	  public static void assertSynonyms(Set<String> concepts, String workingModule, String env){
+		 /* Dictionary d;
+		  for (String c : concepts){
+			try {
+				 Set<String> synonyms = new HashSet<String>();
+				d = Dictionary.getDefaultResourceInstance();
+				  IndexWord idx = d.getIndexWord(POS.VERB, c);
+				  if (idx != null){
+					 
+					  List<Synset> synSets = idx.getSenses();
+					  if (synSets != null){
+						  for (Synset synset : synSets){ 
+							  List<Word> words = synset.getWords();
+							  	for (Word word : words) { 
+							  		if (word.getLemma().toString().split(" ").length == 1)
+							  			synonyms.add(word.getLemma().toString());
+							  	}
+						  }
+					  }
+				  }
+				  idx = d.getIndexWord(POS.NOUN, c);
+				  if (idx != null){
+					  List<Synset> synSets = idx.getSenses();
+					  synSets = idx.getSenses();
+					  if (synSets != null){
+						  for (Synset synset : synSets){ 
+							  List<Word> words = synset.getWords();
+							  	for (Word word : words) { 
+							  		if (word.getLemma().toString().split(" ").length == 1 && !word.toString().matches(".*\\d+.*"))
+							  			synonyms.add(word.getLemma().toString());
+							  	}
+						  }
+					  }
+				  }
+				  System.out.println(synonyms);
+				  synonyms.removeAll(concepts);
+				  for (String s : synonyms){
+					  System.out.println(s);
+					  for(String w : powerLoomWords){
+			        	if (s.equals(w)){s="concept"+s;}
+					  }
+					  s =s.replaceAll("'", "SINGLEQUOTE");
+					  PLI.sCreateConcept(s, null, workingModule, null);
+					  PLI.sAssertProposition("(synonym "+s+" "+c+")",workingModule,null);
+				  }
+			} catch (JWNLException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		  }//end for loop over concepts*/
+		  PLI.sAssertProposition("(synonym eat enjoy)",workingModule, null);
+		
+		  
+	  }
 }
