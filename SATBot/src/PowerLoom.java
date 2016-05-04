@@ -242,22 +242,34 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 			  totals[i] += ((trueWeight * trueCands[i]) + (unkWeight * unkCands[i]) + (falseWeight * falseCands[i])); 
 		  }
 		  
-		  int ans = -1;
+		  int ans = -5;
 		  
 		  double maxVal = getMax(totals);
 		  
-		  // hacky way to show when we're undecided by outputting -1; might not apply correctly in all cases
+		  // hacky way to show when we're undecided by outputting -5; might not apply correctly in all cases
 		  if (maxVal == 0) {
 			  return ans;
 			  
 			// return the first of however many choices there are that share the max value  
-		  } else for (int i = 0; i < trueCands.length; i++) {
-			  if (totals[i] == maxVal) {
-				  ans = i;
-				  return ans;
+		  } else {
+			  int numMax = 0;
+			  for (int i = 0; i < trueCands.length; i++) {
+				  if (totals[i] == maxVal) {
+					  numMax++;
+				  }
 			  }
+			  if (numMax == 1) {
+				  for (int i = 0; i < trueCands.length; i++) {
+					  if (totals[i] == maxVal) {
+						  ans = i;
+						  return ans;
+					  }
+				  }
+			  } else {
+				  ans = 5;
+			  }
+			  return ans;
 		  }
-		  return ans;
 	  }
 	  
 	  public static double getMax(double[] inputArray) {
@@ -270,7 +282,7 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		  return maxVal;
 	  }
 	  public static void assertSynonyms(Set<String> concepts, String workingModule, String env){
-		 /* Dictionary d;
+		  Dictionary d;
 		  for (String c : concepts){
 			try {
 				 Set<String> synonyms = new HashSet<String>();
@@ -297,8 +309,10 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 						  for (Synset synset : synSets){ 
 							  List<Word> words = synset.getWords();
 							  	for (Word word : words) { 
-							  		if (word.getLemma().toString().split(" ").length == 1 && !word.toString().matches(".*\\d+.*"))
-							  			synonyms.add(word.getLemma().toString());
+							  		if (!word.equals("cop")) {
+								  		if (word.getLemma().toString().split(" ").length == 1 && !word.toString().matches(".*\\d+.*"))
+								  			synonyms.add(word.getLemma().toString());
+							  		}
 							  	}
 						  }
 					  }
@@ -318,8 +332,8 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		  }//end for loop over concepts*/
-		  PLI.sAssertProposition("(synonym eat enjoy)",workingModule, null);
+		  }//end for loop over concepts
+//		  PLI.sAssertProposition("(synonym eat enjoy)",workingModule, null);
 		
 		  
 	  }
