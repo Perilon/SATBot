@@ -73,7 +73,7 @@ Qual. score:      90
 Work Time(s):     1546
 Creativity Words: feed,sticker,facing,riding,smile,bench,sleep,present,animal,scare,soda,key,long,bantling,tree
 
-Billy was like a king on the school yard. A king without a queen. He was the biggest kid in our grade, so he made all the rules during recess. He was a big bully. He told kids what to do, what to play, what to sing, and called them names like "Dork". He always had a smile on his face as he sat on the bench next to the big tree and watched his "kingdom". All of the other kids were scared of him. Even I was scared of him. He was mean and he could beat you up if you made him angry. Last week, a very, very stupid kid chose not to listen to Billy. Billy beat him up and Mr.Stupid Kid told the grownups that he tripped. No one would dare get Billy in trouble. Billy was mean, but he kept the school yard from getting too crazy. Well I had enough it. Billy had been picking on us for too long and we had to stop him. I grabbed some fishing line from home and brought it to school the next day. Before recess, I tied a long piece of fishing line around the tree by Billy's bench and tied the other end to a big rock. Then I went inside for class. When it was recess, Billy sat on his bench and started yelling at people. This was it. I called out, "Hey you big dummy! You're not so tough". Billy's face turned red with anger and he started marching my way. Billy marched and then tripped over the fishing line. Billy was lying face down and he seemed to be crying. Everyone cheered. The king was down.
+Billy was like a king on the school yard. A king without a queen. He was the biggest kid in our grade, so he made all the rules during recess. He was a big bully. He told kids what to do, what to play, what to sing, and called them names like "Dork" . He always had a smile on his face as he sat on the bench next to the big tree and watched his "kingdom" . All of the other kids were scared of him. Even I was scared of him. He was mean and he could beat you up if you made him angry. Last week, a very, very stupid kid chose not to listen to Billy. Billy beat him up and Mr.Stupid Kid told the grownups that he tripped. No one would dare get Billy in trouble. Billy was mean, but he kept the school yard from getting too crazy. Well I had enough it. Billy had been picking on us for too long and we had to stop him. I grabbed some fishing line from home and brought it to school the next day. Before recess, I tied a long piece of fishing line around the tree by Billy's bench and tied the other end to a big rock. Then I went inside for class. When it was recess, Billy sat on his bench and started yelling at people. This was it. I called out, "Hey you big dummy! You're not so tough" . Billy's face turned red with anger and he started marching my way. Billy marched and then tripped over the fishing line. Billy was lying face down and he seemed to be crying. Everyone cheered. The king was down.
 
 1: multiple: Billy was like a...
  A) prince
@@ -322,7 +322,7 @@ Scott Alan woke up very early that morning in his bedroom in his house. He felt 
 
 "Oh, Boscoe!" the little boy said with joy as he kissed his furry little brown dog. The dog had been Scott's friend for as long as could remember. They went on many adventures together. The two of them really never left each other's side and Scott woke up many times this way.
 
-One of the most memorable adventures that Scott and Boscoe had happened when Scott was 12. Scott wanted to have a little fun. He also wanted to adventure with Boscoe. Scott had got done eating breakfast and wanted to ride his bicycle. Boscoe was walking and Scott was riding his bicycle down by the park very close to the river near Scott's house. He wanted to do a little adventuring. Boscoe was walking next to the shore and started barking his head off! Scott wasn't sure what he was barking at, so he got off his bicycle and ran down into the river to see what all the noise was about. 
+One of the most memorable adventures that Scott and Boscoe had happened when Scott was twelve. Scott wanted to have a little fun. He also wanted to adventure with Boscoe. Scott had got done eating breakfast and wanted to ride his bicycle. Boscoe was walking and Scott was riding his bicycle down by the park very close to the river near Scott's house. He wanted to do a little adventuring. Boscoe was walking next to the shore and started barking his head off! Scott wasn't sure what he was barking at, so he got off his bicycle and ran down into the river to see what all the noise was about. 
 
 All of the sudden, Boscoe fell in the water and was taken down stream with the fast water. Scott yelled, "Boscoe!" and he was off. He jumped into the water and began swimming after Boscoe. Boscoe's little legs were doggy paddling as fast as they could, but had no hope! Finally, Scott caught up to him, but he couldn't get back to the side of the river!
 
@@ -444,19 +444,19 @@ Qual. score:      90
 Work Time(s):     711
 Creativity Words: turn,get,god,ankle,cup,house,hair,thunder,shouting,weekend,driver,pink,lunch,peach,try
 
-Once upon a time, there was an old man named John. John loved to eat peaches. In fact, John's whole family, including his mother Stephanie, his father Bob, and his brother James loved to eat peaches. John would eat peaches in the morning for breakfast, in the afternoon for lunch, and in the evening for dinner. John and his best friend, Rick, shared their love for peaches. One day John and Rick started a peach farm so that they would never run out of their favorite fruit. They planted hundreds of peach trees and waited for them to bear fruit. After 6 years of waiting, 1 lonely peach finally grew on one of the trees John and Rick planted. They picked the peach and brought it home. They waited until the weekend to eat it in case more peaches grew, but none did. John and Rick were sad and confused about their farm. They planted hundreds of trees and were sure that there would be thousands of peaches for them to eat in no time. Another peach never grew on their farm for 17 years. One day, a mighty crack of thunder led to a strong storm. Lightning hit the ground over and over, and John and Rick were scared their trees might be killed. The next morning, every tree on the farm had more than 10 peaches on it. John and Rick started shouting for joy.
+Once upon a time, there was an old man named John. John loved to eat peaches. In fact, John's whole family, including his mother Stephanie, his father Bob, and his brother James loved to eat peaches. John would eat peaches in the morning for breakfast, in the afternoon for lunch, and in the evening for dinner. John and his best friend, Rick, shared their love for peaches. One day John and Rick started a peach farm so that they would never run out of their favorite fruit. They planted hundreds of peach trees and waited for them to bear fruit. After six years of waiting, one lonely peach finally grew on one of the trees John and Rick planted. They picked the peach and brought it home. They waited until the weekend to eat it in case more peaches grew, but none did. John and Rick were sad and confused about their farm. They planted hundreds of trees and were sure that there would be thousands of peaches for them to eat in no time. Another peach never grew on their farm for seventeen years. One day, a mighty crack of thunder led to a strong storm. Lightning hit the ground over and over, and John and Rick were scared their trees might be killed. The next morning, every tree on the farm had more than ten peaches on it. John and Rick started shouting for joy.
 
 1: multiple: How many trees did John and Rick plant?
  A) Thousands
 *B) Hundreds
- C) 6
- D) 17
+ C) six
+ D) seventeen
 
 2: multiple: How many years did it take for the first peach to grow?
- A) 10
- B) 17
- C) 1
-*D) 6
+ A) ten
+ B) seventeen
+ C) one
+*D) six
 
 3: one: Who was John's best friend?
 *A) Rick
@@ -546,7 +546,7 @@ Qual. score:      85
 Work Time(s):     1109
 Creativity Words: sleeve,frosting,take,name,pain,tiger,juice,kitchen,kid,shape,feather,whisper,square,rinse,corn
 
-Brendan loves cats.  He owns 8 cats.  He has 7 girl cats and only 1 boy cat.  Brendan brushes the cats' hair every day.  He makes sure to feed them every morning and evening and always checks to see if the cats have water.  Sometimes he feeds them special treats because he loves them.    Each cat gets 3 treats.  He doesn't give them food like chips and cake and candy, because those foods aren't good for cats.  He likes to play with the cats.  The cats like to chase balls of paper that Brendan makes for them.   Some of his cats have orange fur, some have black fur, some are spotted and one is white.  The white cat is Brendan's favorite.  She is the first cat he owned.  Her name is Snowball.  When he first got Snowball she was a kitten.  His other cats are named Fluffy, Salem, Jackie, Cola, Snickers, Pumpkin and Whiskers.
+Brendan loves cats.  He owns eight cats.  He has seven girl cats and only one boy cat.  Brendan brushes the cats' hair every day.  He makes sure to feed them every morning and evening and always checks to see if the cats have water.  Sometimes he feeds them special treats because he loves them.    Each cat gets three treats.  He doesn't give them food like chips and cake and candy, because those foods aren't good for cats.  He likes to play with the cats.  The cats like to chase balls of paper that Brendan makes for them.   Some of his cats have orange fur, some have black fur, some are spotted and one is white.  The white cat is Brendan's favorite.  She is the first cat he owned.  Her name is Snowball.  When he first got Snowball she was a kitten.  His other cats are named Fluffy, Salem, Jackie, Cola, Snickers, Pumpkin and Whiskers.
 
 1: one: Who makes the paper balls the cats play with?
  A) Whiskers
@@ -652,7 +652,7 @@ Qual. score:      85
 Work Time(s):     835
 Creativity Words: hide,fist,yard,dream,diaper,hurry,string,liking,cereal,middle,size,dropping,place,silly,out
 
-Kelly woke up one morning and went outside to her back yard. She was in a hurry because it was Mother's Day and she had to collect flowers before her mom woke up to give to her as a present. She was going to give her mom the biggest, most beautiful bunch of flowers her mother had ever seen. She knew where the best flowers were in her yard. She got a lot of different sized flowers. The red ones were big, the orange ones were small, and the green ones were in the middle. After Kelly collected all of the flowers, she went inside and tied them together with string. After that, she had to hide the flowers in a secret spot. She hoped her baby sister Morgan, who was still in diapers, wouldn't find the flowers and eat them. Kelly was worried, so she hid them in a new spot that was up higher. Finally, her mother woke up at 8:30 AM, and Kelly was excited! Kelly gave her mother the flowers. Her mother's favorite was the red one.
+Kelly woke up one morning and went outside to her back yard. She was in a hurry because it was Mother's Day and she had to collect flowers before her mom woke up to give to her as a present. She was going to give her mom the biggest, most beautiful bunch of flowers her mother had ever seen. She knew where the best flowers were in her yard. She got a lot of different sized flowers. The red ones were big, the orange ones were small, and the green ones were in the middle. After Kelly collected all of the flowers, she went inside and tied them together with string. After that, she had to hide the flowers in a secret spot. She hoped her baby sister Morgan, who was still in diapers, wouldn't find the flowers and eat them. Kelly was worried, so she hid them in a new spot that was up higher. Finally, her mother woke up at eight-thirty AM, and Kelly was excited! Kelly gave her mother the flowers. Her mother's favorite was the red one.
 
 1: multiple: Why did Kelly hide the flowers a second time?
  A) Because the first spot was too easy
@@ -674,8 +674,8 @@ Kelly woke up one morning and went outside to her back yard. She was in a hurry 
 
 4: one: What time did Kelly's mother wake up?
  A) After Kelly picked the flowers
-*B) 8:30 AM
- C) 8:30 PM
+*B) Eight-thirty AM
+ C) Eight-thirty PM
  D) When Kelly woke up
 
 
@@ -764,7 +764,7 @@ Qual. score:      90
 Work Time(s):     760
 Creativity Words: chalk,doll,sit,plate,shut,talk,spanking,glove,spill,keeping,sister,ocean,sounding,look,face
 
-One day, my family took a vacation to the beach. We were in our car for over 10 hours but it felt like we were in the car for maybe 11, 12, or 13 hours! We thought it would only be 8 hours, but we got lost. My mom and dad were in the front seat, and my sister and I were in the back seat. My sister and I were very bored, but we had to sit still and stay quiet for a lot of the time because our dad needed to be a good driver. My sister and I played with our dolls, or we tried to play easy games. I could not read or eat in the car because I felt too sick. My sister spilled Coke on the car and my mom spanked her with a glove. The look of sadness on my sister's face almost made me cry, too! We got to the ocean so late at night, but we took a nice walk next to the ocean and then we went to bed. We were so tired from doing nothing all day! The next morning we woke up early and ran to the beach and we saw so many animals! We saw dolphins, turtles, and fish! We were hoping to see a shark, but I'm glad we did not. When it was lunch time we played with some chalk and mother made lunch. I was very happy and had a great vacation!
+One day, my family took a vacation to the beach. We were in our car for over teh hours but it felt like we were in the car for maybe eleven, twelve, or thirteen hours! We thought it would only be eight hours, but we got lost. My mom and dad were in the front seat, and my sister and I were in the back seat. My sister and I were very bored, but we had to sit still and stay quiet for a lot of the time because our dad needed to be a good driver. My sister and I played with our dolls, or we tried to play easy games. I could not read or eat in the car because I felt too sick. My sister spilled Coke on the car and my mom spanked her with a glove. The look of sadness on my sister's face almost made me cry, too! We got to the ocean so late at night, but we took a nice walk next to the ocean and then we went to bed. We were so tired from doing nothing all day! The next morning we woke up early and ran to the beach and we saw so many animals! We saw dolphins, turtles, and fish! We were hoping to see a shark, but I'm glad we did not. When it was lunch time we played with some chalk and mother made lunch. I was very happy and had a great vacation!
 
 1: multiple: What did my sister and I do in the car and what could I not do?
  A) We played with dolls. I could not play easy games.
@@ -1049,7 +1049,7 @@ Qual. score:      95
 Work Time(s):     818
 Creativity Words: seat,eye,washing,straw,facing,hold,zoo,blow,claw,bathroom,movie,bite,cutie,voice,toothpaste
 
-In a zoo, many animals have claws: birds, dogs and lions. Even some monkeys have claws! One summer day, the eyes of many visitors were facing the lion cage. It was like the famous movie "The Lion King". One lion cub had been born and was drinking from its mother. There was a straw bed for the lions to sleep on, and all visitors loved to watch the baby lion cub. Well, a monkey (with claws) came into the lion's cage all of a sudden! But the lions weren't afraid, because they are kings of the animal world. Also, they had seen the movie and knew what the monkeys wanted. So it happened that the monkey took the cub from its mother into its hands. It walked over to the gate by the visitors and held up the cub for all to see! People cried. People took pictures. They were seeing the real-life 'Lion King'!
+In a zoo, many animals have claws: birds, dogs and lions. Even some monkeys have claws! One summer day, the eyes of many visitors were facing the lion cage. It was like the famous movie "The Lion King" . One lion cub had been born and was drinking from its mother. There was a straw bed for the lions to sleep on, and all visitors loved to watch the baby lion cub. Well, a monkey (with claws) came into the lion's cage all of a sudden! But the lions weren't afraid, because they are kings of the animal world. Also, they had seen the movie and knew what the monkeys wanted. So it happened that the monkey took the cub from its mother into its hands. It walked over to the gate by the visitors and held up the cub for all to see! People cried. People took pictures. They were seeing the real-life 'Lion King'!
 
 1: one: Where was the cub laying?
  A) at night
@@ -1065,7 +1065,7 @@ In a zoo, many animals have claws: birds, dogs and lions. Even some monkeys have
 
 3: multiple: Why were the people crying and taking pictures?
  A) because it's the circle of life
-*B) because it was a real-life "Lion King".
+*B) because it was a real-life "Lion King" .
  C) because monkeys have claws
  D) because the lions allowed the monkey to take the cub
 
@@ -1083,7 +1083,7 @@ Qual. score:      90
 Work Time(s):     798
 Creativity Words: helping,sit,granddaughter,move,size,drier,button,telephone,duck,sidewalk,sing,racer,costume,heading,toilet
 
-Jessica went to sit in her rocking chair. Today was her birthday and she was turning 80. Her granddaughter Annie was coming over in the afternoon and Jessica was very excited to see her. Her daughter Melanie and Melanie's husband Josh were coming as well. Jessica had a lot to do before they got here, but she was very tired. After taking a nap for half an hour Jessica got up and walked to the drier. She moved the dry clothes into a basket. Next, she took the clothes out of the washer and put them into the drier. She pressed the button on the drier to get it started then walked back out of the room. She also needed to feed her duck. The chickens in her backyard did not need to be fed as they belonged to her neighbor. Jack the dog had been fed earlier that morning and Becky the cat always had food in her bowl. After Jessica finished feeding the duck she came inside and heard the telephone ringing. She answered the phone to hear Annie's excited voice say "Happy birthday grandma!" Annie said they would be over very soon. Jessica smiled because she loved her family more than anything. She was very excited. She sat back on her rocking chair and waited until her family arrived.
+Jessica went to sit in her rocking chair. Today was her birthday and she was turning eighty. Her granddaughter Annie was coming over in the afternoon and Jessica was very excited to see her. Her daughter Melanie and Melanie's husband Josh were coming as well. Jessica had a lot to do before they got here, but she was very tired. After taking a nap for half an hour Jessica got up and walked to the drier. She moved the dry clothes into a basket. Next, she took the clothes out of the washer and put them into the drier. She pressed the button on the drier to get it started then walked back out of the room. She also needed to feed her duck. The chickens in her backyard did not need to be fed as they belonged to her neighbor. Jack the dog had been fed earlier that morning and Becky the cat always had food in her bowl. After Jessica finished feeding the duck she came inside and heard the telephone ringing. She answered the phone to hear Annie's excited voice say "Happy birthday grandma!" Annie said they would be over very soon. Jessica smiled because she loved her family more than anything. She was very excited. She sat back on her rocking chair and waited until her family arrived.
 
 1: multiple: What was the Grandmother's name?
 *A) Jessica
@@ -1281,7 +1281,7 @@ One day the children learned the tree was going to be cut down. This made the ch
 
 The children were very sad to hear about this. They wondered where they would play from now on. The tree was their favorite place and they didn't want to see it go. One little boy, named John, went home to tell his parents the story. His parents could tell he was sad so they told him something that made him very happy. What was it? He wondered. Was a jungle gym going to be put in? A mall, maybe a park? In fact, even better than that, a new tree would be planted in its place.
 
-John was so happy he rushed off to tell his friends. "Big news!", he shouted. "My parents told me a new tree is going to be planted here over the old one!" All his friends cheered in excitement, now knowing they wouldn't lose their favorite spot. John and his friends went to celebrate by getting ice cream. His friends liked chocolate and vanilla but John got strawberry.
+John was so happy he rushed off to tell his friends. "Big news!" he shouted. "My parents told me a new tree is going to be planted here over the old one!" All his friends cheered in excitement, now knowing they wouldn't lose their favorite spot. John and his friends went to celebrate by getting ice cream. His friends liked chocolate and vanilla but John got strawberry.
 
 1: one: What kind of animals liked the bottom of the tree?
  A) Birds.
@@ -1419,7 +1419,7 @@ Creativity Words: tickle,read,empty,pudding,freezer,finger,reach,tissue,sled,oin
 
 James the Turtle was always getting in trouble. Sometimes he'd reach into the freezer and empty out all the food. Other times he'd sled on the deck and get a splinter. His aunt Jane tried as hard as she could to keep him out of trouble, but he was sneaky and got into lots of trouble behind her back.
 
-One day, James thought he would go into town and see what kind of trouble he could get into. He went to the grocery store and pulled all the pudding off the shelves and ate two jars. Then he walked to the fast food restaurant and ordered 15 bags of fries. He didn't pay, and instead headed home.
+One day, James thought he would go into town and see what kind of trouble he could get into. He went to the grocery store and pulled all the pudding off the shelves and ate two jars. Then he walked to the fast food restaurant and ordered fifteen bags of fries. He didn't pay, and instead headed home.
 
 His aunt was waiting for him in his room. She told James that she loved him, but he would have to start acting like a well-behaved turtle.
 
@@ -1529,7 +1529,7 @@ Qual. score:      100
 Work Time(s):     365
 Creativity Words: girl,planting,stair,meal,sea,mother,people,smell,heaven,kite,sing,ride,belting,cut,fast
 
-Katie was excited today because she was going to make her favorite meal! There were three things Katie had to do to get ready to make her favorite meal. First, she had to go to the store. Second, she had to cook her meal. Third, she had to eat it! Katie's favorite meal was pizza, but she liked to make it at home all by herself. First, she went to the store. Katie bought four things: a pizza crust, tomato sauce, cheese and pepperonis. She put it all in her car and drove it home! Next, she turned on her oven and put the sauce on the pizza crust. She sprinkled the cheese all over the pizza and then put the pepperonis on top. Katie put the pizza in the oven for half an hour. When she took it out, it was done! Katie was very happy. She ate 3 slices of pizza and went to bed.
+Katie was excited today because she was going to make her favorite meal! There were three things Katie had to do to get ready to make her favorite meal. First, she had to go to the store. Second, she had to cook her meal. Third, she had to eat it! Katie's favorite meal was pizza, but she liked to make it at home all by herself. First, she went to the store. Katie bought four things: a pizza crust, tomato sauce, cheese and pepperonis. She put it all in her car and drove it home! Next, she turned on her oven and put the sauce on the pizza crust. She sprinkled the cheese all over the pizza and then put the pepperonis on top. Katie put the pizza in the oven for half an hour. When she took it out, it was done! Katie was very happy. She ate three slices of pizza and went to bed.
 
 1: one: How many steps does it take for Katie to make her favorite food?
  A) one
@@ -1615,7 +1615,7 @@ One day Pauly was asking the people watching him to shave him when James, anothe
  C) Because he didn't fall asleep
  D) Because he was hairy
 
-3: multiple: Who yelled "That's no monkey, that's Pauly!"?
+3: multiple: Who yelled "That's no monkey, that's Pauly" ?
  A) Garth
  B) Zip
  C) Pat
@@ -2300,7 +2300,7 @@ Qual. score:      85
 Work Time(s):     1023
 Creativity Words: count,not,licking,lamp,can,wear,sip,trouble,mean,winding,seat,use,cook,firing,second
 
-Last Saturday was the best day of Timmy's summer. After waking up at nine and turning on his lamp, Timmy ran downstairs, counting the steps as he always did. There were always seven. At the bottom, he jumped over his dog Lucky who was licking himself clean. Timmy took a bite of toast and a sip of the orange juice his mom Suzie had left on the table for him before running outside to check the mail. Before he made it down the steps, he almost tripped on a big package waiting for him. It was here! Timmy's birthday present from his grandmother Betty had arrived. He brought it into the kitchen, where his dad Ryan was waiting for him with a grin on his face. As Timmy tore into the package, he found the greatest present he could have asked for. It was a huge water gun! Timmy immediately filled it up and ran outside to begin playing. His neighbor Maeby came outside with her water hose after eating her sandwich and the two got in a water fight! Soon, Timmy's dad came outside to play too! He brought 11 water balloons. Soon all five of Timmy's friends were playing in the water with each other. Timmy's water gun was the best toy out there. It worked by winding up the handle before firing the water. Soon it was evening and Timmy's dad was firing up the grill to cook hotdogs and hamburgers for Timmy's friends and their families.
+Last Saturday was the best day of Timmy's summer. After waking up at nine and turning on his lamp, Timmy ran downstairs, counting the steps as he always did. There were always seven. At the bottom, he jumped over his dog Lucky who was licking himself clean. Timmy took a bite of toast and a sip of the orange juice his mom Suzie had left on the table for him before running outside to check the mail. Before he made it down the steps, he almost tripped on a big package waiting for him. It was here! Timmy's birthday present from his grandmother Betty had arrived. He brought it into the kitchen, where his dad Ryan was waiting for him with a grin on his face. As Timmy tore into the package, he found the greatest present he could have asked for. It was a huge water gun! Timmy immediately filled it up and ran outside to begin playing. His neighbor Maeby came outside with her water hose after eating her sandwich and the two got in a water fight! Soon, Timmy's dad came outside to play too! He brought eleven water balloons. Soon all five of Timmy's friends were playing in the water with each other. Timmy's water gun was the best toy out there. It worked by winding up the handle before firing the water. Soon it was evening and Timmy's dad was firing up the grill to cook hotdogs and hamburgers for Timmy's friends and their families.
 
 1: multiple: What was in Timmy's package?
  A) A hose
@@ -2412,7 +2412,7 @@ Qual. score:      95
 Work Time(s):     1610
 Creativity Words: meat,sun,second,last,blood,phone,cone,poop,rule,drawing,hush,lake,toothpaste,wear,blacking
 
-Angie went to the library with her mother.  First she had to turn in the books she was returning at the return desk.  They said hello to the man there.  He took their books.  Then they went into the adult reading room.  Angie sat in a brown chair at the table.  She made a drawing of her mother.  Her mother found a large red book.  Then they went to the Mystery section.  Angie sat in a blue chair.  She drew a picture of her brother.  Her mother found the book.  It was a green book.  Finally it was time to go to the children's room.  It was Story Hour.  Miss Hudson was there to read to all the children.  She read a book about friendship. After the story Angie sat in the red chair and began drawing.  They were drawing pictures of friends.  Angie drew a picture of her best friend Lilly.  Miss Hudson hung the pictures on the wall.  Then Angie and her mother picked out 8 books to read at home.  They checked the books out and went home.
+Angie went to the library with her mother.  First she had to turn in the books she was returning at the return desk.  They said hello to the man there.  He took their books.  Then they went into the adult reading room.  Angie sat in a brown chair at the table.  She made a drawing of her mother.  Her mother found a large red book.  Then they went to the Mystery section.  Angie sat in a blue chair.  She drew a picture of her brother.  Her mother found the book.  It was a green book.  Finally it was time to go to the children's room.  It was Story Hour.  Miss Hudson was there to read to all the children.  She read a book about friendship. After the story Angie sat in the red chair and began drawing.  They were drawing pictures of friends.  Angie drew a picture of her best friend Lilly.  Miss Hudson hung the pictures on the wall.  Then Angie and her mother picked out eight books to read at home.  They checked the books out and went home.
 
 1: one: Angie said hello to someone.  Who was it?
 *A) the man at the return desk
@@ -2737,7 +2737,7 @@ Creativity Words: help,library,sleep,corn,scissor,outside,flower,sock,stripe,wat
 
 Robin's First Flight
 
-Robin was a little baby bird who was born only 6 weeks before.  Her mother took care of her and her brothers and sister by feeding them bugs and worms.  Robin had 2 brothers.  She also had one sister.  During this time, Robin grew and grew and got stronger and stronger.  Her feathers got longer, too.  
+Robin was a little baby bird who was born only six weeks before.  Her mother took care of her and her brothers and sister by feeding them bugs and worms.  Robin had two brothers.  She also had one sister.  During this time, Robin grew and grew and got stronger and stronger.  Her feathers got longer, too.  
 
 The day had finally come when mother bird told Robin and her brothers and sister that they would be learning to fly for the first time.  Chirps of joy were heard from all the baby birds.  All except for Robin.  She was too afraid to fly out into the world.  She wanted to stay in her comfy nest with all of her family for the rest of her life.  She also wanted her mother to feed her for the rest of her life. Mother bird told Robin how exciting it was to fly and see all the beautiful flowers and trees and told her she would help her learn like she did when she was a baby bird. She told her that she would meet lots of other bird friends, too. 
 
@@ -3153,7 +3153,7 @@ Qual. score:      90
 Work Time(s):     527
 Creativity Words: frown,bean,morning,orange,bib,kitten,racer,gum,chicken,pie,bush,lunch,fluff,frog,rainbow
 
-One day, a boy named Jack wanted take a trip on his red tricycle. He was not sure where he wanted to go, but he knew he wanted to go somewhere far away.  It was a cloudy and chilly day, so Jack wore a warm shirt.  Jack worried that he might get lonely on his trip.  He borrowed his mother's phone and taped it to the handle bars of his tricycle so he could call home. He also put his music player in his pocket. Jack put some left over pizza in his backpack in case he got hungry. Jack pedaled down his driveway, heading out on his big trip. When he got to the end of his driveway, Mrs. Jones, his teacher from school, was walking by on the sidewalk. "Hello Jack", said Mrs. Jones, "Where are you going on that nice red tricycle?" "I'm going on a trip to someplace far away" said Jack. Mrs. Jones smiled, and thought for a second. "Make sure you are back by morning, we have a field trip tomorrow", said Mrs. Jones.  Jack had been waiting for the field trip for weeks. He looked at Mrs. Jones and said, "I think I'll wait to take a trip until I can fly. I don't want to miss the field trip and this tricycle is not very fast."
+One day, a boy named Jack wanted take a trip on his red tricycle. He was not sure where he wanted to go, but he knew he wanted to go somewhere far away.  It was a cloudy and chilly day, so Jack wore a warm shirt.  Jack worried that he might get lonely on his trip.  He borrowed his mother's phone and taped it to the handle bars of his tricycle so he could call home. He also put his music player in his pocket. Jack put some left over pizza in his backpack in case he got hungry. Jack pedaled down his driveway, heading out on his big trip. When he got to the end of his driveway, Mrs. Jones, his teacher from school, was walking by on the sidewalk. "Hello Jack" said Mrs. Jones, "Where are you going on that nice red tricycle?" "I'm going on a trip to someplace far away" said Jack. Mrs. Jones smiled, and thought for a second. "Make sure you are back by morning, we have a field trip tomorrow" said Mrs. Jones.  Jack had been waiting for the field trip for weeks. He looked at Mrs. Jones and said, "I think I'll wait to take a trip until I can fly. I don't want to miss the field trip and this tricycle is not very fast."
 
 1: multiple: Why did Jack wait to take his trip?
  A) He got hungry
@@ -3471,14 +3471,14 @@ Qual. score:      90
 Work Time(s):     6016
 Creativity Words: booger,pan,guy,sister,chocolate,drop,chin,angel,lied,belly,vanilla,bubble,noodle,frown,quiet
 
-Fox was hungry. He was very hungry because he had not eaten in 3 days. Bird flew to Fox's home and talked to him. Bird asked Fox why he had not eaten in so long. Fox said it was too cold outside. Bird said "But you have such nice, thick fur!" 
+Fox was hungry. He was very hungry because he had not eaten in three days. Bird flew to Fox's home and talked to him. Bird asked Fox why he had not eaten in so long. Fox said it was too cold outside. Bird said "But you have such nice, thick fur!" 
 	Fox said, "Well I am really too lazy." Bird said he would bring Fox any food he saw when he was flying around and left. 
 	Bird flew to other side of the forest to visit Tiger, but he did not see any food on the way. Tiger was reading a book about cooking. "Hmm, there are so many delicious foods I have not tried yet." Bird arrived at Tiger's den and said "Hello Tiger, what are you doing?" Tiger said "I am trying to think of what to have for dinner." 
 	"How can you choose?" asked Bird. 
 	"Why don't we pick a color and eat something that is that color" said Tiger. 
 	"How about red?" said Bird. 
 	"Yes! Like a fox!" said Tiger. 
-	"I know where a fox is!" said Bird, "I'll show you." So Tiger followed Bird all the way across the forest. Finally they arrived outside Fox's home. "Pretend you are asleep and wait right here", said Bird to Tiger. Bird then flew in to Fox's home very happy. "Fox, I have found a big yummy treat for you and you won't ever be hungry again! Follow me outside." Fox followed Bird outside and said "WOW! A whole tiger! Yum!" Then Tiger jumped up and gobbled up Fox in one bite. Fox was now inside Tiger's belly and he yelled out "Bird, you lied to me! Why?!" 
+	"I know where a fox is!" said Bird, "I'll show you." So Tiger followed Bird all the way across the forest. Finally they arrived outside Fox's home. "Pretend you are asleep and wait right here" said Bird to Tiger. Bird then flew in to Fox's home very happy. "Fox, I have found a big yummy treat for you and you won't ever be hungry again! Follow me outside." Fox followed Bird outside and said "WOW! A whole tiger! Yum!" Then Tiger jumped up and gobbled up Fox in one bite. Fox was now inside Tiger's belly and he yelled out "Bird, you lied to me! Why?!" 
 	"Because you ate my sister!" yelled Bird. 
 	"That wasn't me, it was Snake!" cried Fox. 
 	"Oh. Um, sorry Fox. Well at least you don't have to hunt for food now" said Bird. Tiger laughed so hard that he coughed up Fox. Then they all went and got ice cream.
@@ -4197,7 +4197,7 @@ Creativity Words: bow,bye,tie,pumpkin,family,spanking,dad,name,rain,mouth,let,di
 
 One day, Harry bought a pet hamster name Tom. Tom was round and furry and had a funny smell. Harry loved it when Tom would climb up his arm and into his shirt sleeve. Every day before bed Harry would put Tom into his cage and every morning Harry would take Tom out of his cage and carry him around in his front shirt pocket during the day. Harry would carry Tom everywhere he went. Harry's favorite thing to do was to watch Tom run around in his exercise wheel. 
 
-Then one day Harry woke and to find that Tom was not in his cage. Tom had gone missing! This made Harry very upset. He looked everywhere for Tom, wondering where he could have disappeared to. Harry called his friends John, Rodney, and Bruno to ask if they knew where Tom was. They said that they didn't know. So Tom asked them if they would help him look for Tom. Only John and Bruno said "yes". to help Harry. After looking for Tom for two hours Bruno found Tom inside an old sock behind Harry's desk. No one knew how he got there.
+Then one day Harry woke and to find that Tom was not in his cage. Tom had gone missing! This made Harry very upset. He looked everywhere for Tom, wondering where he could have disappeared to. Harry called his friends John, Rodney, and Bruno to ask if they knew where Tom was. They said that they didn't know. So Tom asked them if they would help him look for Tom. Only John and Bruno said "yes" to help Harry. After looking for Tom for two hours Bruno found Tom inside an old sock behind Harry's desk. No one knew how he got there.
 
 1: one: During the day, where would Harry put Tom?
  A) In his shirt sleeve.
@@ -4487,7 +4487,7 @@ Qual. score:      85
 Work Time(s):     3152
 Creativity Words: feathering,yogurt,wind,letter,cool,knob,lap,ride,eye,unicorn,finger,bantling,smash,turtle,wood
 
-Sally always loved the ocean. Whenever her parents would talk about going to the beach, she would get so excited that she couldn't sleep the night before. Tonight was one of those nights. As she lay in bed, Sally couldn't help but think of all the fun things she would be doing the next day. She would build sand castles, splash in the water, and play Frisbee with her older brother, Jared. All of theses thoughts and more raced through her head, until finally she fell asleep. In the early hours of the morning, Sally awoke to her brother making loud noises in her ear. He was so annoying. A little bit later, her mother and father came in the room, helping Sally and Jared get ready for the day. When everyone was dressed and all of their belongings were packed, the whole family set off for a day of fun in the sun. The ride was long and their van was hot and stuffy, even with the windows rolled down. After what seemed like hours, Sally spotted the road sign signaling that the beach was close! Sally's mother said that they could stop for some frozen yogurt on the way since it was so hot outside. Sally and Jared both cheered. They pulled up to the shop and went inside, the cool air hitting their faces as they opened the door. There were so many different flavors! Jared always got chocolate, because that was Dad's favorite flavor, too. Mom chose strawberry because it seemed perfect for this hot weather. Sally couldn't choose. She really wanted mint chocolate chip, but they were all out. Finally she chose the shop's special flavor "Tropical Turtle". The family left with smiles on their faces, ready to have a great day at the beach.
+Sally always loved the ocean. Whenever her parents would talk about going to the beach, she would get so excited that she couldn't sleep the night before. Tonight was one of those nights. As she lay in bed, Sally couldn't help but think of all the fun things she would be doing the next day. She would build sand castles, splash in the water, and play Frisbee with her older brother, Jared. All of theses thoughts and more raced through her head, until finally she fell asleep. In the early hours of the morning, Sally awoke to her brother making loud noises in her ear. He was so annoying. A little bit later, her mother and father came in the room, helping Sally and Jared get ready for the day. When everyone was dressed and all of their belongings were packed, the whole family set off for a day of fun in the sun. The ride was long and their van was hot and stuffy, even with the windows rolled down. After what seemed like hours, Sally spotted the road sign signaling that the beach was close! Sally's mother said that they could stop for some frozen yogurt on the way since it was so hot outside. Sally and Jared both cheered. They pulled up to the shop and went inside, the cool air hitting their faces as they opened the door. There were so many different flavors! Jared always got chocolate, because that was Dad's favorite flavor, too. Mom chose strawberry because it seemed perfect for this hot weather. Sally couldn't choose. She really wanted mint chocolate chip, but they were all out. Finally she chose the shop's special flavor "Tropical Turtle" . The family left with smiles on their faces, ready to have a great day at the beach.
 
 1: one: What flavor of frozen yogurt did Sally choose?
  A) Mint chocolate chip.
@@ -4595,7 +4595,7 @@ Qual. score:      85
 Work Time(s):     1335
 Creativity Words: bean,spaghetti,drink,fell,hold,nana,granddaughter,ice,nap,popcorn,burn,hill,meet,juice,diaper
 
-While walking in the park on Monday with my granddaughter Tina, we saw an ice cream truck pull up on the street. "Can we get ice cream, Nana?" asked Tina. "Sure we can!" I answered. As we started heading up the hill to the truck, my granddaughter was scared by a bird who had swooped by her face. "Nana, that bird almost made me fall down the hill!" Laughing at what was said, I answered, "If you fell you might have taken Nana down with you!" Once we reached the ice cream truck, Tina saw that they not only had ice cream but also carried popcorn, hotdogs, juice and soda. "Nana, instead of ice cream may I get popcorn and juice?" she asked. "If that is what you want, you sure can!" I answered. We got our food and headed to the picnic table. On our way over we saw a child who Tina knew from her kindergarten class. "Nana, may we go and say hello to Mary?" "Let's go!" We made it over to where Mary and her family were sitting and Tina saw a bright blue butterfly. She did everything she could to try and catch that pretty butterfly but it kept flying way to high for her to catch. "That is okay", she said, "Butterflies need to be left out to fly free".  Mary asked Tina if she wanted to go over her house and play Barbies when we left the park, instead of going home. So we went over and the girls had a wonderful time and were both tired after a long day. We needed to get a good night's sleep to enjoy our camping trip tomorrow.
+While walking in the park on Monday with my granddaughter Tina, we saw an ice cream truck pull up on the street. "Can we get ice cream, Nana?" asked Tina. "Sure we can!" I answered. As we started heading up the hill to the truck, my granddaughter was scared by a bird who had swooped by her face. "Nana, that bird almost made me fall down the hill!" Laughing at what was said, I answered, "If you fell you might have taken Nana down with you!" Once we reached the ice cream truck, Tina saw that they not only had ice cream but also carried popcorn, hotdogs, juice and soda. "Nana, instead of ice cream may I get popcorn and juice?" she asked. "If that is what you want, you sure can!" I answered. We got our food and headed to the picnic table. On our way over we saw a child who Tina knew from her kindergarten class. "Nana, may we go and say hello to Mary?" "Let's go!" We made it over to where Mary and her family were sitting and Tina saw a bright blue butterfly. She did everything she could to try and catch that pretty butterfly but it kept flying way to high for her to catch. "That is okay" she said, "Butterflies need to be left out to fly free" .  Mary asked Tina if she wanted to go over her house and play Barbies when we left the park, instead of going home. So we went over and the girls had a wonderful time and were both tired after a long day. We needed to get a good night's sleep to enjoy our camping trip tomorrow.
 
 1: one: Where did we go when we left the park?
  A) camping
@@ -4636,7 +4636,7 @@ He fed one chips and he fed one chocolate. He hoped the fruit would taste like a
 He fed one root beer and he fed another one salad. He fed one of them seaweed. 
 He wrote down how many fruits each tree had, and this is what he found.
 The root beer tree had five fruits.
-The  tree that was fed chocolate had three. The chip tree had ten. The salad tree had fifteen. The seaweed tree had fifty apples! They were everywhere. "The winner!", said Tigerrr, his paw in the air.
+The  tree that was fed chocolate had three. The chip tree had ten. The salad tree had fifteen. The seaweed tree had fifty apples! They were everywhere. "The winner!" said Tigerrr, his paw in the air.
 
 1: multiple: Which food made the most fruits?
  A) Root beer
@@ -4907,7 +4907,7 @@ Qual. score:      80
 Work Time(s):     1438
 Creativity Words: up,shape,count,neck,piece,dress,taste,box,alphabet,fall,feathering,medicine,fell,draw,rice
 
-Paul and George wanted to get something to eat for lunch. Sam and Ralph went to school lunch room, but Paul and George wanted to leave and get something outside. They both go to the same school and have the same lunch period, which is how they know each other. They are allowed to leave school for 1 hour for lunch. They get together and rule out pizza, pasta, spicy food and chips. They also want to go somewhere close because they only have an hour. They know there are two places that have burgers and fries close by. Paul loves burgers and George loves fries. Paul says that Great Burger has good burgers. George says that Best Burger has good fries. They now have a problem. "How are we going to pick where we are going to go?" says George. Paul answers "Let's go to Great Burger today and tomorrow let's go to Best Burger." George, being a good friend, says OK. They leave school and go to eat burgers and fries.
+Paul and George wanted to get something to eat for lunch. Sam and Ralph went to school lunch room, but Paul and George wanted to leave and get something outside. They both go to the same school and have the same lunch period, which is how they know each other. They are allowed to leave school for one hour for lunch. They get together and rule out pizza, pasta, spicy food and chips. They also want to go somewhere close because they only have an hour. They know there are two places that have burgers and fries close by. Paul loves burgers and George loves fries. Paul says that Great Burger has good burgers. George says that Best Burger has good fries. They now have a problem. "How are we going to pick where we are going to go?" says George. Paul answers "Let's go to Great Burger today and tomorrow let's go to Best Burger." George, being a good friend, says OK. They leave school and go to eat burgers and fries.
 
 1: one: What do George and Paul want to eat for lunch?
  A) Chips
@@ -5347,7 +5347,7 @@ Eddy also loved his family. When he wasn't outside he liked to sit with people w
 
 4: multiple: What did Eddy do most of the day?
  A) Sit with people.
-*B) Sleep, at least 12 hours.
+*B) Sleep, at least twelve hours.
  C) Eat food.
  D) Play with toys.
 
@@ -6207,7 +6207,7 @@ Qual. score:      90
 Work Time(s):     2433
 Creativity Words: dinnertime,ring,room,key,ground,rule,winning,lie,trashcan,river,sidewalk,hand,bleed,brush,wind
 
-"Be home by dinnertime", Eric's mother said as he left for school that morning. Eric was excited. Today was show and tell, and he planned to do his magic tricks for the whole class. Once he got to school, he couldn't wait until it was his turn. First up was Angie, who brought her pet lizard. It could change colors to match whatever it was sitting on. The second to be called was John, who showed the class a flower he had grown from seeds. Finally Eric's name was called. He went to the front of the class. "For my first trick" he said, "I'll pull a hamster out of a hat". He had borrowed his sister Candice's pet hamster in order to do his trick. He showed the class his that the hat was empty, then he reached inside, into the secret space where the hamster was hidden. The hamster was gone. He heard a scream. Two girls were standing on their chairs, and the hamster was crawling toward the back of the class. The teacher made him stay after school as punishment, but at least he made it home by dinnertime.
+"Be home by dinnertime" Eric's mother said as he left for school that morning. Eric was excited. Today was show and tell, and he planned to do his magic tricks for the whole class. Once he got to school, he couldn't wait until it was his turn. First up was Angie, who brought her pet lizard. It could change colors to match whatever it was sitting on. The second to be called was John, who showed the class a flower he had grown from seeds. Finally Eric's name was called. He went to the front of the class. "For my first trick" he said, "I'll pull a hamster out of a hat" . He had borrowed his sister Candice's pet hamster in order to do his trick. He showed the class his that the hat was empty, then he reached inside, into the secret space where the hamster was hidden. The hamster was gone. He heard a scream. Two girls were standing on their chairs, and the hamster was crawling toward the back of the class. The teacher made him stay after school as punishment, but at least he made it home by dinnertime.
 
 1: one: What time did Eric have to be home?
 *A) At dinnertime.
@@ -6597,7 +6597,7 @@ Qual. score:      95
 Work Time(s):     516
 Creativity Words: lake,hurry,button,eraser,doctor,white,day,sneeze,tissue,father,harder,person,bell,cook,orange
 
-There was once a magical lightning wand that contained special powers. When held by a human, it is believed to have given the human special powers that would allow them to take over the skies and the sea. Because of its dangerous power, a king named Ogthar wanted to hide the wand on a planet where no one could find it. Before Ogthar went out to hide his wand, he had to tie his shoelaces. Instead of tying them with his hands, he waved the wand to make it do it for him. Instead of tying his shoes, the wind and sky blew the shoes right off of Ogthar. Ogthar cried and cried because he no longer had shoes. After 17 days of crying, Ogthar saw that his life was not terrible without shoes, because he still had a magical wand. Ogthar then forgot about his shoes and instead made a magical land called "Wind and Sky Land" for children to gather and play in the fun wind and seas. Ogthar forgot about his shoes after a couple of years and even went on to go to school and get smarter. Ogthar is now a fireman and is glad that he never hid the wand. He now can never die and whenever he thinks of his shoes, he says to himself "Stop it!"
+There was once a magical lightning wand that contained special powers. When held by a human, it is believed to have given the human special powers that would allow them to take over the skies and the sea. Because of its dangerous power, a king named Ogthar wanted to hide the wand on a planet where no one could find it. Before Ogthar went out to hide his wand, he had to tie his shoelaces. Instead of tying them with his hands, he waved the wand to make it do it for him. Instead of tying his shoes, the wind and sky blew the shoes right off of Ogthar. Ogthar cried and cried because he no longer had shoes. After seventeen days of crying, Ogthar saw that his life was not terrible without shoes, because he still had a magical wand. Ogthar then forgot about his shoes and instead made a magical land called "Wind and Sky Land" for children to gather and play in the fun wind and seas. Ogthar forgot about his shoes after a couple of years and even went on to go to school and get smarter. Ogthar is now a fireman and is glad that he never hid the wand. He now can never die and whenever he thinks of his shoes, he says to himself "Stop it!"
 
 1: multiple: What did Ogthar do after forgetting about his shoes?
 *A) He went to school and became a fireman.
@@ -6949,7 +6949,7 @@ Qual. score:      90
 Work Time(s):     1081
 Creativity Words: wave,skip,marker,squirrel,red,shoulder,make,lamp,daddy,rinse,mat,end,dream,kiss,playtime
 
-Today is the big day, today is Saturday and it is my birthday party.  I turned 7 on Thursday, but I wanted my party on the weekend.  All week my daddy and mommy helped me plan and now it is finally time for fun.  We got a clown and I got to invite all of my friends!  The clown's name was Bob and he was really funny.  Bob made us all laugh a lot.  After the clown left we all played fun games.  We played with a toy filled with candy and all got to eat it.  There were Twix Bars, Milky Ways, M&Ms and Tootsie Rolls.  My favorite candy is Twix so I was very happy to see them inside.  After that, my mom came out with my cake.  It was chocolate with chocolate icing!  Everyone loved it and we even got to eat ice cream too. We were going to eat hamburgers and hot dogs but my dog ate them all before we could. I wish we could have gone swimming in my pool, but it was too cold.  My dad said it was okay but my mom did not want us to get sick.  It was way better than any party I ever dreamed about.  After cake all my friends had to leave except for Timmy.  Timmy's mom said he could sleep over so we made a fort inside and told ghost stories.  My birthday party was the best day of my life.
+Today is the big day, today is Saturday and it is my birthday party.  I turned seven on Thursday, but I wanted my party on the weekend.  All week my daddy and mommy helped me plan and now it is finally time for fun.  We got a clown and I got to invite all of my friends!  The clown's name was Bob and he was really funny.  Bob made us all laugh a lot.  After the clown left we all played fun games.  We played with a toy filled with candy and all got to eat it.  There were Twix Bars, Milky Ways, M&Ms and Tootsie Rolls.  My favorite candy is Twix so I was very happy to see them inside.  After that, my mom came out with my cake.  It was chocolate with chocolate icing!  Everyone loved it and we even got to eat ice cream too. We were going to eat hamburgers and hot dogs but my dog ate them all before we could. I wish we could have gone swimming in my pool, but it was too cold.  My dad said it was okay but my mom did not want us to get sick.  It was way better than any party I ever dreamed about.  After cake all my friends had to leave except for Timmy.  Timmy's mom said he could sleep over so we made a fort inside and told ghost stories.  My birthday party was the best day of my life.
 
 1: multiple: What did everyone eat at the party?
  A) Hamburgers and cake
@@ -7278,7 +7278,7 @@ Qual. score:      90
 Work Time(s):     6588
 Creativity Words: playground,baseball,rest,soap,bedtime,bean,tie,son,moo,spanking,dry,coming,spill,cookie,pain
 
-On Tuesday evening, Rick wanted to play with his friends at a playground near his house. Rick's mother, Trish, drove him to the playground. Rick met up with Andrew and Chris. Rick ran to the monkey bars. Andrew ran to the slide. Chris ran to the swings. Trish sat on a bench near the monkey bars and read a book. She wanted to finish the book for a long time and wanted to try to finish right now. Around 6 PM, it started to rain. Trish quickly put her book inside of her jacket to keep it dry. Afterwards, she called Rick and his friends over and told them it was time to go. Rick and Andrew ran to Trish to follow her to the car. Chris tried to run to Trish but tripped and fell. He scabbed his knee. He was in a lot of pain. Trish told Rick and Andrew to get inside of the car. She ran to Chris to check on him. Trish had a bandage in her pocket and put it over Chris' scab. She then helped Chris get to the car. The next day, Rick asked Chris if he was okay from the fall at the playground. Chris said he was okay and wanted to go play at the playground again soon.
+On Tuesday evening, Rick wanted to play with his friends at a playground near his house. Rick's mother, Trish, drove him to the playground. Rick met up with Andrew and Chris. Rick ran to the monkey bars. Andrew ran to the slide. Chris ran to the swings. Trish sat on a bench near the monkey bars and read a book. She wanted to finish the book for a long time and wanted to try to finish right now. Around six PM, it started to rain. Trish quickly put her book inside of her jacket to keep it dry. Afterwards, she called Rick and his friends over and told them it was time to go. Rick and Andrew ran to Trish to follow her to the car. Chris tried to run to Trish but tripped and fell. He scabbed his knee. He was in a lot of pain. Trish told Rick and Andrew to get inside of the car. She ran to Chris to check on him. Trish had a bandage in her pocket and put it over Chris' scab. She then helped Chris get to the car. The next day, Rick asked Chris if he was okay from the fall at the playground. Chris said he was okay and wanted to go play at the playground again soon.
 
 1: multiple: What caused Trish to put her book inside of her jacket to keep it dry?
  A) swings
@@ -7425,7 +7425,7 @@ Qual. score:      85
 Work Time(s):     820
 Creativity Words: tissue,belt,trashcan,bread,feed,cake,bump,pet,scissor,dig,playground,washing,can,pretty,tummy
 
-Corky walked to the store to buy some milk, like he does every Tuesday. On his way, he passed the red house where John lives, the green house where June lives, the white house where Barack lives, the blue hat store, and the orange house where Jessie lives. He finally reached the store at 5 o'clock. 
+Corky walked to the store to buy some milk, like he does every Tuesday. On his way, he passed the red house where John lives, the green house where June lives, the white house where Barack lives, the blue hat store, and the orange house where Jessie lives. He finally reached the store at five o'clock. 
 
 Corky thought about buying some other things too. He looked at the potato chips, but didn't like the flavors they had left. All of the normal flavored ones were gone. He never liked hard candy, so he ignored those. He saw the apples, but didn't need one because he had apples at home. So he picked out some cookies instead. Corky thought he'd eat them on his way home. He waited in line until it was his turn, and then paid Abe the cashier. Abe gave him his change and wished him a good day.
 
@@ -7449,7 +7449,7 @@ On his way home, Corky ate his cookies. He had hoped to buy peanut butter cookie
  C) Chocolate chip
 *D) Sugar
 
-4: multiple: Who reached the store at 5 o'clock?
+4: multiple: Who reached the store at five o'clock?
 *A) Corky
  B) Abe
  C) Barack
@@ -7579,16 +7579,16 @@ Kate's parents planned a family trip to Europe!  This would be Kate's first big 
 *D) Leaning Tower of Pisa
 
 2: multiple: How many different languages did Kate learn to say "hello" in?
- A) 4
- B) 1
- C) 0
-*D) 3
+ A) four
+ B) one
+ C) zero
+*D) three
 
 3: multiple: How many different places did Kate and her family visit?
- A) 5
- B) 3
- C) 6
-*D) 4
+ A) five
+ B) three
+ C) six
+*D) four
 
 4: one: Which country's food did Kate enjoy the most?
  A) England
@@ -7604,9 +7604,9 @@ Qual. score:      85
 Work Time(s):     3205
 Creativity Words: wash,fist,dinosaur,bug,moo,grandmother,sing,melon,bump,cheese,lunch,paper,nana,witch,lemon
 
-His parents were out and dropped him at the babysitter's house at 12 o'clock. Lunchtime had past, but later the babysitter fixed him a dinner of some kind of brown meat. Under the meat was a slice of dry toast. Timmy didn't like the dinner and wished he had spaghetti or pizza. Even if it wasn't what he wanted, the meal filled his tummy and stopped the hunger pains.
+His parents were out and dropped him at the babysitter's house at twelve o'clock. Lunchtime had past, but later the babysitter fixed him a dinner of some kind of brown meat. Under the meat was a slice of dry toast. Timmy didn't like the dinner and wished he had spaghetti or pizza. Even if it wasn't what he wanted, the meal filled his tummy and stopped the hunger pains.
   
-Timmy was bored and wanted something to do, but he didn't have any toys. All he had was some paper, his toothbrush and toothpaste. He wished he was home where he had left his favorite toy race car and train. The house was quiet and nighttime was near. He pretended he was camping. It was 8 o'clock and the streetlight came on and shined through the curtain, making scary shadows on the wall.  
+Timmy was bored and wanted something to do, but he didn't have any toys. All he had was some paper, his toothbrush and toothpaste. He wished he was home where he had left his favorite toy race car and train. The house was quiet and nighttime was near. He pretended he was camping. It was eight o'clock and the streetlight came on and shined through the curtain, making scary shadows on the wall.  
 
 He looked through the trash in the babysitter's extra room but couldn't find anything useful. If he at least had some markers or crayons he could draw some pictures, but he didn't even have a pencil. 
 
@@ -7615,7 +7615,7 @@ Timmy thought for a bit and found he could make a toy boat. He folded the paper 
 1: one: What time of day was it when Timmy got bored?
  A) lunchtime
  B) morning
-*C) 8 o'clock
+*C) eight o'clock
  D) midnight
 
 2: one: Where was Timmy?
@@ -7953,9 +7953,9 @@ Creativity Words: third,build,cough,dinnertime,turn,bat,popcorn,paper,bleed,tub,
 
 On the third day of November, Ron and Pam went to the store. They wanted to get some food for a new recipe. It was late in the afternoon, but they wanted to eat the food soon at dinner. To save time they split the list in half. Ron was to get the pasta and tomato sauce, and Pam was to get the vegetables and juice. They went their separate ways in the store, and made plans to meet in the checkout line in half an hour.  
 
-On her way to the fruit and vegetable section, Pam ran into her friend Tom. Tom had bought a pet bunny for his friend and wanted to buy it some food. He asked Pam what he needs to feed the bunny. Pam told him lettuce and carrots, so he put 5 heads of lettuce in his basket along with one bag of carrots. Tom said goodbye to Pam and went to the front of the store to buy his vegetables. Now it was time for Pam to pick out the vegetables she would buy for dinner. She wanted to make a salad, so she bought spinach, 2 big red tomatoes, a box of mushrooms, and 3 cucumbers. Pam then went to where they kept the juice and grabbed a big bottle of lemonade.
+On her way to the fruit and vegetable section, Pam ran into her friend Tom. Tom had bought a pet bunny for his friend and wanted to buy it some food. He asked Pam what he needs to feed the bunny. Pam told him lettuce and carrots, so he put five heads of lettuce in his basket along with one bag of carrots. Tom said goodbye to Pam and went to the front of the store to buy his vegetables. Now it was time for Pam to pick out the vegetables she would buy for dinner. She wanted to make a salad, so she bought spinach, two big red tomatoes, a box of mushrooms, and three cucumbers. Pam then went to where they kept the juice and grabbed a big bottle of lemonade.
 
-Pam went to the front of the store and met Ron. They handed their items to the sales clerk so that they could buy them. The total cost of the food was 20 dollars. As a gift to Pam, Ron paid for the food and said happy birthday. As a gift he would be cooking her dinner.
+Pam went to the front of the store and met Ron. They handed their items to the sales clerk so that they could buy them. The total cost of the food was twenty dollars. As a gift to Pam, Ron paid for the food and said happy birthday. As a gift he would be cooking her dinner.
 
 1: multiple: What did Pam and Ron do once they returned to the front of the store?
  A) Threw their food in the garbage can.
@@ -8317,7 +8317,7 @@ The First Day
 
 Seven year old Roberto grabbed his mother's hand as they entered the school. It was his first day at the new school and he was afraid. This school was bigger than the one he went to before, and there were so many kids everywhere. Still, Roberto wondered if he would make any friends here. He was always a little shy, and the few friends he had were now far away in another city.
 
-"Here we are," Roberto's mother said as she looked at a classroom door. "Room 118. This is your new classroom, Roberto. Let's go meet your new teacher."
+"Here we are," Roberto's mother said as she looked at a classroom door. "Room one hundred eighteen. This is your new classroom, Roberto. Let's go meet your new teacher."
 
 They entered the classroom and walked over to the teacher, who was writing on the blackboard. "Hello. I'm Mrs. Cruz," Roberto's mother said as she greeted the teacher with a smile.
 
@@ -8343,7 +8343,7 @@ Everything went well on that first school day. Roberto made twelve new friends. 
 
 3: multiple: What did Roberto do on his first school day?
 *A) He made new friends, ate a good lunch, and had some snacks.
- B) He went to class in room 218.
+ B) He went to class in room two hundred eighteen.
  C) He kissed his teacher goodbye.
  D) He saw his friends far away in another city.
 
@@ -8429,7 +8429,7 @@ Qual. score:      90
 Work Time(s):     579
 Creativity Words: peekaboo,dinnertime,wetting,summer,burn,dinosaur,pudding,chew,weekend,alphabet,lion,costume,coming,silence,riding
 
-It's finally the weekend of Halloween and I get to dress up in my lion costume.  Halloween is my favorite holiday because I really like candy and love dressing up.  Last year I was a ghost, but this year I am a lion.  My little brother is dressed like a dinosaur and he keeps chewing on everything.  He is only 3 years old so I guess that is okay.  His name is Todd and his favorite holiday is his birthday but I don't think he knows much about any of them.  My dad loves Christmas and my Mom really likes Thanksgiving.  But I love Halloween.   We have to wait for my dad to come home from work so we can go out and trick-or-treat.  While we are waiting my mommy cooks us dinner.  She wants us to eat good food before we spoil our dinner with all the candy we are going to get.  I can't wait to go to my friend Kevin's house.  His parents give the best candy and give me extra since Kevin is my friend.  I think Kevin said he was going to dress up like a pirate but I don't remember.  I don't think pirates are very cool, but I didn't tell Kevin that.  I think I hear my dad coming up the stairs.  Tonight is going to be the best Halloween ever.
+It's finally the weekend of Halloween and I get to dress up in my lion costume.  Halloween is my favorite holiday because I really like candy and love dressing up.  Last year I was a ghost, but this year I am a lion.  My little brother is dressed like a dinosaur and he keeps chewing on everything.  He is only three years old so I guess that is okay.  His name is Todd and his favorite holiday is his birthday but I don't think he knows much about any of them.  My dad loves Christmas and my Mom really likes Thanksgiving.  But I love Halloween.   We have to wait for my dad to come home from work so we can go out and trick-or-treat.  While we are waiting my mommy cooks us dinner.  She wants us to eat good food before we spoil our dinner with all the candy we are going to get.  I can't wait to go to my friend Kevin's house.  His parents give the best candy and give me extra since Kevin is my friend.  I think Kevin said he was going to dress up like a pirate but I don't remember.  I don't think pirates are very cool, but I didn't tell Kevin that.  I think I hear my dad coming up the stairs.  Tonight is going to be the best Halloween ever.
 
 1: one: What is the narrator dressed up as?
  A) Ghost
@@ -8618,8 +8618,8 @@ One day when driving home John saw a group of bicycle racers riding down the roa
  D) Sam started when he met Mark
 
 3: multiple: Who said he would give John his old bike, and for how much.
- A) Sam for 200.
- B) Mark, for 100.
+ A) Sam for two hundred.
+ B) Mark, for one hundred.
 *C) Sam, for free.
  D) David for free.
 
@@ -10029,9 +10029,9 @@ Creativity Words: hit,dinner,ceiling,tape,dot,jelly,trashcan,duckling,white,tong
 
 One day, Annette wanted to make a birthday cake for her brother, Todd. She dug around in their white refrigerator and found she would need to go and buy eggs. She also needed to buy icing. 
 
-Annette got on her pink bike and went to the grocery store. She asked the cashier to tell her what aisle the icing was on. Annette went to the aisle 14 and picked out blue, Todd's favorite color. She then went to get the eggs.
+Annette got on her pink bike and went to the grocery store. She asked the cashier to tell her what aisle the icing was on. Annette went to the aisle fourteen and picked out blue, Todd's favorite color. She then went to get the eggs.
 
-Annette worked for 2 hours making the cake. She decorated it in the blue icing, and even wrote "Happy Birthday Todd" in neat letters.
+Annette worked for two hours making the cake. She decorated it in the blue icing, and even wrote "Happy Birthday Todd" in neat letters.
 
 Annette's parents made a nice dinner of chicken, red potatoes, and macaroni. After dinner, Annette and her mom and dad sang to Todd. He was excited for the cake and to turn 11, and said Annette was the best sister ever.
 
@@ -10042,9 +10042,9 @@ Annette's parents made a nice dinner of chicken, red potatoes, and macaroni. Aft
 *D) blue
 
 2: multiple: What aisle was the icing on?
- A) 2
- B) 11
-*C) 14
+ A) two
+ B) eleven
+*C) fourteen
  D) one
 
 3: one: Who is the birthday cake for?
@@ -10316,7 +10316,7 @@ Creativity Words: poke,birthday,chicken,room,yogurt,fell,tape,bicycle,peekaboo,e
 
 Tony walked home from school on his birthday. He was surprised to see a lot of cars in front of his house. When he opened the door and entered the house, he heard a lot of people yell, "Surprise!" It was a surprise party for his birthday.
 
-His parents called all his friends' parents and invited them to come to a party for Tony. Tony did not know anything about it. It was really a surprise to him. His best friends Jim and Melissa were there. Martha and Phil were there, too. There were about 20 kids at the party, and some of their parents were there, too.
+His parents called all his friends' parents and invited them to come to a party for Tony. Tony did not know anything about it. It was really a surprise to him. His best friends Jim and Melissa were there. Martha and Phil were there, too. There were about twenty kids at the party, and some of their parents were there, too.
 
 After a few hours, Tony started to open his presents. He got a new shirt, a basketball, and a book about dinosaurs. Finally, he opened the last present, which was from his parents. It was a blue bicycle. Tony was happy, because that was what he wanted the most.
 
@@ -10328,7 +10328,7 @@ After the presents were opened, all the kids started to get tired. They left one
  C) dreams
  D) presents
 
-2: multiple: Why were there about 20 kids at Tony's house?
+2: multiple: Why were there about twenty kids at Tony's house?
  A) They were playing basketball.
  B) They were there to ride blue bicycles.
  C) They were looking forward to reading about dinosaurs.
@@ -10462,7 +10462,7 @@ Qual. score:      90
 Work Time(s):     1649
 Creativity Words: must,pet,table,auntie,kitchen,sandwich,dad,bicycle,god,pizza,rattle,thunder,eyeball,reindeer,snack
 
-Benny and his Dad wanted to make a pizza. On Sunday afternoon, they went to the supermarket to buy the ingredients. At the supermarket, they picked up some pizza dough, sauce, cheese, and pepperoni slices. The next day, Benny and his Dad started making the pizza. First, Benny rolled out the dough. Then, his Dad poured the sauce over the dough. Afterwards, Benny put the cheese on the pizza Last, Benny's dad put pepperoni slices on top. "Now, we must put it in the oven", Benny's Dad said. They slid the pizza into the oven and waited for it to finish cooking. After some time, Benny's Dad removed the pizza from the oven. The cheese was bubbly. "It looks great!" Benny shouted. After the cheese stopped bubbling, Benny's Dad cut the pizza into eight slices. Benny got four slices and Benny's Dad got four slices. They were both happy with how the pizza came out. They both enjoyed eating the pizza very much.
+Benny and his Dad wanted to make a pizza. On Sunday afternoon, they went to the supermarket to buy the ingredients. At the supermarket, they picked up some pizza dough, sauce, cheese, and pepperoni slices. The next day, Benny and his Dad started making the pizza. First, Benny rolled out the dough. Then, his Dad poured the sauce over the dough. Afterwards, Benny put the cheese on the pizza Last, Benny's dad put pepperoni slices on top. "Now, we must put it in the oven" Benny's Dad said. They slid the pizza into the oven and waited for it to finish cooking. After some time, Benny's Dad removed the pizza from the oven. The cheese was bubbly. "It looks great!" Benny shouted. After the cheese stopped bubbling, Benny's Dad cut the pizza into eight slices. Benny got four slices and Benny's Dad got four slices. They were both happy with how the pizza came out. They both enjoyed eating the pizza very much.
 
 1: multiple: What did Benny and his Dad need to buy ingredients to make?
 *A) pizza
@@ -10622,7 +10622,7 @@ Qual. score:      90
 Work Time(s):     1286
 Creativity Words: thumb,shower,bantling,sidewalk,kitchen,bunny,pink,keeping,turkey,boy,moo,ear,letter,play,butterfly
 
-Janet walked past the barn, the big tree, and through the back yard to reach the chicken pen. Janet gathered the eggs from the chicken pen, so that her father could make scrambled eggs for breakfast. He would need at least 5 eggs for the meal, two for Janet and three for himself. Janet could only find four eggs in the chicken pen. She looked under every chicken, and in every nest, but could not find another egg. She placed the four eggs in her basket, and began to walk toward the house, when she heard a quacking sound. She went toward the sound and found a nest near the pond, with large brown eggs inside. "Quack" said a nearby duck, as Janet took an egg from the nest. Now she had enough for breakfast.
+Janet walked past the barn, the big tree, and through the back yard to reach the chicken pen. Janet gathered the eggs from the chicken pen, so that her father could make scrambled eggs for breakfast. He would need at least five eggs for the meal, two for Janet and three for himself. Janet could only find four eggs in the chicken pen. She looked under every chicken, and in every nest, but could not find another egg. She placed the four eggs in her basket, and began to walk toward the house, when she heard a quacking sound. She went toward the sound and found a nest near the pond, with large brown eggs inside. "Quack" said a nearby duck, as Janet took an egg from the nest. Now she had enough for breakfast.
 
 1: one: What dish was Janet's father making for breakfast?
  A) Eggs on toast
@@ -10963,7 +10963,7 @@ Qual. score:      85
 Work Time(s):     1269
 Creativity Words: forward,sit,toss,sun,hide,tongue,dinosaur,clap,banana,wash,moon,elephant,freezer,end,harder
 
-Larry the dinosaur was going to go to a dinosaur birthday party that night, and he was very excited, because the party was for him! He was turning 7 years old, which in dinosaur years, that means he was going to be an adult! There were so many different things he was going to do! He knew that there was going to be a moon bounce, and that he was going to get a lot of presents from all of his dinosaur friends, but the thing that he was most excited about, was the cake! Larry's favorite food was cake, and he hoped that they got the right flavor. Larry's favorite flavor was banana.
+Larry the dinosaur was going to go to a dinosaur birthday party that night, and he was very excited, because the party was for him! He was turning seven years old, which in dinosaur years, that means he was going to be an adult! There were so many different things he was going to do! He knew that there was going to be a moon bounce, and that he was going to get a lot of presents from all of his dinosaur friends, but the thing that he was most excited about, was the cake! Larry's favorite food was cake, and he hoped that they got the right flavor. Larry's favorite flavor was banana.
 Larry went to school that day and everyone told him happy birthday! When he came home from school, all the lights were out. "Hello?" Larry said, as he came into the house. All of the sudden, the lights went on, and there was everyone! "Happy birthday Larry!" all of his friends shouted. Confetti went everywhere. "Where is the cake?" he asked.
 "Here it is!" said his mom, and brought out the cake. "It's a chocolate cake, like you wanted!"
 Larry froze. "I said that I wanted a banana cake." said Larry. He was very sad. "Now the party is going to be no fun."

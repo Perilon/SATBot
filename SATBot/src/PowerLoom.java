@@ -60,6 +60,8 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		  		  
 		    for (int i = 0; i < storyTextRelations.size(); i++) {
 		    	
+		    	System.out.println("Story #" + Integer.toString(i));
+		    	
 			    PLI.createModule(workingModule, null, false);
 				  
 			    PLI.sChangeModule(workingModule, null);
