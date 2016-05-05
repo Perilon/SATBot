@@ -11,23 +11,23 @@ It was Sally's birthday. She was very excited. She was going to have a sleepover
  A) ten
  B) two
  C) eleven
- D) one
+*D) one
 
 2: multiple: Who got hurt at the party?
  A) Erin and Jennifer
  B) Cathy and Erin
- C) Jennifer and Sally
+*C) Jennifer and Sally
  D) Erin and Sally
 
 3: one: Whose birthday is it?
  A) Cathy
  B) Jessica
- C) Sally
+*C) Sally
  D) Jennifer
 
 4: multiple: What time did Jennifer arrive to the party?
  A) one
- B) two
+*B) two
  C) eight
  D) ten
 
@@ -42,19 +42,19 @@ Creativity Words: shouting,wish,river,sofa,arm,pee,sweet,cough,low,cutting,medic
 On the farm there was a little piggy named Andy. Andy was very sweet, but he was always dirty. He loved to roll around in the mud. None of the other piggies wanted to play with him. He wished they would be his friends. One day he was going on a walk on the farm. He walked by and saw his favorite big tree. He walked farther than he ever had before. He saw a bunch of pretty flowers. Then he saw something that he had never seen before. It was a river! He ran down to the river, shouting with joy. He got down low in the cool water swam around for a bit. He ran back to the farm where the other piggies were. He was finally clean. They all played games until dinner time. When it was time for dessert the piggies each got a cupcake. Looking at all his new friends, Andy smiled and took a big bite of his tasty treat.
 
 1: multiple: What did the piggies do when Andy got back from his walk?
- A) play games and eat dinner
+*A) play games and eat dinner
  B) play in the mud and go for a walk
  C) swim in the river and play games
  D) go for a walk and look at flowers
 
 2: multiple: What did Andy see on his walk?
  A) other piggies
- B) flowers and a tree
+*B) flowers and a tree
  C) tasty treats
  D) a mud puddle
 
 3: one: What did Andy love to roll around in?
- A) mud
+*A) mud
  B) cupcakes
  C) grass
  D) water
@@ -63,7 +63,7 @@ On the farm there was a little piggy named Andy. Andy was very sweet, but he was
  A) walk
  B) swim
  C) eat
- D) play
+*D) play
 
 
 ***************************************************
@@ -89,18 +89,18 @@ His father said, "I am proud of you for doing that, son."
 
 1: multiple: Why was Justin's father proud of him?
  A) He caught a butterfly
- B) He let the catfish go
+*B) He let the catfish go
  C) He chased lightning bugs
  D) He rode a horse
 
 2: one: What was Justin's favorite animal?
  A) pig
  B) chicken
- C) horse
+*C) horse
  D) cow
 
 3: one: What was Justin's father's name?
- A) James
+*A) James
  B) Jerry
  C) Todd
  D) Billy
@@ -109,7 +109,7 @@ His father said, "I am proud of you for doing that, son."
  A) a catfish
  B) Justin
  C) pigs
- D) a baby horse
+*D) a baby horse
 
 
 ***************************************************
@@ -123,7 +123,7 @@ Jamie was on the playground. As he was running towards his friends, he tripped o
 
 1: one: What else happened to Jamie along with breaking his watch?
  A) He was late for class.
- B) He skinned his knee.
+*B) He skinned his knee.
  C) He and Kevin got into a fight.
  D) He couldn't play with his friends.
 
@@ -131,18 +131,18 @@ Jamie was on the playground. As he was running towards his friends, he tripped o
  A) His mother.
  B) His uncle.
  C) His grandfather.
- D) His brother.
+*D) His brother.
 
 3: one: What was the name of the child who had the toy truck?
  A) Lindsay
  B) Jimmy
  C) Megan
- D) Kevin
+*D) Kevin
 
 4: one: What did Jamie trip over?
  A) A jump rope.
  B) A baseball bat.
- C) A toy truck.
+*C) A toy truck.
  D) A set of sidewalk chalk.
 
 
@@ -165,23 +165,23 @@ Asta's papa read the note. He told Asta and Sharkie, "This note is from a little
  A) They asked her to come play with them in the ocean.
  B) They wrote her a note and sent it to her with a bird.
  C) Asta's papa sent her an orange crayon in a bottle.
- D) They wrote her a note and sent it to her in another bottle.
+*D) They wrote her a note and sent it to her in another bottle.
 
 2: multiple: Why did they take the note to Asta's papa?
  A) They could not open it.
  B) They wanted to be friends with a bird.
- C) They could not read it.
+*C) They could not read it.
  D) They wanted to be friends with a little girl.
 
 3: one: What did the bottle look like?
- A) a bird's belly
+*A) a bird's belly
  B) Sharkie
  C) an orange crayon
  D) a rock
 
 4: one: What was inside the bottle?
  A) a rock
- B) a note
+*B) a note
  C) a crayon
  D) a bird
 
@@ -197,26 +197,26 @@ Derek was sad. He was playing in the school yard at recess and a girl in his cla
 
 1: multiple: Who was being mean to Derek?
  A) Alexis
- B) Sandy
+*B) Sandy
  C) Jenny
  D) Mrs. Mustard
 
 2: one: Who called the police?
- A) Jenny
+*A) Jenny
  B) Sandy
  C) Alexis
  D) Mrs. Mustard
 
 3: multiple: Where was Derek when the stranger walked up to him?
  A) The parking lot
- B) The school yard
+*B) The school yard
  C) The classroom
  D) The jungle gym
 
 4: multiple: Who told Mrs. Mustard about the stranger?
  A) The police
  B) Jenny
- C) Sandy and Alexis
+*C) Sandy and Alexis
  D) Derek
 
 
@@ -233,16 +233,16 @@ I have a friend who is a princess of the piggies. No, really! She lives in a pig
  A) A ball
  B) A spoon
  C) A pea
- D) A cook
+*D) A cook
 
 2: multiple: What is my friend's favorite kind of soup?
- A) Pea
+*A) Pea
  B) Chicken
  C) Vegetable
  D) Tomato
 
 3: multiple: What doesn't my piggy princess friend have?
- A) Crown
+*A) Crown
  B) Castle
  C) A best friend
  D) Carriage
@@ -251,7 +251,7 @@ I have a friend who is a princess of the piggies. No, really! She lives in a pig
  A) Grow peas
  B) Play tag
  C) Go to balls
- D) Cook and eat
+*D) Cook and eat
 
 
 ***************************************************
@@ -265,7 +265,7 @@ There was once a group of kittens who all liked to play together. Their names we
 
 1: one: Which kitten was the leader?
  A) Cookie Monster
- B) Fluffy
+*B) Fluffy
  C) Snowball
  D) Larry
 
@@ -273,16 +273,16 @@ There was once a group of kittens who all liked to play together. Their names we
  A) Play together.
  B) Drink milk.
  C) Annoy the dogs.
- D) Chase mice.
+*D) Chase mice.
 
 3: multiple: What did Larry think was a bad idea?
- A) Annoying the dogs.
+*A) Annoying the dogs.
  B) Chasing mice.
  C) Playing together.
  D) Drinking milk.
 
 4: multiple: Which kitten scared away the dogs?
- A) Larry
+*A) Larry
  B) Cookie Monster
  C) Snowball
  D) Fluffy
@@ -309,11 +309,11 @@ After writing a page, Lizzie stopped. Her hand was covered in the black ink of t
  A) Lizzie's sister, Meghan, woke her up
  B) Ralph playing with his ball
  C) Ralph yelling
- D) The sound of the women washing laundry
+*D) The sound of the women washing laundry
 
 2: multiple: Who does Lizzie live with?
  A) Her brother, Ralph, and her mom, Meghan.
- B) Her sister, Meghan, and her dog, Ralph.
+*B) Her sister, Meghan, and her dog, Ralph.
  C) Her aunt, Meghan, and her dog, Ralph.
  D) Her father, Ralph, and her sister, Meghan.
 
@@ -321,13 +321,13 @@ After writing a page, Lizzie stopped. Her hand was covered in the black ink of t
  A) At a table in her room
  B) Outside, waiting for the mailman
  C) By the lake
- D) At the table in the kitchen
+*D) At the table in the kitchen
 
 4: one: What does Lizzie's dad do for work?
  A) Lizzie's dad washes laundry
  B) Lizzie has never met her dad
  C) Lizzie's dad is a mailman
- D) Lizzie's dad was a driver for a rich family in England
+*D) Lizzie's dad was a driver for a rich family in England
 
 
 ***************************************************
@@ -344,22 +344,22 @@ Billy and Sally are brother and sister. Billy is seven and Sally is eight. Their
  A) Father
  B) Sister
  C) Goat
- D) Mother
+*D) Mother
 
 2: multiple: When Billy and Sally answer in a loud or soft voice, what game are they playing?
  A) A game with the duck, Quack.
  B) A game where they eat lettuce.
  C) A game with the goat, Joey.
- D) A game where they are answering the telephone.
+*D) A game where they are answering the telephone.
 
 3: one: What is the name of the mother?
  A) Billy
- B) Deborah
+*B) Deborah
  C) Bob
  D) Sally
 
 4: one: What is the name of the goat?
- A) Joey
+*A) Joey
  B) Sally
  C) Quack
  D) Billy
@@ -375,13 +375,13 @@ Creativity Words: long,dad,breakfast,banana,scare,drink,shut,toss,book,bin,white
 One day Kyle's Dad had to go for a long ride. He went on this ride because he wanted to get breakfast. With breakfast the dad always loved to get a banana in a drink. This was his favorite drink. But along the ride, Kyle's dad had a scare. The back door was open but someone else shut it and tossed his book. Later he found his book in a white bin. Along with the book, there was a white costume. He thought that maybe this was a sign. So he took the white costume and found out it was a doctor costume. He remembered that his son Kyle's favorite thing to do was play doctor. This made him remember that he never even asked his son Kyle if he wanted to come for the ride. So the dad turned around and drove all the way home to get his son. He asked Kyle if he wanted to come out to breakfast. Kyle got very excited and said he did. Kyle's dad was happy he came back because it helped him make his son happy.
 
 1: multiple: What was the dad's favorite drink?
- A) a banana drink
+*A) a banana drink
  B) a white bin
  C) a white costume
  D) a doctor
 
 2: multiple: Why did Kyle's dad drive home?
- A) he found a white doctor costume
+*A) he found a white doctor costume
  B) he wanted to give Kyle a banana
  C) he wanted to play doctor
  D) He was tired of the long ride
@@ -390,11 +390,11 @@ One day Kyle's Dad had to go for a long ride. He went on this ride because he wa
  A) a white costume
  B) a white bin
  C) Kyle
- D) breakfast
+*D) breakfast
 
 4: one: What did someone else shut?
  A) a white bin
- B) the back door
+*B) the back door
  C) Kyle's house
  D) a banana
 
@@ -412,22 +412,22 @@ Jenny loves singing. But her baby sister is crying so loud that Jenny can't hear
  A) she didn't care
  B) she felt angry
  C) she felt tired
- D) she felt sad
+*D) she felt sad
 
 2: one: What did Jenny want to do?
- A) sing
+*A) sing
  B) play with her mom
  C) play with her baby sister
  D) play with her horses
 
 3: one: What did Jenny's mom tell her to do?
  A) give her sister a pacifier
- B) Play with her sister
+*B) Play with her sister
  C) give her sister a toy horse
  D) sing to her sister
 
 4: multiple: What was Jenny's great idea?
- A) She gave the baby a pacifier
+*A) She gave the baby a pacifier
  B) She played with the baby
  C) she would ask her mom
  D) She gave the baby her toy horse
@@ -445,11 +445,11 @@ Once upon a time there was a fish that lived in a bowl.  The fish wanted to give
 1: multiple: Why couldn't the fish give the kid a party?
  A) the fish lived in a bowl
  B) the fish was sick
- C) the fish had no present
+*C) the fish had no present
  D) the kid didn't like the fish
 
 2: one: What did the fish give the kid
- A) a stone
+*A) a stone
  B) a banana
  C) a pill
  D) a mommy
@@ -458,13 +458,13 @@ Once upon a time there was a fish that lived in a bowl.  The fish wanted to give
  A) the fish ate a piece of bread
  B) the fish at a banana from the granddaddy
  C) the fish ate a stone from the mommy
- D) the fish ate a banana from the kid
+*D) the fish ate a banana from the kid
 
 4: one: What did the kid say the fish was
  A) a stone
  B) a banana
  C) a mommy
- D) a cutie
+*D) a cutie
 
 
 ***************************************************
@@ -484,13 +484,13 @@ Jack told his uncle that he had a great day and hoped that they could do it agai
 
 1: multiple: What scared all of the animals away?
  A) Jack's Auntie calling
- B) the train whistle
+*B) the train whistle
  C) a loud horn
  D) a wolf howl
 
 2: one: What was Jack going to be late for if they didn't hurry?
  A) a visit to the doctor
- B) his bedtime
+*B) his bedtime
  C) story time
  D) his birthday
 
@@ -498,11 +498,11 @@ Jack told his uncle that he had a great day and hoped that they could do it agai
  A) cake
  B) vegetables
  C) fish
- D) cookies
+*D) cookies
 
 4: multiple: Where did Jack see a butterfly?
  A) at school
- B) in the woods
+*B) in the woods
  C) near the river
  D) by the house
 
@@ -523,26 +523,26 @@ Wait, what's that? You said you saw someone in the kitchen? What were they weari
 1: one: What color did I say he was wearing?
  A) green
  B) orange
- C) blue
+*C) blue
  D) white
 
 2: one: What color shirt is my friend wearing?
  A) blue
  B) green
- C) orange
+*C) orange
  D) white
 
 3: multiple: How many rooms did I say I checked?
  A) five
  B) four
- C) three
+*C) three
  D) two
 
 4: multiple: What room was my friend in?
  A) bathroom
  B) living room
  C) bedroom
- D) kitchen
+*D) kitchen
 
 
 ***************************************************
@@ -557,24 +557,24 @@ It was finally summer vacation, and Josh was excited to go to his favorite place
 1: one: What was Grandpa's sailboat named?
  A) Salty Ocean Air
  B) Josh
- C) Sea Girl
+*C) Sea Girl
  D) Buried Treasure
 
 2: multiple: Where is Josh's favorite place?
  A) Summer vacation
  B) his garden
  C) the beach
- D) Florida
+*D) Florida
 
 3: multiple: When did Josh get to go to Florida?
  A) This summer only
  B) A few times a year
- C) Every summer
+*C) Every summer
  D) Whenever he had a school vacation
 
 4: multiple: What did Grandma sometimes include in her dinners?
  A) Ice cream
- B) carrots, cucumbers, tomatoes
+*B) carrots, cucumbers, tomatoes
  C) Anything from her kitchen
  D) Josh's favorite dinners
 
@@ -590,12 +590,12 @@ There were two best friends named Sam and Jenny. They were not friends with Kimm
 
 1: one: Why was Kimmi sad?
  A) she did not like the puppy
- B) Nobody liked her.
+*B) Nobody liked her.
  C) Joe said mean things about her.
  D) she wanted Jenny to be nice to her
 
 2: one: who are friends at the start of the story?
- A) Sam and Jenny
+*A) Sam and Jenny
  B) Sam and Jenny and Kimmi and Joe
  C) Jenny and Kimmi
  D) Kimmi and Joe
@@ -604,12 +604,12 @@ There were two best friends named Sam and Jenny. They were not friends with Kimm
  A) Sam is friends with everyone.
  B) Jenny
  C) Joe
- D) Joe and Kimmi
+*D) Joe and Kimmi
 
 4: multiple: what were Jenny, Sam and Kimmi doing under the tree?
  A) Sam and Kimmi found Jenny with a hurt puppy
  B) Jenny and Kimmi found Sam crying
- C) Sam and Jenny were playing with a puppy and found Kimmi crying.
+*C) Sam and Jenny were playing with a puppy and found Kimmi crying.
  D) Jenny, Sam and Kimmi were playing together
 
 
@@ -628,25 +628,25 @@ On the day of the school Christmas show, the school loved the musical and cheere
 
 1: one: What was Max's job?
  A) Dancer.
- B) Setting up the stage and lights.
+*B) Setting up the stage and lights.
  C) Making the costumes.
  D) Singer.
 
 2: multiple: Which of the following wasn't an idea that for the school Christmas show?
- A) Going out for ice cream.
+*A) Going out for ice cream.
  B) Putting on a play.
  C) Putting on a musical.
  D) Putting on a dance show.
 
 3: one: Why did Joe get chocolate ice cream?
- A) Because they were all out of strawberry.
+*A) Because they were all out of strawberry.
  B) Because the school was giving out free ice cream for the Christmas show.
  C) Because it was the idea that was picked out of the hat.
  D) Because it's his favorite flavor of ice cream.
 
 4: multiple: In the end, how many singers were in the show?
  A) four
- B) five
+*B) five
  C) three
  D) two
 
@@ -664,24 +664,24 @@ One day, a dad and his daughter, named Sarah, went on a trip to pick pears from 
  A) It was red and squishy.
  B) It was pink and hard.
  C) It was green and hard.
- D) It was green and squishy.
+*D) It was green and squishy.
 
 2: one: What color was Sarah's shirt?
  A) Red
- B) Pink
+*B) Pink
  C) Yellow
  D) Green
 
 3: multiple: How many pears did Sarah and her dad pick?
  A) Thirty
- B) Thirty four
+*B) Thirty four
  C) Three
  D) Five
 
 4: one: Who was Sarah picking pears with?
  A) Her sister.
  B) Her grandmother.
- C) Her dad.
+*C) Her dad.
  D) Her mom.
 
 
@@ -697,26 +697,26 @@ A young mother had a child that was in kindergarten. One day, the class took a t
 1: one: Which animal was the friendliest?
  A) The pig.
  B) The cows.
- C) The tiger.
+*C) The tiger.
  D) The unicorn.
 
 2: multiple: Where did the mother throw their trash?
  A) On the bus.
- B) The trashcans near the stone benches.
+*B) The trashcans near the stone benches.
  C) Outside the zoo.
  D) On the ground.
 
 3: one: Where did the class take a trip?
  A) The water slide.
  B) The park.
- C) The zoo.
+*C) The zoo.
  D) The school.
 
 4: multiple: Where did they have lunch?
  A) By the pigs.
  B) With a unicorn.
  C) The tiger den.
- D) The stone benches in the park area.
+*D) The stone benches in the park area.
 
 
 ***************************************************
@@ -732,23 +732,23 @@ When it is the end of school and the weather is warmer, that is a beautiful time
  A) Because my friends don't like me
  B) Because I am not nice
  C) Because they are at school
- D) Because my friends are on vacation
+*D) Because my friends are on vacation
 
 2: multiple: What amazing things can you do during the summer?
- A) You can have ice-cream for breakfast, stay inside all day and watch television, and ride your bike.
+*A) You can have ice-cream for breakfast, stay inside all day and watch television, and ride your bike.
  B) You can eat ice-cream for breakfast, meet up with friends, and go shopping
  C) You can go shopping, get dirty playing outside, and eat ice-cream for dinner.
  D) You can ride your bike, sleep all day, and wear a dress.
 
 3: multiple: What animals do I have?
  A) Pig, dog, and fish.
- B) Pig, dog, and cat.
+*B) Pig, dog, and cat.
  C) Dog, pig, fish
  D) Cat, dog, snake.
 
 4: one: When is my birthday?
  A) During the winter
- B) During the summer
+*B) During the summer
  C) During the fall
  D) During the spring
 
@@ -777,7 +777,7 @@ Lucy frowned as they walked to the lost and found and gave the bag back. Then th
 With that they shut off the bathroom light and went to bed. A great day had by all.
 
 1: one: What was David worried about?
- A) missing the wolf clown
+*A) missing the wolf clown
  B) their little brother could not go in the tent
  C) the bag was not theirs
  D) his sister drawing triangles in the sand
@@ -785,19 +785,19 @@ With that they shut off the bathroom light and went to bed. A great day had by a
 2: multiple: What did David say to Lucy to calm her fear?
  A) He said the circus had all clowns
  B) He said their little brother was too young
- C) He said he would save her and that the wolf clown was a person in make-up
+*C) He said he would save her and that the wolf clown was a person in make-up
  D) He said their mom went to the bathroom
 
 3: one: Where were they going?
  A) the circus to see triangles
  B) the bathroom to get ready for bed
  C) to see the wolf at the zoo.
- D) The circus to see clowns
+*D) The circus to see clowns
 
 4: multiple: What did Lucy do with the bag she found in the tent?
  A) it had cool stuff in it so they kept it
  B) they left it in the bathroom
- C) Lucy's Mom made her turn it into the lost and found because it was not theirs.
+*C) Lucy's Mom made her turn it into the lost and found because it was not theirs.
  D) they took it to the truck with the diapers
 
 
@@ -812,13 +812,13 @@ The red fox slowly walked out of his den he lives in; his own house in the groun
 
 1: multiple: Who did the fox get the apple for?
  A) Mrs. Fox
- B) His fox kits
+*B) His fox kits
  C) Himself
  D) His friend
 
 2: one: What does the fox live in?
  A) A tree
- B) A den
+*B) A den
  C) A rock
  D) A house
 
@@ -826,10 +826,10 @@ The red fox slowly walked out of his den he lives in; his own house in the groun
  A) Summer
  B) Spring
  C) Winter
- D) Autumn
+*D) Autumn
 
 4: multiple: How did the fox get to the apple?
- A) He jumped to the branch
+*A) He jumped to the branch
  B) The apple fell down
  C) The apple was on the ground
  D) He climbed the tree
@@ -847,24 +847,24 @@ Once upon a time, there was a little frog in a little castle. The little frog wa
 1: one: Where did the cake go before the frog put frosting on it?
  A) Into the castle
  B) On his friends' heads
- C) Into the oven
+*C) Into the oven
  D) Into the frog's belly
 
 2: multiple: What did the friends and the frog think of the cake?
  A) They thought it was ugly.
  B) They didn't like it.
  C) The frog has no friends.
- D) They liked it.
+*D) They liked it.
 
 3: one: What color was the frosting?
  A) Red
- B) Pink
+*B) Pink
  C) Blue
  D) Brown
 
 4: multiple: Why did the frog make a cake?
  A) He was sad.
- B) He was having a party.
+*B) He was having a party.
  C) An evil witch told him to.
  D) His best friend was buying it from him.
 
@@ -882,16 +882,16 @@ It was a beautiful Friday morning in Los Angeles. The sun was shining and the bi
  A) bathroom
  B) kitchen
  C) living room
- D) desk
+*D) desk
 
 2: multiple: what day was Angela making salad for lunch?
  A) today
- B) Saturday
+*B) Saturday
  C) Sunday
  D) Friday
 
 3: one: Where did Angela clean first?
- A) bathroom
+*A) bathroom
  B) kitchen
  C) living room
  D) dining room
@@ -900,7 +900,7 @@ It was a beautiful Friday morning in Los Angeles. The sun was shining and the bi
  A) sky
  B) ocean
  C) bedroom
- D) the beach
+*D) the beach
 
 
 ***************************************************
@@ -914,24 +914,24 @@ A naughty boy was sitting in math class on Tuesday. There was a broken sink in t
 
 1: multiple: How did the teacher react to the naughty boy?
  A) she made him sit on the window
- B) she didn't let him go on the playground for a week
+*B) she didn't let him go on the playground for a week
  C) she put his head in the water
  D) she made him go outside
 
 2: one: Where was the naughty boy sitting?
  A) outside
  B) on the playground
- C) in math class
+*C) in math class
  D) on the window
 
 3: one: What scared the kitty inside?
  A) the playground
  B) the naughty boy
- C) a loud airplane
+*C) a loud airplane
  D) the teacher
 
 4: multiple: What day did the teacher's husband fix the sink?
- A) Wednesday
+*A) Wednesday
  B) soon
  C) Saturday
  D) Tuesday
@@ -951,26 +951,26 @@ Tomorrow was Little Bunny's birthday.  He was very excited.  He wanted to invite
 1: multiple: How many friends did Little Bunny want to invite?
  A) eight
  B) five
- C) six
+*C) six
  D) four
 
 2: multiple: Who would feel left out if they couldn't come to the party?
  A) Bear and Duck
- B) Fox and Turtle
+*B) Fox and Turtle
  C) Goose and Rabbit
  D) Duck and Goose
 
 3: one: Who was having a birthday?
  A) Turtle
  B) Duck
- C) Little Bunny
+*C) Little Bunny
  D) Bear
 
 4: one: Who was fun and told funny jokes?
  A) Rabbit
  B) Bear
  C) Goose
- D) Turtle
+*D) Turtle
 
 
 ***************************************************
@@ -992,10 +992,10 @@ Tori learned to never escape the backyard again and lived happily ever after wit
  A) Patty and Ben
  B) Ben and Joe
  C) Mike and Joe
- D) Ben and Mike
+*D) Ben and Mike
 
 2: multiple: Where was the puppy placed to wait to be picked up?
- A) In a cage at an Animal Control center.
+*A) In a cage at an Animal Control center.
  B) On the street.
  C) In her backyard outside.
  D) On the sidewalk.
@@ -1003,14 +1003,14 @@ Tori learned to never escape the backyard again and lived happily ever after wit
 3: multiple: Where was Tori playing with her favorite ball?
  A) On the sidewalk.
  B) At Animal Control.
- C) In her backyard.
+*C) In her backyard.
  D) In the truck.
 
 4: one: Who opened Tori's cage?
  A) Mike
  B) Patty
  C) Ben
- D) Joe
+*D) Joe
 
 
 ***************************************************
@@ -1024,24 +1024,24 @@ The children's father wanted to know what every one wanted on their pizza. Andy 
 
 1: multiple: Who wanted to have green onions on the pizza?
  A) Andy and father
- B) Sue and father.
+*B) Sue and father.
  C) Sue and Dan
  D) Dan and Andy
 
 2: one: Who did not want thin crust pizza?
  A) Sue and Dan
- B) Dan and Andy
+*B) Dan and Andy
  C) Father and Sue
  D) Father and Dan
 
 3: multiple: Who did not want chicken on the pizza?
  A) Andy, Sue and Dan
- B) Sue and Dan
+*B) Sue and Dan
  C) Just Sue
  D) Just Dan
 
 4: multiple: Who wanted mushrooms on the pizza?
- A) Dan, Andy and Sue
+*A) Dan, Andy and Sue
  B) Dan and Father
  C) Father and Sue
  D) Andy and Father
@@ -1057,7 +1057,7 @@ Creativity Words: corn,egg,toy,cone,swing,sweep,burp,hill,clown,dinnertime,white
 One morning a girl named Ashely woke up before her Mom and Dad and started watching TV. Once her parents woke up, everybody got dressed to go food shopping for the week. Food shopping was one of Ashley's favorite things to do. The family got to the grocery store and grabbed a shopping cart. The first foods they ran into were the fruits. Ashley ran to pick her favorite fruit, apples, while her parents went and got other things that they needed, like the sour lemons. As the family kept walking through the grocery store Ashley begged for some candy that she saw, but the other things her parents bought were eggs, milk and bread. After all of the food was picked out, the family went up to the check-out line to pay for their food. Ashley never liked the check-out line, as it always took too long, but today was different. The checkout lady, Sarah, was extra nice to her and as she was waiting for her parents to pay, Ashley's father picked out a candy for her to have. It was her favorite, chocolate! Ashley was so excited that she thanked her parents the whole ride home, and even said she would make breakfast. When the family got home that afternoon and the food was in the house, the whole family made their lunch of eggs and toast together.
 
 1: one: What was the girl's name?
- A) Ashley
+*A) Ashley
  B) Dad
  C) Sarah
  D) Mom
@@ -1066,10 +1066,10 @@ One morning a girl named Ashely woke up before her Mom and Dad and started watch
  A) Eggs
  B) Bread
  C) Lemons
- D) Apples
+*D) Apples
 
 3: multiple: What did Ashley's dad buy for her that made her excited?
- A) Chocolate
+*A) Chocolate
  B) Bread
  C) Lemons
  D) Eggs
@@ -1077,7 +1077,7 @@ One morning a girl named Ashely woke up before her Mom and Dad and started watch
 4: one: What was one of Ashley's favorite things to do?
  A) Waiting in line
  B) Eating breakfast
- C) Food Shopping
+*C) Food Shopping
  D) Making breakfast
 
 
@@ -1110,26 +1110,26 @@ And from that day forward, whenever their mother told them to do something, they
 
 1: multiple: What happened when John and Sally got into the darkest part of the forest?
  A) They saw the lion.
- B) They heard the lion roar.
+*B) They heard the lion roar.
  C) They found the ingredients for the very special cake.
  D) They jumped in mud puddles and threw sticks at one another.
 
 2: multiple: What did John and Sally's mother want to do for her son and daughter?
  A) She wanted to eat melon balls.
- B) She wanted to bake a very special cake.
+*B) She wanted to bake a very special cake.
  C) She wanted to watch TV and eat potato chips.
  D) She wanted to feed them to a lion.
 
 3: multiple: Why did John and Sally's mother want her children to follow the river and not go into the forest?
  A) She had been eating too many melon balls.
- B) A lion had escaped from the zoo and he might be hiding in the forest.
+*B) A lion had escaped from the zoo and he might be hiding in the forest.
  C) It was a beautiful day.
  D) Following the river was the shortest way into town.
 
 4: one: Who said the very special cake sounded horrible?
  A) Sally.
  B) The lion.
- C) John.
+*C) John.
  D) John and Sally's Mother.
 
 
@@ -1149,25 +1149,25 @@ One day, Andy became bored.  "Maybe I'll play outside," said Andy.  He tried to 
 Andy was starting to get sad, and then his sister Angie came in and asked, "Do you want to play, Andy?"  "Yes," said Andy.  And they played with blocks, and dolls, and cards.  And they had fun.  As it turns out, all Andy needed was somebody to play with.
 
 1: multiple: Where didn't Andy play?
- A) Playground
+*A) Playground
  B) Outside
  C) Basement
  D) His room
 
 2: one: What didn't Andy do with Angie?
- A) Play with sticks
+*A) Play with sticks
  B) Play with dolls
  C) Play with blocks
  D) Play with cards
 
 3: one: What did Andy finally do that made him have fun?
  A) Played in the basement
- B) Played with his sister
+*B) Played with his sister
  C) Played with a friend
  D) Played with blocks
 
 4: multiple: What didn't Andy play with?
- A) Video Games
+*A) Video Games
  B) Blocks
  C) Dolls
  D) Cards
@@ -1185,23 +1185,23 @@ There was once a baseball player who lived in a faraway land. The Baseball playe
 1: multiple: What did Tyler like most about the house?
  A) Movie theatre
  B) Bowling Place
- C) The Trampoline
+*C) The Trampoline
  D) Swimming Pool
 
 2: one: Who made people give the baseball player things?
  A) Jerry
  B) Tyler
  C) Lucy
- D) Peter
+*D) Peter
 
 3: multiple: What was the baseball player's name?
  A) Peter
  B) Lucy
  C) Jerry
- D) Tyler
+*D) Tyler
 
 4: one: What was Tyler's favorite way to throw a baseball?
- A) Fast
+*A) Fast
  B) Rolling it on the ground
  C) Slow
  D) On his head
@@ -1217,7 +1217,7 @@ Creativity Words: feathering,spanking,think,bantling,brownie,tongue,cutie,yard,b
 Animals love to walk near the train tracks. One night a beautiful black cat was walking along the train tracks looking for a nice mouse to eat. He came across some friends, Bob the cat and Steve the dog. They chose to go looking for food together. They walked up and down the tracks looking for a wonderful meal to snack on, when they happened across a big huge melon. Bob asked the black cat if he like melons, the cat did not like melons. Bob asked the dog if he liked melons, Steve did not like melons either. Bob then ate the melon himself as they looked around for that tasty treat. They heard bells from the train coming by and then they finally saw the food they were looking for jump from the bushes over the tracks and run straight into the barn nearby. The black cat wanted to eat the mouse, so he chased him into the barn. Minutes later the black cat returned with his meal in his mouth to share with his friends.
 
 1: multiple: Did the train make noise at all?
- A) The bells sounded
+*A) The bells sounded
  B) no
  C) the train never came
  D) the train had loud wheels
@@ -1226,16 +1226,16 @@ Animals love to walk near the train tracks. One night a beautiful black cat was 
  A) Jon
  B) Steve
  C) Bob
- D) No
+*D) No
 
 3: multiple: Who ate the melon?
  A) The black cat
  B) Steve
  C) Steve and the black cat
- D) Bob
+*D) Bob
 
 4: one: Where did the mouse get caught?
- A) Barn
+*A) Barn
  B) the grass
  C) Train tracks
  D) in the train
@@ -1252,7 +1252,7 @@ Jane was good at basketball but she liked soccer more.  She played forward for h
 
 1: multiple: What color shirt was the man wearing who showed Jane and her dad their seats?
  A) Blue.
- B) Green.
+*B) Green.
  C) Black and white.
  D) Red.
 
@@ -1260,16 +1260,16 @@ Jane was good at basketball but she liked soccer more.  She played forward for h
  A) The pitcher.
  B) Jane's father.
  C) A man who had cotton candy.
- D) Jane's coach.
+*D) Jane's coach.
 
 3: one: What sport did Jane's father take her to see?
  A) Soccer.
  B) Basketball.
  C) Running.
- D) Baseball.
+*D) Baseball.
 
 4: one: What did Jane and her father eat at the baseball game?
- A) Hot dogs.
+*A) Hot dogs.
  B) Cotton candy.
  C) Orange slices.
  D) Peanuts.
@@ -1292,7 +1292,7 @@ Mars thought about it for a little bit. "Hmm." he said. "Maybe you could make hi
 That night, at Moon's birthday party, when Moon opened the gift from Ms. Star, he was the happiest he had been about any of the gifts. "It's the perfect gift! Thank you so much Ms. Star!" He pulled out of the box a beautiful sweater that Ms. Star had made out of her own star dust. "It's so cold here in space! A sweater is the best gift ever!"
 
 1: one: What did Mars say Ms. Star could do?
- A) Make something.
+*A) Make something.
  B) Wear a sweater.
  C) Play with a space puppy.
  D) Ride a space ship.
@@ -1300,20 +1300,20 @@ That night, at Moon's birthday party, when Moon opened the gift from Ms. Star, h
 2: multiple: What gifts did Ms. Star get for Moon, and why?
  A) A space puppy, to play with!
  B) A space ship, to ride!
- C) A sweater made from star dust, because it's cold in space!
+*C) A sweater made from star dust, because it's cold in space!
  D) A new house to live in!
 
 3: one: What also sounded like a fun gift?
  A) Neptune.
  B) A dog.
  C) A cupcake.
- D) A rainbow.
+*D) A rainbow.
 
 4: multiple: Who all did Ms. Star have to ask to find the right gift for Moon?
  A) Pluto.
  B) Uranus.
  C) Neptune.
- D) Saturn and Mars.
+*D) Saturn and Mars.
 
 
 ***************************************************
@@ -1331,12 +1331,12 @@ So it was very weird to wake up and see that she was not home for her morning fo
 
 1: one: What is my cat's name?
  A) Mom
- B) Buggleton
+*B) Buggleton
  C) Kitchen
  D) Joe
 
 2: multiple: Where was my cat this morning?
- A) Garage
+*A) Garage
  B) Shed
  C) Kitchen
  D) Box
@@ -1344,14 +1344,14 @@ So it was very weird to wake up and see that she was not home for her morning fo
 3: multiple: Where does my cat have a door?
  A) Den
  B) Garage
- C) Kitchen
+*C) Kitchen
  D) Box
 
 4: one: Who takes care of my cat when I am on vacation?
  A) Neighbor
  B) Husband
  C) Brother
- D) Mom
+*D) Mom
 
 
 ***************************************************
@@ -1368,11 +1368,11 @@ While there he met many people who also liked giraffes.  He liked seeing how tal
 1: one: What is Graham's favorite animal?
  A) Lion
  B) Elephant
- C) Giraffe
+*C) Giraffe
  D) Panda
 
 2: one: Where did he go to see Giraffes when he was young?
- A) The Zoo
+*A) The Zoo
  B) School
  C) Africa
  D) His room
@@ -1380,11 +1380,11 @@ While there he met many people who also liked giraffes.  He liked seeing how tal
 3: multiple: Which one of the following did Graham not do to educate people?
  A) Give speeches
  B) Raise money
- C) Go to Africa
+*C) Go to Africa
  D) Make signs
 
 4: multiple: Why did Graham think the giraffes needed help?
- A) Their homes were being destroyed
+*A) Their homes were being destroyed
  B) They had spots
  C) They were too tall
  D) They lived in Africa
@@ -1403,7 +1403,7 @@ At noon he juggled plates and at one in the afternoon he sat down to have some l
 
 1: multiple: How does the clown work hard?
  A) He stayed at the zoo
- B) He threw a plane and put jelly on his face
+*B) He threw a plane and put jelly on his face
  C) He laughed
  D) He stood outside
 
@@ -1411,10 +1411,10 @@ At noon he juggled plates and at one in the afternoon he sat down to have some l
  A) Because he had too much paint on his face
  B) Because he worked in the zoo
  C) Because he juggled plates
- D) Because it was warmer than normal and he was in costume
+*D) Because it was warmer than normal and he was in costume
 
 3: one: Where does the story take place?
- A) In a zoo
+*A) In a zoo
  B) At a circus
  C) At a plate shop
  D) In a jelly store
@@ -1422,7 +1422,7 @@ At noon he juggled plates and at one in the afternoon he sat down to have some l
 4: one: What does the clown do at noon?
  A) He puts jelly on his face
  B) He throws a plane
- C) He juggles plates
+*C) He juggles plates
  D) He puts on his costume
 
 
@@ -1438,26 +1438,26 @@ Marvin woke up on Monday morning. He yawned and stretched and got out of bed to 
 1: one: Where did Lisa invite Marvin?
  A) the kitchen
  B) outside
- C) the lake
+*C) the lake
  D) a car
 
 2: one: What color was Marvin's cereal bowl?
  A) red
  B) blue
- C) green
+*C) green
  D) yellow
 
 3: multiple: What did Marvin hear when he went outside?
  A) the sun
  B) Lisa
- C) bluebirds
+*C) bluebirds
  D) cars
 
 4: multiple: Where did Marvin go right when he woke up?
  A) the kitchen
  B) his bedroom
  C) outside
- D) The bathroom
+*D) The bathroom
 
 
 ***************************************************
@@ -1486,26 +1486,26 @@ The cat and mouse then sat down together and ate a meal of tasty berries. It tur
 1: multiple: What was the cat confused about?
  A) The cat was confused about where the river was.
  B) The cat was confused about the other little animals who lived in the woods.
- C) The cat was confused about being given berries.
+*C) The cat was confused about being given berries.
  D) The cat was confused about catching the scent of the mouse.
 
 2: multiple: Where did the mouse choose to rest?
  A) The mouse chose to rest in the woods.
  B) The mouse chose to rest on the small, grey cat.
  C) The mouse chose to rest with the other little animals who lived in the woods.
- D) The mouse chose to rest in a small area with soft sand to lie on.
+*D) The mouse chose to rest in a small area with soft sand to lie on.
 
 3: one: How did the cat find the mouse?
  A) The cat went down to the river because it was a nice day out and spotted him.
  B) The cat had followed the mouse to the river.
- C) The cat caught a scent of the mouse.
+*C) The cat caught a scent of the mouse.
  D) The cat was told by the other little animals.
 
 4: one: Where did the cat live?
  A) Under a tree.
  B) By the river.
  C) With the mouse.
- D) In the woods.
+*D) In the woods.
 
 
 ***************************************************
@@ -1529,24 +1529,24 @@ Overall, it had been a quiet but good day for Sherry, and she fell asleep feelin
  A) Make her bed, then weed her garden
  B) Read, then make dinner
  C) Feed her cat, then laundry
- D) Weed her garden, then laundry
+*D) Weed her garden, then laundry
 
 2: multiple: Who in this story is a cat?
  A) Sam
  B) Sherry
- C) Zoey
+*C) Zoey
  D) Carl
 
 3: multiple: Which chore did Sherry do first?
  A) Make her bed
- B) Gardening
+*B) Gardening
  C) Feed her cat
  D) Laundry
 
 4: one: What did Sherry NOT do after dinner?
  A) Make her bed
  B) Brush her teeth
- C) Feed her cat
+*C) Feed her cat
  D) Read her book
 
 
@@ -1569,25 +1569,25 @@ She knew she would have enough money to pay for the kitten's food and care. She 
  A) Rachel thought that the kitten must not have a home.
  B) The kitten was friendly.
  C) She took the kitten to a doctor to see if there was an ID chip under the skin.
- D) She had enough money and enough time for the kitten.
+*D) She had enough money and enough time for the kitten.
 
 2: multiple: Which of the following made Rachel think that the kitten didn't have a home?
  A) She found the kitten at the park.
  B) The kitten was friendly.
  C) The kitten had orange fur.
- D) Its ribs were showing and it didn't have a collar.
+*D) Its ribs were showing and it didn't have a collar.
 
 3: one: Where did Rachel look at lost kitten ads?
  A) The doctor's office
  B) The zoo
- C) The Internet
+*C) The Internet
  D) The park
 
 4: one: Where did the doctor look for an ID chip on the kitten?
  A) On the belly.
  B) On the collar.
  C) On the ribs.
- D) Under the skin.
+*D) Under the skin.
 
 
 ***************************************************
@@ -1601,18 +1601,18 @@ Sally was walking through the park. The bluebirds were singing and the weather w
 
 1: multiple: Where did the puppy sleep?
  A) The fridge.
- B) Sally's bed.
+*B) Sally's bed.
  C) Sally's arms.
  D) The park.
 
 2: multiple: What did Sally hear in the park?
  A) a bird
- B) a puppy
+*B) a puppy
  C) a kitten
  D) her neighbor
 
 3: multiple: Why did Sally laugh?
- A) The puppy licked her nose.
+*A) The puppy licked her nose.
  B) The puppy wagged his tail.
  C) The puppy fell asleep.
  D) The puppy ate some meat.
@@ -1620,7 +1620,7 @@ Sally was walking through the park. The bluebirds were singing and the weather w
 4: one: What color was the puppy?
  A) white
  B) brown
- C) brown with white paws
+*C) brown with white paws
  D) white with brown paws
 
 
@@ -1637,20 +1637,20 @@ Che called for his dad. He was going to need help finding this book if he was go
 They looked in every room of the house together. They checked the bathroom, kitchen, and living room. Finally his father had an idea. He moved the couch and there was the book! Che was very happy. He would help his class get a pizza party.
 
 1: one: Where did they find the book?
- A) Under the couch.
+*A) Under the couch.
  B) In the kitchen.
  C) In the bathroom.
  D) Under his bed.
 
 2: multiple: Why was today an important day?
- A) His class would get a pizza party if everybody brought their library books back.
+*A) His class would get a pizza party if everybody brought their library books back.
  B) The library was closed.
  C) There was going to be a pizza party for everybody who came to school.
  D) There was pizza for school lunch today.
 
 3: one: Why was Che happy?
  A) He didn't have to go to school.
- B) He found the book.
+*B) He found the book.
  C) He got a pizza party.
  D) His father brought him pizza.
 
@@ -1658,7 +1658,7 @@ They looked in every room of the house together. They checked the bathroom, kitc
  A) He was late for school.
  B) His father would not help him.
  C) His dog was getting in the way.
- D) He couldn't find his library book.
+*D) He couldn't find his library book.
 
 
 ***************************************************
@@ -1672,24 +1672,24 @@ Farmer John loves to have parties! Everyone says that he has the best parties in
 
 1: one: Who is Farmer John's best friend?
  A) Robert
- B) Bill
+*B) Bill
  C) Jessica
  D) Mary
 
 2: one: Who is the first guest to show up?
  A) Mary
  B) Jessica
- C) Robert
+*C) Robert
  D) Bill
 
 3: multiple: Who won the last game of pin the tail on the unicorn?
  A) Mary
  B) Farmer John
- C) Jessica
+*C) Jessica
  D) Bill
 
 4: multiple: After Robert has eaten some bacon, what does he eat next?
- A) Pasta
+*A) Pasta
  B) Sandwiches
  C) Chicken
  D) Salad
@@ -1714,25 +1714,25 @@ Jacob's mother looked out the window and saw Jacob, Pet, the bumblebee, and the 
  A) Pet.
  B) Jacob's mother.
  C) Jacob.
- D) The bumblebee.
+*D) The bumblebee.
 
 2: one: What part of Jacob's body got hurt?
  A) feet
  B) head
  C) hands
- D) elbow
+*D) elbow
 
 3: multiple: What did Jacob lay his head on?
  A) The picnic table.
  B) A robin.
  C) His dog, Pet.
- D) Pet's toy frog.
+*D) Pet's toy frog.
 
 4: multiple: What made Jacob feel sleepy?
  A) Hitting his elbow.
  B) Washing his hands.
  C) Seeing a robin.
- D) The cool breeze and the warm sun.
+*D) The cool breeze and the warm sun.
 
 
 ***************************************************
@@ -1755,11 +1755,11 @@ The last animals that they saw were the penguins.  Natalie and her brothers thou
 1: multiple: What animal did Natalie ask to take home?
  A) giraffe
  B) elephant
- C) penguin
+*C) penguin
  D) crocodile
 
 2: multiple: Why did Logan like the giraffe?
- A) it looked funny and had spots
+*A) it looked funny and had spots
  B) it jumped up and down
  C) it pounded its chest and roared
  D) it looked tough
@@ -1767,14 +1767,14 @@ The last animals that they saw were the penguins.  Natalie and her brothers thou
 3: one: What was Natalie's favorite animal?
  A) elephant
  B) penguin
- C) gorilla
+*C) gorilla
  D) crocodile
 
 4: one: What was the little girl's name in the story?
  A) Logan
  B) Jared
  C) Tim
- D) Natalie
+*D) Natalie
 
 
 ***************************************************
@@ -1797,24 +1797,24 @@ The two boys then heard the front door open and close. They raced down the stair
 1: one: Where is Ted's daddy taking him for his birthday?
  A) The cherry candy store.
  B) The shirt store.
- C) The yogurt store.
+*C) The yogurt store.
  D) The shoe store.
 
 2: multiple: What things did Ted look at in the closet?
  A) Yogurt spoons.
  B) Alphabet blocks.
  C) Mirrors.
- D) A shirt, pair of pants, and a pair of shoes.
+*D) A shirt, pair of pants, and a pair of shoes.
 
 3: multiple: What did the boys say to their father?
  A) Ted and Paul told him that they wanted cherry yogurt.
- B) Ted said that he was ready for his birthday, and so did Paul.
+*B) Ted said that he was ready for his birthday, and so did Paul.
  C) Ted and Paul said that they wanted pizza instead of yogurt.
  D) Ted and Paul said that they would be four years old.
 
 4: one: What was Ted happy about?
  A) He got a new mirror.
- B) His birthday is tomorrow.
+*B) His birthday is tomorrow.
  C) He got a new pair of shoes.
  D) He got some cherry candy.
 
@@ -1839,17 +1839,17 @@ After a half hour, the two boys were very tired from climbing the ladder and fly
 1: multiple: When did the boys get to use the swings?
  A) The boys did not want to use the swings
  B) When they got to the park
- C) After Anne and Susan
+*C) After Anne and Susan
  D) When they pushed Anne and Susan off of them
 
 2: one: Who went to the park?
- A) Bill and Steve
+*A) Bill and Steve
  B) Anne and Susan
  C) Susan and Bill
  D) Bill and Anne
 
 3: one: Did Anne and Susan let the boys use the swings?
- A) No, they did not
+*A) No, they did not
  B) They let the boys use the swings when Bill traded them his bike
  C) The girls were not on the swings
  D) They got off the swings and let the boys use them
@@ -1858,7 +1858,7 @@ After a half hour, the two boys were very tired from climbing the ladder and fly
  A) The swings
  B) Anne and Susan
  C) Their bikes
- D) The slide
+*D) The slide
 
 
 ***************************************************
@@ -1871,13 +1871,13 @@ Creativity Words: horn,toe,pumpkin,present,hurry,crossing,birthday,spank,like,si
 It was almost Kira's birthday and Halloween. Kira wanted to paint pumpkins at the circus, but she was sick in bed. She had broken her leg earlier and now all of her leg hurt, even her toes. She had hurried when she had crossed the road, and slipped and ended up going to the hospital. Because she was not being careful enough, she was stuck in bed, eating crackers and watching television. Just as Kira was on her fourth hour of television, her mother knocked on her door. "Kira," she said. "Your friends are here." Kira looked up to see her two best friends, Lexie and Jamie. They were grinning. "Kira," Lexie said, "We got you something." When they entered, Kira saw that they had a giant pumpkin with them. Jamie was carrying a set of paints and paintbrushes. "Aww," Kira said. "Thank you, guys." "Duh," Lexie said. "What are friends for?"
 
 1: one: What was Kira doing when she was stuck in bed?
- A) Eating crackers and watching TV
+*A) Eating crackers and watching TV
  B) Drawing
  C) Watching a movie
  D) Writing and watching TV
 
 2: one: What are Kira's friends' names?
- A) Lexie and Jamie
+*A) Lexie and Jamie
  B) Lana and Jackie
  C) Lexie and Jimmy
  D) Lauren and Jamie
@@ -1886,13 +1886,13 @@ It was almost Kira's birthday and Halloween. Kira wanted to paint pumpkins at th
  A) Play games; the town fair.
  B) Paint pumpkins; the town fair
  C) Play games; the circus
- D) Paint pumpkins; the circus
+*D) Paint pumpkins; the circus
 
 4: one: What time of year was it?
  A) Summer
  B) Spring
  C) Winter
- D) Fall
+*D) Fall
 
 
 ***************************************************
@@ -1909,11 +1909,11 @@ Truthfully, I had forgotten about the trip and made plans with my friends, Laure
 1: multiple: Which of the following is not one of the activities the family did at the beach?
  A) Go swimming
  B) Do some reading
- C) Play in the sand
+*C) Play in the sand
  D) Meet some new families
 
 2: one: What was the main character's name?
- A) Janet
+*A) Janet
  B) Lauren
  C) Karen
  D) Matthew
@@ -1921,13 +1921,13 @@ Truthfully, I had forgotten about the trip and made plans with my friends, Laure
 3: multiple: What type of vehicle does the family have?
  A) Van
  B) Airplane
- C) Car
+*C) Car
  D) Truck
 
 4: one: Which of the following was not one of the ways the main character was woken up?
  A) Birds chirping
  B) The sun beating down on a window
- C) A phone call by her friends making sure they were still going out later in the day
+*C) A phone call by her friends making sure they were still going out later in the day
  D) An alarm clock going off
 
 
@@ -1942,26 +1942,26 @@ A small boy named John was at the park one day.  He was swinging on the swings a
 
 1: multiple: Who saw John crying and told Ms. Tammy?
  A) Tim
- B) Susan
+*B) Susan
  C) John
  D) Ms. Tammy
 
 2: one: Who was on the slide in the beginning?
  A) John
- B) Tim
+*B) Tim
  C) Susan
  D) Ms. Tammy
 
 3: multiple: Who ended up taking turns on the slide?
  A) Tim and Ms. Tammy
  B) John and Susan
- C) John and Tim
+*C) John and Tim
  D) Tim and Susan
 
 4: one: Who was playing on the swing?
  A) Susan
  B) Tim
- C) John
+*C) John
  D) Ms. Tammy
 
 
@@ -1975,26 +1975,26 @@ Creativity Words: potato,laugh,long,spaghetti,cat,lip,pig,dug,present,bath,rule,
 A cat was watching a bird in a tree. The blue bird watched the cat as it tried to use its claws and climb up the tree. The cat reached the right branch and slowly walked towards the bird. The bird flew away and the cat was left stuck on the branch. The cat jumped down from the tall branch and didn't get hurt. He then chased after a chipmunk along the ground. The chipmunk was not faster than the cat, but the chipmunk ran up a tree. The cat tried to run up the tree, but fell back down. Not wanting to go back up a tree, the cat watched the chipmunk from the ground. It went into a hole in the tree and the cat gave up. The cat went under a house's deck to keep cool. It watched for more birds or chipmunks that it could chase after. He saw one chipmunk in the distance, then two three and four. He was ready to chase them.
 
 1: multiple: What did the cat chase last?
- A) A chipmunk
+*A) A chipmunk
  B) A tree
  C) A cat
  D) A bird
 
 2: one: What happened after the cat jumped off the branch?
- A) It chased a chipmunk
+*A) It chased a chipmunk
  B) It got hurt
  C) It chased a bird
  D) It went under the deck
 
 3: one: Where did the cat go after it gave up?
- A) Under a deck
+*A) Under a deck
  B) Up a tree
  C) In a house
  D) On the ground
 
 4: multiple: How many trees did the cat climb or try to climb?
  A) Four
- B) Two
+*B) Two
  C) One
  D) Three
 
@@ -2023,24 +2023,24 @@ They looked around. There were rocks but they were too hard. There could get mud
 1: one: Why did they go to the park?
  A) To watch a wedding.
  B) To throw rocks.
- C) To play baseball.
+*C) To play baseball.
  D) To play in the pond.
 
 2: multiple: What happened when Shelly threw the melon?
  A) The melon hit Bob.
- B) Bob hit the melon with the bat. The melon blew up.
+*B) Bob hit the melon with the bat. The melon blew up.
  C) Bob hit a home run with the melon.
  D) Bob swung and missed.
 
 3: one: What was Bob?
- A) Bob was a horse.
+*A) Bob was a horse.
  B) Bob was a baseball.
  C) Bob was a cat.
  D) Bob was a lamb.
 
 4: multiple: Why did Bob hit a melon with a baseball bat?
  A) Bob liked hitting melons more than baseballs.
- B) He and his friends wanted to play baseball. They wanted to play baseball. Lucy forgot the ball. They looked around and couldn't find anything better.
+*B) He and his friends wanted to play baseball. They wanted to play baseball. Lucy forgot the ball. They looked around and couldn't find anything better.
  C) Shelly and Lucy dared him to do it.
  D) They wanted to mess up the wedding.
 
@@ -2056,18 +2056,18 @@ There were many people at the store that day. This was because it was Saturday. 
 
 1: one: Why were there so many people in the store?
  A) Because people were shopping.
- B) Because it was Saturday.
+*B) Because it was Saturday.
  C) Because it was noon.
  D) Because it was going to rain later.
 
 2: multiple: Was Mary happy with the cake?
  A) No, she was sad.
- B) Yes.
+*B) Yes.
  C) No, she was angry.
  D) No, she was upset.
 
 3: one: What did Mary's mother surprise her with?
- A) A cake she had baked.
+*A) A cake she had baked.
  B) A book.
  C) Candy.
  D) A toy.
@@ -2075,7 +2075,7 @@ There were many people at the store that day. This was because it was Saturday. 
 4: multiple: What did Mary do with the cake?
  A) Nothing. She had to go to bed.
  B) She looked at it.
- C) She ate it.
+*C) She ate it.
  D) She couldn't make up her mind.
 
 
@@ -2091,17 +2091,17 @@ Bob woke up to go to his first day of school on Monday. He woke up to his dog ba
 1: one: What was Bob's fourth class of the day?
  A) Gym
  B) Math
- C) Arts and Crafts
+*C) Arts and Crafts
  D) English
 
 2: multiple: What story did Bob read about in English class?
  A) Dog and his friend
  B) Dog and the girl
  C) Bird and the boy
- D) Lady and the kitty
+*D) Lady and the kitty
 
 3: one: On what day did Bob go to school?
- A) Monday
+*A) Monday
  B) Thursday
  C) Wednesday
  D) Tuesday
@@ -2110,7 +2110,7 @@ Bob woke up to go to his first day of school on Monday. He woke up to his dog ba
  A) Played basketball
  B) Played soccer
  C) Played kickball
- D) Ran around the track and played baseball
+*D) Ran around the track and played baseball
 
 
 ***************************************************
@@ -2125,11 +2125,11 @@ Once, there was a boy named Dan that was no older then seven or eight years old.
 1: multiple: What type of pet did the boy want?
  A) Bird
  B) Fish
- C) Dog
+*C) Dog
  D) Hamster
 
 2: one: What state does the boy live in?
- A) New York
+*A) New York
  B) California
  C) Georgia
  D) Florida
@@ -2137,13 +2137,13 @@ Once, there was a boy named Dan that was no older then seven or eight years old.
 3: multiple: What did the boy want to name the puppy?
  A) Spike
  B) Sam
- C) Rick
+*C) Rick
  D) Dan
 
 4: one: Where did the boy spend most of his time?
  A) At the park
  B) Outside
- C) Inside
+*C) Inside
  D) At school
 
 
@@ -2164,23 +2164,23 @@ And his mother said, "Joe, it's time for dinner."
  A) Joe asked, "Is it time for dinner?"
  B) Joe read his book.
  C) Joe said, "It is time for dinner."
- D) Joe closed the book, and went downstairs.
+*D) Joe closed the book, and went downstairs.
 
 2: multiple: Why did Joe's mother call him?
  A) Joe was having too much fun reading the book.
  B) Joe had finished reading the book.
- C) He asked his mother, "Do you need something?" It was time for dinner.
+*C) He asked his mother, "Do you need something?" It was time for dinner.
  D) Joe's mother wanted to read the book.
 
 3: multiple: Why did Joe have fun reading the book?
  A) Joe was reading in his bedroom.
  B) Joe was reading before dinner.
  C) His mother wanted him to read the book.
- D) He liked to imagine himself swimming with the fish he read about.
+*D) He liked to imagine himself swimming with the fish he read about.
 
 4: multiple: Why was Joe reading a book?
  A) He was reading a book that his teacher gave him.
- B) He was interested in learning more about fish.
+*B) He was interested in learning more about fish.
  C) It was time for dinner.
  D) The book was about fish.
 
@@ -2197,7 +2197,7 @@ I was really scared walking into school today. It was the first day of sixth gra
 Martin said he liked how our names all sounded the same, and Marky seconded that as we started talking before class began. When it was time to eat, we all said we would sit with one another in the lunch room, and also when it came to recess and playing together. It was nice to have some friends after being so nervous earlier, and see that everything does work out in the end. Hopefully soon we can all play together outside of class, but as far as today, it was a great start!
 
 1: multiple: Why did Martin and Marky sit near Matt?
- A) They arrived late to class and other seats were filled
+*A) They arrived late to class and other seats were filled
  B) The class was placed in alphabetical order
  C) The boys had to sit with other boys and girls with other girls
  D) They all had names that sounded alike
@@ -2205,17 +2205,17 @@ Martin said he liked how our names all sounded the same, and Marky seconded that
 2: one: Which of the following is not a student's name in Matt's class?
  A) Linda
  B) Jason
- C) Frank
+*C) Frank
  D) Sally
 
 3: multiple: Why did Matt not want to start the sixth grade?
  A) He wanted to take the bus, but his mom drove him
- B) He had to go to a new school after he moved across town
+*B) He had to go to a new school after he moved across town
  C) He didn't like his teacher
  D) He didn't want to leave elementary school
 
 4: multiple: Which of the following did Martin, Matt, and Marky not do together on the first day of sixth grade?
- A) See each other outside of school
+*A) See each other outside of school
  B) Sit together in class
  C) Play during recess
  D) Eat lunch in the lunch room
@@ -2231,7 +2231,7 @@ Creativity Words: ceiling,nana,taste,table,claw,knob,roll,eraser,boat,stripe,nos
 A man sailed out to sea in a small boat. The sun was only rising, but this man liked spending all day fishing. A long way away from the shore, he stopped his boat. He pulled out his fishing pole and put some worms on the hook. He held it in the deep water and waited for a long time. After three hours there was still not a bite. The sun moved slowly across the sky. Morning turned into afternoon, and afternoon to evening. It was a slow day of fishing and he had to pack up. A fisherman does not give up so easy, even after many hours. It takes time to catch fish and fishing is not for people who give up quickly. The fisherman went home empty handed. He went home to his log cabin and sat by the fire. His stomach growled because there wasn't any dinner to eat tonight, but tomorrow would be a better day.
 
 1: multiple: How long did he fish?
- A) Until the evening
+*A) Until the evening
  B) Until the next day
  C) For three hours
  D) Until the afternoon
@@ -2239,17 +2239,17 @@ A man sailed out to sea in a small boat. The sun was only rising, but this man l
 2: multiple: What did he catch?
  A) A pole
  B) Worms
- C) Nothing
+*C) Nothing
  D) Fish
 
 3: one: Where did the man fish?
  A) At home
- B) Out at sea
+*B) Out at sea
  C) At the shore
  D) The sky
 
 4: one: What did he do in the evening?
- A) Went home
+*A) Went home
  B) Kept fishing
  C) Gave up
  D) Had dinner
@@ -2268,22 +2268,22 @@ One day, a boy named Sam went to the doctor because he fell and hurt his knee. H
  A) To tell the nurse more about Sam's accident
  B) The doctor wrote no notes.
  C) To tell Sam's mother about his knee
- D) To tell Sam what to do about his knee
+*D) To tell Sam what to do about his knee
 
 2: multiple: What did the nurse NOT do to Sam before the doctor came?
  A) measured his height
  B) asked him questions about food
- C) gave him medicine
+*C) gave him medicine
  D) took his temperature
 
 3: one: What color was the lollipop that Sam ate?
  A) yellow
  B) red
  C) green
- D) purple
+*D) purple
 
 4: one: What was Sam doing before meeting the doctor?
- A) playing with blocks
+*A) playing with blocks
  B) reading a magazine
  C) talking to his mother
  D) playing with friends
@@ -2301,25 +2301,25 @@ One day, Jimmy, who was getting ready to walk down to school, could not find his
 1: multiple: why couldn't he keep looking?
  A) he was upset
  B) he was in bed
- C) was late for school
+*C) was late for school
  D) they were eating dinner
 
 2: multiple: who found the item?
  A) his goldfish
  B) Jimmy
- C) mom
+*C) mom
  D) sister
 
 3: one: What was the boy looking for?
  A) goldfish
  B) his bed
  C) backpack
- D) his hat
+*D) his hat
 
 4: one: where was it?
  A) his room
  B) at school
- C) next to his goldfish
+*C) next to his goldfish
  D) on the hat rack
 
 
@@ -2333,7 +2333,7 @@ Creativity Words: swim,size,duck,thunder,cough,truck,trashcan,wolf,phone,wave,pu
 Bill was cleaning his room and giving away some of the toys that he no longer used. Bill put a duck and a truck in the pile to give away. He added a car and a blanket and a push mower to the give a way pile. Bill liked the car and took it out of the give a way pile, so he did not give the car away. Bill put a broken phone into the trash can. Bill also threw away two books and some used crayons. As Bill was cleaning his room his mother came in to help. Bill and his mother cleaned most of the room. When they were almost finished Bill's father also came in to help. Bill picked up the duck and the truck and took it to the car. Bill's father picked up the blanket and the push mower and took them out to the car. Bill's mother carried the trash can down to the large garbage can outside. Bill's room was all cleaned.
 
 1: multiple: Who helped Bill clean his room?
- A) Bill's mother and father.
+*A) Bill's mother and father.
  B) Just Bill's father.
  C) Bill didn't get any help.
  D) Just Bill's mother.
@@ -2341,18 +2341,18 @@ Bill was cleaning his room and giving away some of the toys that he no longer us
 2: one: What did Bill throw into the trash can?
  A) Only two books.
  B) He didn't throw away anything.
- C) A broken phone, two books and some used crayons.
+*C) A broken phone, two books and some used crayons.
  D) Only a broken phone.
 
 3: multiple: Who carried the toys out to the car?
  A) Bill's mother
  B) Bill's father and mother.
  C) Bill and his mother.
- D) Bill and his father.
+*D) Bill and his father.
 
 4: multiple: What did Bill give a way?
  A) Just a truck
- B) A duck, a truck, a blanket and a push mower.
+*B) A duck, a truck, a blanket and a push mower.
  C) Just a push mower
  D) A duck and car
 
@@ -2369,24 +2369,24 @@ Little Tony was riding his bicycle all around the party. After all grandma gave 
 1: multiple: What did Tony run into?
  A) Grandma
  B) People
- C) Table and cake
+*C) Table and cake
  D) His bike
 
 2: multiple: How old was Tony?
  A) The story didn't say
  B) Almost eight.
- C) eight
+*C) eight
  D) seven
 
 3: multiple: What had Tony's birthday on it?
  A) We don't know Tony's birthday.
  B) The bike.
  C) The candles.
- D) His hat and cake.
+*D) His hat and cake.
 
 4: multiple: Who gave Tony the bike?
  A) The people
- B) Grandma
+*B) Grandma
  C) Tony
  D) Daddy
 
@@ -2419,25 +2419,25 @@ Curtis saw his father standing at the door and said, "Everything looks okay, dad
 "Okay, Dr. Curtis," his dad said as he patted Curtis on the back. "Let's take her outside."
 
 1: one: What did Curtis want to be someday?
- A) An animal doctor.
+*A) An animal doctor.
  B) A family farmer.
  C) An animal nurse.
  D) A family doctor.
 
 2: multiple: What all did Curtis check on Bonnie the pony?
  A) Her teeth, nose, heart, legs and saddle.
- B) Her eyes, mouth, heart, legs and tail.
+*B) Her eyes, mouth, heart, legs and tail.
  C) Her eyes, mouth, saddle, and tail.
  D) Her legs, tail, eyes and medicine.
 
 3: one: Where did Curtis live?
  A) In the barn.
- B) On a small farm.
+*B) On a small farm.
  C) In the town.
  D) On a large farm.
 
 4: multiple: What did the animal doctor do for Bonnie the pony?
- A) Gave her some medicine and checked her eyes and mouth.
+*A) Gave her some medicine and checked her eyes and mouth.
  B) Gave her some apples and put her to bed.
  C) Gave her some bacon and checked her mouth.
  D) Gave her some medicine and checked her legs and tail.
@@ -2454,24 +2454,24 @@ There is a large tree in a park where all the kids in the neighborhood can hang 
 
 1: one: What was built on the tree?
  A) A slide
- B) A tree house
+*B) A tree house
  C) A jungle gym
  D) A swing
 
 2: multiple: How did the children get help to build the tree house?
  A) They asked their parents and teachers.
  B) They went to the store and bought wood.
- C) They asked their parents and their parents to build it and get the wood.
+*C) They asked their parents and their parents to build it and get the wood.
  D) They cut down parts of the tree and used them as wood.
 
 3: multiple: What all was at the park for the children to play with?
  A) a tree and a sand pit
  B) a tree and a flag pole
  C) a jungle gym and a basketball hoop
- D) A jungle gym and tree
+*D) A jungle gym and tree
 
 4: one: How many years passed since the first kid's played in the park?
- A) fifteen
+*A) fifteen
  B) ten
  C) eight
  D) fifty
@@ -2490,17 +2490,17 @@ Jane was a dog who lived all alone, in a broken freezer in a dump. There was all
  A) Wooden cow
  B) Clock
  C) Car
- D) Giant sock
+*D) Giant sock
 
 2: one: What type of animal was Jane?
  A) Bird
- B) Dog
+*B) Dog
  C) Cat
  D) Snake
 
 3: multiple: What was Jane's favorite thing to do?
  A) Looking for things to eat
- B) Chewing on her giant sock
+*B) Chewing on her giant sock
  C) Being active
  D) Barking at the birds
 
@@ -2508,7 +2508,7 @@ Jane was a dog who lived all alone, in a broken freezer in a dump. There was all
  A) Deer
  B) Cat
  C) Snake
- D) Birds
+*D) Birds
 
 
 ***************************************************
@@ -2523,24 +2523,24 @@ Josie could hear the birds singing outside the classroom window.  She could see 
 1: multiple: What did Mary do when she got a tickle in her throat?
  A) She called out.
  B) She cheered.
- C) She coughed.
+*C) She coughed.
  D) She sang.
 
 2: one: Who finished reading the story?
  A) Mary.
  B) Mrs. Harper.
- C) Henry.
+*C) Henry.
  D) Josie.
 
 3: one: What was in the garden that Mrs. Harper showed the class?
  A) Bugs.
  B) Grasshoppers.
  C) Birds.
- D) Butterflies.
+*D) Butterflies.
 
 4: multiple: What was kept in the refrigerator?
  A) Water.
- B) Vanilla yoghurt.
+*B) Vanilla yoghurt.
  C) Apples.
  D) Turkey sandwiches.
 
@@ -2555,7 +2555,7 @@ Creativity Words: helping,ocean,tub,queen,puppy,table,draw,room,hide,toothpaste,
 John is five years old and loves the ocean. When he is in the tub, John pretends that he is a sailboat racer. He always wins. Sometimes John stays in the tub too long. When this happens his mother yells at him. Today, John stayed in the tub too long. His mother was not happy. After getting out of the tub, John had to brush his teeth. He used his favorite toothpaste. John doesn't like cinnamon flavored toothpaste or fruit flavored toothpaste. His favorite type of toothpaste is mint. After brushing his teeth, John went to bed. His puppy does not like to fall asleep on Tuesdays. He falls asleep quickly every other day. On Mondays and Wednesdays he falls asleep before John! Today, his puppy did not want to fall asleep. John was tired, but his puppy kept him up too long. His mom told him to go to bed. He finally fell asleep after that.
 
 1: one: What is John's favorite type of toothpaste?
- A) Mint
+*A) Mint
  B) Cinnamon
  C) Fruit
  D) Unflavored
@@ -2564,18 +2564,18 @@ John is five years old and loves the ocean. When he is in the tub, John pretends
  A) Monday
  B) Friday
  C) Wednesday
- D) Tuesday
+*D) Tuesday
 
 3: multiple: What happens when John stays in the tub too long?
  A) He wins the race
- B) His mother yells at him
+*B) His mother yells at him
  C) Nothing
  D) He falls asleep
 
 4: one: What does John pretend to be when he's in the tub?
  A) a boy
  B) a puppy
- C) a sailboat racer
+*C) a sailboat racer
  D) a boat
 
 
@@ -2592,24 +2592,24 @@ Tiger was a pig. Tiger's aunt Tabby always took care of Tiger. All Tiger had to 
  A) Tabby
  B) Moon
  C) Tiger
- D) Leon
+*D) Leon
 
 2: multiple: Who was Tabby's favorite nephew?
  A) Forest
  B) Tom
- C) Tiger
+*C) Tiger
  D) Leon
 
 3: multiple: Where did Tiger go without Tom?
  A) Moon
  B) Mountains
  C) Forest
- D) Ocean
+*D) Ocean
 
 4: one: What was Tiger's brother's name?
  A) Leon
  B) Moon
- C) Tom
+*C) Tom
  D) Tabby
 
 
@@ -2623,7 +2623,7 @@ Creativity Words: bull,pan,wire,out,tricycle,middle,blanket,trashcan,smell,butto
 The dog walked around the city. He was looking around. He was trying to find food. He smelled the trashcan to see what might be inside. He did not smell anything that he liked. He kept looking. He could not find anything. Someone came by and some him. The person saw that the dog was very skinny so he felt bad. This man that saw him went into a store. He bought him some things for the dog. Those things included some dog food, water and a blanket. He did not buy him any toys or a bed because he did not have much money. He went over to the dog and put all these things next to him. The dog went over to the items. First he smelled them. Then he started eating the food. After he ate, he drank some water. When he was finished, he licked the man on his face. After that, the dog laid down on the blanket and took a long nap. He had a happy look on his face. The kind man walked away.
 
 1: one: How did the person feel when he saw that the dog was very skinny?
- A) He felt bad.
+*A) He felt bad.
  B) He felt happy.
  C) He felt angry.
  D) He was surprised.
@@ -2632,17 +2632,17 @@ The dog walked around the city. He was looking around. He was trying to find foo
  A) Toys.
  B) The trashcan.
  C) A friend.
- D) He was trying to find food.
+*D) He was trying to find food.
 
 3: one: What did the dog do after he licked the man's face?
  A) He barked at him.
  B) He ran off.
- C) The dog laid down on the blanket and took a long nap.
+*C) The dog laid down on the blanket and took a long nap.
  D) He looked for more food.
 
 4: multiple: What did the man buy for the dog?
  A) He bought toys.
- B) Those things included some dog food, water and a blanket.
+*B) Those things included some dog food, water and a blanket.
  C) He bought a bed.
  D) He bought himself some snacks.
 
@@ -2657,28 +2657,28 @@ Creativity Words: wetter,ant,hat,wash,freeze,food,cup,ceiling,winding,yogurt,ref
 Jim rode his bike quickly.  It was Friday and he wanted to get to the lake.  The path to the lake was long and winding.  It was wetter on Tuesday.  Jim had to wash his boot.  His boot had once been frozen.  It was frozen because he left it outside on Sunday.   He had to leave his boot outside for a long time.  The lake was facing the tree.  Jim had to go home.  He wanted food very badly.  Jim went home.  He got inside and looked up at the ceiling.  He walked to the refrigerator.  Jim took the yogurt out of the refrigerator.  Some milk was on the table and he grabbed a cup so he could pour himself some of the milk.  Jim also had a candy bar.  Jim sat down and rested.  He was tired from the long bike ride.  He finished his yogurt and began planning his next trip to the lake.  It would not be long before he returned.  He and his boots were ready for more fun outdoors Monday.
 
 1: multiple: Why was Jim's boot frozen?
- A) He left it outside.
+*A) He left it outside.
  B) It was wetter on Tuesday.
  C) He rode to the lake.
  D) The path to the lake was long and winding.
 
 2: multiple: What day did Jim ride his bike to the lake?
  A) Monday
- B) Friday
+*B) Friday
  C) Tuesday
  D) Sunday
 
 3: one: What did Jim take out of the refrigerator?
  A) milk
  B) candy bar
- C) yogurt
+*C) yogurt
  D) cup
 
 4: one: What was the lake facing?
  A) the bike
  B) Jim
  C) the boot
- D) the tree
+*D) the tree
 
 
 ***************************************************
@@ -2691,7 +2691,7 @@ Creativity Words: frosting,pig,scare,seat,square,sled,block,thumb,keeping,help,b
 There was once a frog who lived all the way in the North Pole. His name was Isaac. He worked at Santa's factory, baking cakes with lots of frosting. He didn't like making cake much. In fact, Isaac's dream was to work in the factory with the elves making toys. But since he was a frog, he was never allowed to build toys with the elves. One day, he got a smart idea. He would dress up as an elf and sneak into the factory, hoping no one would find out. So he got a hold of an elf costume and put it on. He put on the elf hat, the elf shirt, and the elf shoes. He really looked like an elf! So one day, when the factory was opening for the morning, Isaac snuck in line with the rest of the elves and tried to get into the factory. Luckily, it worked, and no one found out! Isaac was filled with joy as he had never seen the inside of the toy factory before. It was huge, and there were thousands of elves building toys for the children for next Christmas. He joined them in building, and for a long time, no one knew he was a frog. That is, until one elf, named Joe, saw that there was something weird about Isaac. He didn't look like the rest of the elves. So he kept his eye on Isaac, waiting to see what his secret was. One day, Isaac slipped, and his hat fell off. When this happened, Joe saw that he was a frog, and not an elf! He told Isaac that he would tell Santa all about how he had snuck in. Isaac begged Joe not to tell. Joe wanted to know what was in it for him, so Isaac promised to bake him a cake with lots of frosting. Joe never told.
 
 1: one: Who was Isaac?
- A) A frog
+*A) A frog
  B) A snow man
  C) An elf
  D) Santa's son
@@ -2700,17 +2700,17 @@ There was once a frog who lived all the way in the North Pole. His name was Isaa
  A) To be friends with an elf
  B) To build toys
  C) To meet Santa
- D) To bake cakes
+*D) To bake cakes
 
 3: multiple: What did Isaac give Joe to keep quiet?
  A) A toy
  B) Shoes
  C) A hat
- D) A cake
+*D) A cake
 
 4: one: Where did Isaac live?
  A) In the toy factory
- B) In the north pole
+*B) In the north pole
  C) In the south pole
  D) In Santa's house
 
@@ -2726,24 +2726,24 @@ One sunny day, Lisa and Jane went to the park to play. Lisa was eating her sandw
 
 1: one: Who went down the slide first?
  A) Jane
- B) Josh
+*B) Josh
  C) Josh and Jane
  D) Lisa
 
 2: multiple: Who was at the park?
- A) Lisa, Jane, and Josh.
+*A) Lisa, Jane, and Josh.
  B) Lisa, Matt, and Josh.
  C) Lisa and Jane.
  D) Jane and Josh.
 
 3: one: What was the last thing Lisa, Jane, and Josh did at the park?
- A) Ate cupcakes.
+*A) Ate cupcakes.
  B) Swung on the swings.
  C) Slid down a slide.
  D) Ate a sandwich.
 
 4: multiple: What did Lisa and Jane bring with them to the park to eat?
- A) Only sandwiches, chips, and cupcakes.
+*A) Only sandwiches, chips, and cupcakes.
  B) Only cupcakes.
  C) Only cupcakes and chips.
  D) Only sandwiches.
@@ -2759,7 +2759,7 @@ Creativity Words: gentle,lunch,park,sister,stinker,helper,closing,pea,tummy,stan
 Michelle and Anthony were having lunch in the park with their mother. She had made them a picnic lunch, including sandwiches, fruit and potato chips. As they looked around the park, they watched the other families play and eat lunch. There was one family that had three dogs with them. The dogs were chasing each other and playing Frisbee with their people. Another family had a big blanket set out and were watching their baby learn to crawl on his tummy. Anthony asked his sister if she wanted the rest of his potato chips. Michelle said no, that she was full. They got up and went over to the family with the dogs. The white dog jumped on Michelle and licked her face, knocking her down. The brown dog wagged his tail and sniffed Anthony. The black dog was shy and went to sit with his family. After they said goodbye to the dogs, Michelle and Anthony saw their friends Mike and Molly across the park. They asked their mom if they could go play with them and she said yes. They ran to their friends and told them about the dogs they had met. Mike and Molly's mom gave Michelle and Anthony some strawberry ice cream for dessert. They thanked her, and when they finished, they went back to their mom, ready to go home and take a nap.
 
 1: multiple: What was the other boy's name?
- A) Mike
+*A) Mike
  B) Molly
  C) Michelle
  D) Anthony
@@ -2768,10 +2768,10 @@ Michelle and Anthony were having lunch in the park with their mother. She had ma
  A) Molly
  B) Mike
  C) Carrie
- D) Michelle
+*D) Michelle
 
 3: multiple: Which dog knocked down Michelle?
- A) white
+*A) white
  B) red
  C) black
  D) brown
@@ -2779,7 +2779,7 @@ Michelle and Anthony were having lunch in the park with their mother. She had ma
 4: one: How many dogs were there?
  A) two
  B) one
- C) three
+*C) three
  D) five
 
 
@@ -2795,12 +2795,12 @@ Allie was trying to choose which costume she would wear for Halloween.  She did 
 1: one: What food did Allie carry with her as part of her costume?
  A) Eggs.
  B) Carrots.
- C) Spinach.
+*C) Spinach.
  D) Candied apples.
 
 2: one: What color was Grace's dress?
  A) Black.
- B) Pink.
+*B) Pink.
  C) White.
  D) Silver.
 
@@ -2808,13 +2808,13 @@ Allie was trying to choose which costume she would wear for Halloween.  She did 
  A) A tall hat.
  B) A purse.
  C) A basket.
- D) An old pillowcase.
+*D) An old pillowcase.
 
 4: multiple: What costume did Allie choose?
  A) Monster.
  B) Witch.
  C) Angel.
- D) Rabbit.
+*D) Rabbit.
 
 
 ***************************************************
@@ -2830,16 +2830,16 @@ In their small town there are not very many kids. Joe is eight years old. Nate i
  A) brown and yellow
  B) yellow and dark blue
  C) white and white
- D) dark blue and dark blue
+*D) dark blue and dark blue
 
 2: one: What is the name of the boys in the beginning of the story?
  A) Josh and Alex
  B) Jacob and Joe
- C) Joe and Nate
+*C) Joe and Nate
  D) Jacob and Alex
 
 3: one: Who is the youngest boy in the new family
- A) Alex
+*A) Alex
  B) Jacob
  C) Nate
  D) Josh
@@ -2848,7 +2848,7 @@ In their small town there are not very many kids. Joe is eight years old. Nate i
  A) Go Fish
  B) Board Games
  C) Old Maid
- D) Team games like football and baseball
+*D) Team games like football and baseball
 
 
 ***************************************************
@@ -2870,7 +2870,7 @@ Millie wasn't sure if it would work this time, but the magazine's tips made her 
 
 1: multiple: What did she read about in the magazine?
  A) That eating rice and noodles helped beans to help Millie not feel hungry.
- B) Both C) and D)
+*B) Both C) and D)
  C) That it was okay to have a little meat and then go back to eating her veggies.
  D) That not eating meat was bad for her.
 
@@ -2878,16 +2878,16 @@ Millie wasn't sure if it would work this time, but the magazine's tips made her 
  A) Because she ate beans and noodles.
  B) Because she gave it another try.
  C) Because she changed her meal plan slowly.
- D) Because it might not be good for her to stop eating meat.
+*D) Because it might not be good for her to stop eating meat.
 
 3: one: What did Millie think after reading the magazine?
- A) She wasn't sure it would work, but she wanted to give it another try.
+*A) She wasn't sure it would work, but she wanted to give it another try.
  B) She felt really hungry.
  C) She wanted to go to the library.
  D) She wondered if there was anything she could do to feel better without eating meat.
 
 4: one: What did Millie find at the library?
- A) A magazine.
+*A) A magazine.
  B) Beans.
  C) A better job.
  D) Rice and noodles.
@@ -2906,25 +2906,25 @@ Lisa wants a new pet. Sometimes it is very hard trying to choose a new pet. Ther
  A) Lisa.
  B) Snowy
  C) Floppy.
- D) Chomper.
+*D) Chomper.
 
 2: multiple: Why does Chomper look like?
  A) Chomper is grey.
  B) Chomper is white.
  C) Chomper is white with white ears.
- D) Chomper has white fur, black eyes, and large floppy grey ears.
+*D) Chomper has white fur, black eyes, and large floppy grey ears.
 
 3: multiple: What does Chomper do when Lisa tries to kiss him? Why?
  A) Chomper is too big.
  B) Chomper hates Lisa.
- C) Chomper runs away from Lisa because he thinks Lisa is trying to steal his treats.
+*C) Chomper runs away from Lisa because he thinks Lisa is trying to steal his treats.
  D) Chomper wants Lisa's treats.
 
 4: one: Which pet did Lisa choose?
  A) A cat.
  B) A goldfish.
  C) A dog.
- D) A bunny.
+*D) A bunny.
 
 
 ***************************************************
@@ -2939,26 +2939,26 @@ Joe was moving to a different state. He wanted to make the move without spending
 The company filled the rest of the trailer with their own stuff. Then they drove it to the same town where Joe was moving. After Joe flew to his new town, he borrowed another small truck. He drove to the company's location in his new town. There he took his stuff out of the trailer. He carried it to his new house in the small truck. It was more work than using a normal moving company, but Joe saved a lot of money.
 
 1: multiple: How many small trucks did Joe borrow?
- A) two
+*A) two
  B) one
  C) four
  D) three
 
 2: multiple: How many locations of the shipping company did Joe visit?
  A) four
- B) two
+*B) two
  C) three
  D) one
 
 3: one: What was the worst part about using the shipping company?
- A) It was more work than using a normal moving company.
+*A) It was more work than using a normal moving company.
  B) It was more expensive than other choices.
  C) Joe had to drive to his new house.
  D) Joe flew to his new town.
 
 4: one: Why did Joe use the shipping company instead of a normal moving company?
  A) He wanted to move in his own vehicle.
- B) He wanted to save money.
+*B) He wanted to save money.
  C) His friend told him to do it.
  D) He wanted to use a whole trailer to ship his things.
 
@@ -2974,7 +2974,7 @@ Susie the spider was a small little spider. Her brother Steve was bigger than he
 
 1: multiple: Which of the following did Steve not do to try and get attention?
  A) Clean the sink
- B) Suck his thumb
+*B) Suck his thumb
  C) Sweep the floor
  D) Do the washing
 
@@ -2982,18 +2982,18 @@ Susie the spider was a small little spider. Her brother Steve was bigger than he
  A) Susie
  B) Steve
  C) Stewart
- D) Sally
+*D) Sally
 
 3: multiple: Who was the smallest spider?
  A) Sally
- B) Susie
+*B) Susie
  C) Steve
  D) Stewart
 
 4: one: What was Sally's father's name?
  A) Sally
  B) Susie
- C) Stewart
+*C) Stewart
  D) Steve
 
 
@@ -3012,11 +3012,11 @@ One day, a driver in the circus needed to brush his teeth because he had been ea
  A) It had a scary alligator on it.
  B) He didn't have a toothbrush.
  C) It was taped shut.
- D) It tasted like pumpkin and he didn't like the flavor.
+*D) It tasted like pumpkin and he didn't like the flavor.
 
 2: one: What was Happy eating?
  A) A pumpkin
- B) A brownie
+*B) A brownie
  C) A sandwich
  D) Popcorn
 
@@ -3024,10 +3024,10 @@ One day, a driver in the circus needed to brush his teeth because he had been ea
  A) A plastic alligator
  B) A pumpkin
  C) Tape
- D) Toothpaste
+*D) Toothpaste
 
 4: multiple: What silly things did Happy do in his act?
- A) Sing in the wrong key and wrestle plastic alligators.
+*A) Sing in the wrong key and wrestle plastic alligators.
  B) Juggle pumpkins and throw popcorn.
  C) Put tape over the mouth of the driver so he couldn't brush his teeth.
  D) Brush the teeth of alligators and cats.
@@ -3045,25 +3045,25 @@ There was a princess named Janet who was very pretty. She wanted to marry a prin
 1: multiple: What did Janet use to cut Clarice's hair?
  A) A mirror
  B) A shoe
- C) Scissors
+*C) Scissors
  D) A castle
 
 2: multiple: Who did Clarice hit with the shoe?
  A) Jenny
  B) Tammy
- C) Harold
+*C) Harold
  D) Janet
 
 3: one: What was the name of the princess?
  A) Clarice
  B) Jenny
  C) Tammy
- D) Janet
+*D) Janet
 
 4: one: Who threw a shoe at Janet?
  A) Jenny
  B) Tammy
- C) Clarice
+*C) Clarice
  D) Harold
 
 
@@ -3082,12 +3082,12 @@ She grinned as her friend's car pulled up in front of her house. They made their
 
 1: multiple: Why was Angelica in a rush?
  A) she wanted to play on her brother's seesaw
- B) she wanted to get to a new phone before anyone else
+*B) she wanted to get to a new phone before anyone else
  C) she wanted to get a new car
  D) she wanted to greet her grandmother
 
 2: one: What did Angelica wake up early to get?
- A) a phone
+*A) a phone
  B) a brush
  C) a seesaw
  D) a car
@@ -3096,11 +3096,11 @@ She grinned as her friend's car pulled up in front of her house. They made their
  A) her father
  B) her friend
  C) her mother
- D) her grandmother
+*D) her grandmother
 
 4: multiple: Why was Angelica happy the grass was wet?
  A) she wanted to see her grandmother
- B) It meant she was up early enough to get a new phone
+*B) It meant she was up early enough to get a new phone
  C) she likes wet grass
  D) she loves watching the sun rise
 
@@ -3123,25 +3123,25 @@ The bird was a daddy bird and had two baby birds in its nest.  One of the baby b
 This bird family lived at the yellow house all summer long.  The mommy and daddy birds came back for many summers and had many more baby birds but only one, the very first baby bird, had a long tail feather and could do tricks like daddy bird.
 
 1: multiple: How many of Daddy bird's babies had a long tail feather?
- A) Only one
+*A) Only one
  B) None of them
  C) Many of them
  D) All of them
 
 2: one: What was special about Daddy bird?
- A) He had a long tail feather
+*A) He had a long tail feather
  B) He could sing pretty songs
  C) He had long legs
  D) He had many colors
 
 3: multiple: What was one of Daddy bird's tricks?
  A) He could play basketball
- B) He could fly in circles
+*B) He could fly in circles
  C) He could sing happy birthday
  D) He could fly very high
 
 4: one: What color house did Daddy bird live at?
- A) A yellow house
+*A) A yellow house
  B) A red house
  C) A green house
  D) A blue house
@@ -3162,24 +3162,24 @@ When they got on the plane, Amy became afraid. Her mother calmed her down and ga
  A) Pete
  B) Amy
  C) Jeff
- D) David
+*D) David
 
 2: multiple: What did David make out of paper?
  A) ball
  B) doll
  C) heart
- D) plane
+*D) plane
 
 3: multiple: Who's head did the paper plane land on?
  A) Amy
- B) teacher
+*B) teacher
  C) David
  D) Pete
 
 4: one: What did Amy's mother give her on the plane?
  A) book
  B) paper plane
- C) doll
+*C) doll
  D) sweater
 
 
@@ -3193,7 +3193,7 @@ Creativity Words: storm,fruit,school,turtle,pee,dropping,string,line,rice,kid,bi
 Rory the race car loves to race. She loves to take lots of laps around the track. Sometimes, she likes to race her friend Rudy the race truck. Most of the time, she wins. But one very special day, Rudy was feeling very fast. He filled up on gas that morning and was ready for action. He asked Rory to race him. They had to go around the track ten times. Rory could not wait. She thought she could beat him. They sat and the finish line and the light changed from red, to yellow, to green, and the race began! They drove around the track at lightning speed. Faster and faster Rory went. Rory seemed to be losing speed. One of her back tires was feeling strange. She slowed down and frowned. Rudy saw his friend had stopped. He turned around to see what was wrong. Rory told him her tire was about to fall off. He pulled her to the shop and they got the tire fixed. He didn't win the race, but he won a best friend.
 
 1: one: What is the race car's name?
- A) Rory
+*A) Rory
  B) Yellow
  C) Rudy
  D) Car
@@ -3202,17 +3202,17 @@ Rory the race car loves to race. She loves to take lots of laps around the track
  A) Rory is no longer Rudy's friend.
  B) Rudy speeds away.
  C) Rory crashes into the wall.
- D) Rudy pulls Rory to the shop and she gets her tire fixed.
+*D) Rudy pulls Rory to the shop and she gets her tire fixed.
 
 3: one: How many laps was the race?
  A) Yellow
  B) One
  C) Five
- D) Ten
+*D) Ten
 
 4: multiple: What happened during the race?
  A) Rudy won the race.
- B) Rory's tire was falling off and Rudy stopped to help her.
+*B) Rory's tire was falling off and Rudy stopped to help her.
  C) Rory won the race.
  D) Rudy crashed.
 
@@ -3228,25 +3228,25 @@ There once was a spider name Thomas.  Thomas lived in North Carolina.  Thomas wa
 
 1: one: What did Thomas pack in his bag?
  A) Toys
- B) He packed his blanket, two shirts, and two pairs of pants.
+*B) He packed his blanket, two shirts, and two pairs of pants.
  C) Five dollars
  D) Books
 
 2: multiple: Where does Thomas's grandmother live?
  A) In North Carolina
  B) In a bag
- C) She lives in Georgia
+*C) She lives in Georgia
  D) In a train
 
 3: multiple: What snack did Thomas get?
  A) Chocolate pudding
  B) Vanilla pudding
  C) A blanket
- D) Strawberry pudding
+*D) Strawberry pudding
 
 4: multiple: Why did Thomas take the train?
  A) To look at snacks
- B) To visit his grandmother.
+*B) To visit his grandmother.
  C) To get a strawberry pudding
  D) To pack a bag
 
@@ -3264,24 +3264,24 @@ One Tuesday morning in the summer, Harry woke up to the sun shining down into hi
 
 1: multiple: What day of the week did Harry escape?
  A) He escaped on a Wednesday
- B) He escaped on a Tuesday
+*B) He escaped on a Tuesday
  C) He escaped on a Thursday
  D) He escaped on the weekend
 
 2: multiple: Why did Harry want to leave his house?
  A) He didn't like his master.
- B) He wanted to leave his house so he could feel the rain and eat wild seeds. He also wanted to be free
+*B) He wanted to leave his house so he could feel the rain and eat wild seeds. He also wanted to be free
  C) He didn't like his cage.
  D) He wanted to find a friend.
 
 3: one: How did Harry get out the door?
- A) He went out the doggy door.
+*A) He went out the doggy door.
  B) He never got out the door.
  C) He broke the door down.
  D) The master left the door open.
 
 4: one: In what Season did Harry escape?
- A) Summer
+*A) Summer
  B) Winter
  C) Spring
  D) Fall
@@ -3300,25 +3300,25 @@ There once was a dog named Bruno.  Bruno belonged to a family, the Smiths, but h
  A) Fred
  B) Mom
  C) Dad
- D) Sarah
+*D) Sarah
 
 2: one: What is the dog's name?
  A) Fred
  B) Sarah
- C) Bruno
+*C) Bruno
  D) Smith
 
 3: multiple: Who did Bruno belong to?
  A) Sarah
  B) Bruno
  C) Fred
- D) The Smiths
+*D) The Smiths
 
 4: multiple: What scared Sarah?
  A) Breakfast
  B) Fred
  C) School
- D) The Storm
+*D) The Storm
 
 
 ***************************************************
@@ -3331,27 +3331,27 @@ Creativity Words: bicycle,rattle,green,picture,thanksgiving,harder,plant,wolf,ta
 On Mother's Day Sunday I went to breakfast with my mom, sister and wife. The day before that, I bought my mom a lovely bunch of flowers. My mom had eggs, my sister had pancakes, and my wife had toast. I had a muffin. The restaurant was called Maggie's. It was not my favorite breakfast restaurant. I like Denny's or a diner. Breakfast was not good. The pancakes were soggy, the toast was burned and the eggs were cold. Even worse, my breakfast made me sick. But after breakfast we went back to my house and I gave my mom the present I bought. It was a sunny day, and we all had a nice afternoon.
 
 1: multiple: What day did I buy my mom flowers?
- A) Saturday
+*A) Saturday
  B) Sunday
  C) Mother's Day
  D) Monday
 
 2: one: What did my wife eat?
  A) muffin
- B) toast
+*B) toast
  C) eggs
  D) pancakes
 
 3: one: Where did we eat breakfast?
  A) home
  B) Denny's
- C) Maggie's
+*C) Maggie's
  D) diner
 
 4: multiple: What made me sick?
  A) pancakes
  B) eggs
- C) Muffin
+*C) Muffin
  D) toast
 
 
@@ -3366,12 +3366,12 @@ Today Bob was hungry. He had some pancakes in his fridge but did not feel like e
 
 1: multiple: Why did Bob go to the store?
  A) He wanted to buy a new picture for his house.
- B) He was hungry but did not want to eat what was in his fridge.
+*B) He was hungry but did not want to eat what was in his fridge.
  C) He wanted to buy groceries for his fridge.
  D) He only wanted to buy some candy.
 
 2: one: What did Bob have in his fridge?
- A) Some pancakes.
+*A) Some pancakes.
  B) Candy.
  C) A sandwich.
  D) Pancakes, a sandwich, and candy.
@@ -3380,10 +3380,10 @@ Today Bob was hungry. He had some pancakes in his fridge but did not feel like e
  A) Just a sandwich.
  B) A picture of a cat and a sandwich.
  C) Pancakes and a sandwich.
- D) A sandwich and some candy.
+*D) A sandwich and some candy.
 
 4: one: What was on the picture on the wall inside the store?
- A) A brown cat.
+*A) A brown cat.
  B) A box of candy.
  C) A pancake.
  D) A sandwich.
@@ -3401,18 +3401,18 @@ The second grade students at Valley Elementary School were going to put on a bak
 1: multiple: What food was NOT at the bake sale?
  A) Vanilla cupcakes.
  B) Chocolate chip cookies.
- C) Chocolate fudge.
+*C) Chocolate fudge.
  D) Brownies.
 
 2: multiple: What did Miss Holly forget to buy?
  A) Forks.
  B) Plates.
  C) Spoons.
- D) Napkins.
+*D) Napkins.
 
 3: one: What day was the bake sale?
  A) Thursday
- B) Friday
+*B) Friday
  C) Tuesday
  D) Monday
 
@@ -3420,7 +3420,7 @@ The second grade students at Valley Elementary School were going to put on a bak
  A) To buy new tables and chairs.
  B) To have a pizza party.
  C) Because they wanted to eat brownies.
- D) To raise money for a field trip.
+*D) To raise money for a field trip.
 
 
 ***************************************************
@@ -3435,11 +3435,11 @@ The kitchen comes alive at night in the Sanderson house. Vegetables, fruit, brea
 1: multiple: Who does not play soccer?
  A) Carrots.
  B) Celery.
- C) Raspberries.
+*C) Raspberries.
  D) Spoons.
 
 2: one: Who dances on tables?
- A) Forks.
+*A) Forks.
  B) Raspberries.
  C) Spoons.
  D) Blueberries.
@@ -3447,12 +3447,12 @@ The kitchen comes alive at night in the Sanderson house. Vegetables, fruit, brea
 3: multiple: Who is told he is imagining things?
  A) Susan.
  B) Kim.
- C) Ryan.
+*C) Ryan.
  D) John.
 
 4: multiple: Who often wins the swimming races?
  A) Bread.
- B) Cereal.
+*B) Cereal.
  C) Fruit.
  D) Vegetables.
 
@@ -3479,7 +3479,7 @@ Miles smiled as he spoke, "Fish swim, yes?  Look in a place with water."
 Boo quickly returned home and began his hunt.  First he looked in his drink cup.  No goldfish there.  Then he looked in the toilet.  What he saw in the toilet surprised him.  There was a goldfish swimming in the toilet!  As it turned out, it was a very special goldfish.  The fish was a funny color.  It wasn't red.  It wasn't orange.  It wasn't green.  It was blue!  Boo named his goldfish Apple Cracker and they quickly became friends.
 
 1: one: What was the name of the elf?
- A) Boo
+*A) Boo
  B) Apple
  C) Miles
  D) Cracker
@@ -3487,18 +3487,18 @@ Boo quickly returned home and began his hunt.  First he looked in his drink cup.
 2: one: What was the name of the alligator?
  A) Cracker
  B) Apple
- C) Miles
+*C) Miles
  D) Boo
 
 3: multiple: What color was the goldfish?
  A) red
  B) green
  C) orange
- D) blue
+*D) blue
 
 4: multiple: Where did Boo find the goldfish?
  A) in his drink cup
- B) in the toilet
+*B) in the toilet
  C) in the fridge
  D) under his pillow
 
@@ -3515,14 +3515,14 @@ Later that night, Randan was still sad about the bunny as she was lying on her b
 Nothing special happened for the rest of the week, until they heard a strange noise on another night. This time, only Randan and her Dad went outside to check out what the noise was. When they made it outside, they saw an animal the size of a bear digging in their yard before it went deep. Before they even knew it, they heard their mama screaming from inside the house. They both looked in the window to see the bunny cornering the mama, but it had grown ten times bigger and looked angry. The dad quickly gave Randan a magical glove that makes her grip one million times stronger. The dad got some glue and made the bunny's butt stuck on the carpet. Randan grabbed the bunny by the leg and threw it to space.
 
 1: multiple: When was the first and second time the bunny came back?
- A) At night on the same day, and a week later
+*A) At night on the same day, and a week later
  B) The bunny did not come back
  C) At night on the same day and the next night
  D) At night on the same day and never again
 
 2: multiple: How did they get rid of the bunny the second time?
  A) They trapped it in a trashcan
- B) They glued it stuck then threw it to space with a magic glove
+*B) They glued it stuck then threw it to space with a magic glove
  C) They dug a deep hole and trapped it in it
  D) They sang badly to it until it ran away
 
@@ -3530,13 +3530,13 @@ Nothing special happened for the rest of the week, until they heard a strange no
  A) It escaped by digging through the ground
  B) Randan let it go after it ate too much food
  C) It singed to Randan until she let it go
- D) The accidentally got opened when it fell
+*D) The accidentally got opened when it fell
 
 4: one: How big was the bunny at first?
  A) size of a trashcan
  B) size of a bear
  C) million times bigger than Randan
- D) small
+*D) small
 
 
 ***************************************************
@@ -3553,23 +3553,23 @@ One day, Tarwala got in trouble at the zoo for trying to eat lettuce along with 
 1: multiple: Why did Tarwala poop on the mat?
  A) he fell on his stomach
  B) bright lights made him do it
- C) He ate chalk
+*C) He ate chalk
  D) he thought he was in the bathroom
 
 2: multiple: How did Tarwala's dad's sock get magical?
- A) He did not change it or wash his toes
+*A) He did not change it or wash his toes
  B) He took it to the zoo
  C) He rubbed lettuce on it
  D) He let a bright light shine on it
 
 3: one: What did he do to everything that was in front of him?
  A) broke it
- B) ate it
+*B) ate it
  C) made noises with it
  D) fixed it
 
 4: one: Is Tarwala a boy or a girl
- A) boy
+*A) boy
  B) both
  C) did not say
  D) girl
@@ -3590,19 +3590,19 @@ The young bear ate his fill of blueberries, then took home as many as he could c
 
 1: multiple: What kinds of animals did the bear follow?
  A) fish
- B) ducks
+*B) ducks
  C) lions
  D) frogs
 
 2: one: What berries did the young bear like best?
  A) raspberries
- B) blueberries
+*B) blueberries
  C) strawberries
  D) cherries
 
 3: multiple: Where did the bear like to sit?
  A) In a clearing in the forest.
- B) On the bank of the river near his cave.
+*B) On the bank of the river near his cave.
  C) In his cave.
  D) Up in a tree.
 
@@ -3610,7 +3610,7 @@ The young bear ate his fill of blueberries, then took home as many as he could c
  A) During the night
  B) A sunny morning
  C) A rainy morning
- D) A sunny afternoon
+*D) A sunny afternoon
 
 
 ***************************************************
@@ -3632,22 +3632,22 @@ Steve did not even need a menu, he knew what he wanted. Bring on the spaghetti a
  A) Steve and his parents
  B) Steve's parents
  C) Steve
- D) Steve, his parents, his aunt and his uncle
+*D) Steve, his parents, his aunt and his uncle
 
 2: one: What did Steve want to eat for dinner?
  A) The curtain
- B) Spaghetti and meatballs
+*B) Spaghetti and meatballs
  C) He wasn't sure
  D) Bread sticks
 
 3: multiple: Why did Steve's mom tell him to slow down?
  A) She couldn't keep up in the race
- B) He was running to get inside the restaurant quicker
+*B) He was running to get inside the restaurant quicker
  C) He was talking too fast
  D) He was playing too rough with his uncle
 
 4: one: Where was Steve going?
- A) To a restaurant
+*A) To a restaurant
  B) To his parents house
  C) To the table store
  D) To his aunt and uncles house
@@ -3670,25 +3670,25 @@ But for now, he would have to wait.  In a few more days, the ice would be thick 
  A) He was fat.
  B) He was tired.
  C) He was hot.
- D) He was skinny.
+*D) He was skinny.
 
 2: one: What did the bear want to do?
  A) Go ice skating.
  B) Hibernate.
  C) Wait.
- D) Go hunting.
+*D) Go hunting.
 
 3: multiple: What did the bear want to eat?
  A) Winter.
  B) Ice.
  C) Berries.
- D) A seal.
+*D) A seal.
 
 4: multiple: What was the bear waiting for?
  A) The seals to come back.
  B) The weather to get warm.
  C) The hunters to come for him.
- D) The ice to freeze.
+*D) The ice to freeze.
 
 
 ***************************************************
@@ -3716,25 +3716,25 @@ Mommy went over and took Leah away from the dog, but mommy could barely keep her
  A) It was a bright sunny day and she was going to see a dog.
  B) It was a bright sunny day and she was going to play in the water.
  C) Mommy was taking her to the play park to see a dog.
- D) It was a bright sunny day and she was going to the park.
+*D) It was a bright sunny day and she was going to the park.
 
 2: one: Where did Leah go first in the park?
  A) the swing
- B) the big slide
+*B) the big slide
  C) the dog's house
  D) the water
 
 3: one: What was Leah's favorite place?
  A) Mommy's car
  B) the dog's house
- C) the play park
+*C) the play park
  D) the water
 
 4: multiple: What did Leah do when she saw the dog?
  A) She ran over and got mommy because she was scared of dogs.
  B) She screamed because she liked this nice dog.
  C) She climbed on the swing because she was scared of dogs.
- D) She screamed because she was scared of dogs.
+*D) She screamed because she was scared of dogs.
 
 
 ***************************************************
@@ -3750,25 +3750,25 @@ Susie really wanted to get a pet. She really liked animals, and her parents said
  A) Her brother wanted a turtle.
  B) Her parents said she was ready for a pet.
  C) Cats were grey.
- D) She didn't think there were any pets for her.
+*D) She didn't think there were any pets for her.
 
 2: one: What kind of pet did Susie get?
  A) A cat
  B) A turtle
  C) A pig
- D) A goldfish
+*D) A goldfish
 
 3: multiple: Why didn't Susie want a loud pet?
  A) She wanted it to make her laugh.
  B) She wanted to show it off.
- C) She didn't want it to wake her up early.
+*C) She didn't want it to wake her up early.
  D) She didn't want a cat.
 
 4: one: What was the pet's name?
  A) George
  B) May
  C) Ms. Hammerstein
- D) Steve
+*D) Steve
 
 
 ***************************************************
@@ -3783,24 +3783,24 @@ Bob and Sue were in class.  Bob was listening to the teacher.  Sue was looking o
 1: one: What was Bob doing in class?
  A) Thinking about lunch.
  B) Thinking about climbing a tree.
- C) Listening to the teacher.
+*C) Listening to the teacher.
  D) Talking to a friend.
 
 2: multiple: Who was the last student out of the classroom?
  A) Bob's sister.
  B) Sue.
- C) Bob.
+*C) Bob.
  D) The teacher.
 
 3: multiple: What did Bob love to read?
  A) His notes.
- B) His sister's books.
+*B) His sister's books.
  C) Vocabulary words.
  D) Books people his age were reading.
 
 4: one: Why did Sue want to climb the tree?
  A) To read a book.
- B) To see what the yard looked like from above.
+*B) To see what the yard looked like from above.
  C) To do something boring.
  D) To show how proud she is of her climbing.
 
@@ -3818,22 +3818,22 @@ A lamb named Lana woke up on an early Monday morning. After taking a shower and 
  A) Coffee
  B) Eggs
  C) Toast
- D) Sausage
+*D) Sausage
 
 2: one: Who did Lana speak with on the phone?
  A) Terry
  B) John
- C) Drake
+*C) Drake
  D) Lana
 
 3: multiple: What did Drake and Lana spend their day doing?
- A) Walking in the park
+*A) Walking in the park
  B) Going shopping
  C) Talking on the telephone
  D) Eating at a restaurant
 
 4: multiple: Did Lana and Drake choose to meet another day?
- A) Yes
+*A) Yes
  B) It was not stated
  C) Maybe
  D) No
@@ -3851,11 +3851,11 @@ Once upon a time there was a small boy named Jeremy. Jeremy was very shy and did
 1: one: What color cat did Jeremy want to get?
  A) Orange
  B) Yellow
- C) Blue
+*C) Blue
  D) Black
 
 2: multiple: Where did Jeremy find the cat?
- A) Under the porch
+*A) Under the porch
  B) In his friend's front yard
  C) By the garbage can
  D) In the street
@@ -3864,12 +3864,12 @@ Once upon a time there was a small boy named Jeremy. Jeremy was very shy and did
  A) He always wanted a blue cat
  B) The cat lived with him
  C) He was its favorite person
- D) He had a new friend to play with
+*D) He had a new friend to play with
 
 4: one: What color is the cat that Jeremy found?
  A) Black
  B) Blue
- C) Yellow
+*C) Yellow
  D) Orange
 
 
@@ -3885,24 +3885,24 @@ I once was the leader of running a skills camp for a Boy Scout group. The weeken
 1: multiple: Did the group win the game?
  A) Yes, by using a bunch of leaves.
  B) Yes, they won
- C) No, they did not win because they cheated.
+*C) No, they did not win because they cheated.
  D) There was no game.
 
 2: one: Who was the camp for?
  A) Cub Scouts
  B) A group not named.
- C) Boy Scouts
+*C) Boy Scouts
  D) Girl Scouts
 
 3: one: How did you win the fire making game?
- A) By burning a string a few feet above the ground.
+*A) By burning a string a few feet above the ground.
  B) By lighting a fire
  C) By boiling some water
  D) By making the biggest fire.
 
 4: multiple: What game is talked about in the story?
  A) Making a teepee
- B) Fire making
+*B) Fire making
  C) Tying a string
  D) Rowing
 
@@ -3918,7 +3918,7 @@ Once there was a turkey named Tim, who enjoyed playing house, playing football a
 
 1: one: Which team won the football game?
  A) Clucks
- B) Gobblers
+*B) Gobblers
  C) Lizard
  D) None of the above
 
@@ -3926,19 +3926,19 @@ Once there was a turkey named Tim, who enjoyed playing house, playing football a
  A) Watching football
  B) Cheating on a test
  C) Riding his bicycle
- D) Licking the corn
+*D) Licking the corn
 
 3: one: The other team was named what?
  A) Turkeys
  B) Gobblers
  C) Chickens
- D) Clucks
+*D) Clucks
 
 4: multiple: Tim watched the football game with who?
  A) Clucks
  B) Parents
  C) No one
- D) Tony
+*D) Tony
 
 
 ***************************************************
@@ -3951,7 +3951,7 @@ Creativity Words: die,jump,wolf,sleep,belt,laugh,spaghetti,out,girl,taste,bowing
 The girl was scared.  She had been lost in the woods for over an hour.  Then she heard something howling in the distance.  Finally, it was getting dark.  It all made her more scared than she had ever been.  The howling grew louder.  Then the girl came into a small opening in the woods.  And she saw the wolf!  She was so scared she cried out, "Please don't eat me Mr. Wolf!"  A grey wolf, with grey fur, black eyes, and white teeth looked at her.  Then he let out a big, wolf laugh.  "Haha, I am not going to eat you! I don't like to eat humans!  They taste bad.  Plus, I am full!  Do you want some spaghetti?  It's been cooking for days! I was going to make some salad but I am out.  I'll go to the grocery store tomorrow, I haven't been there in months!"  The girl was confused.  A wolf who ate salad? But she was hungry.  So she sat down and ate with the wolf.  He was so pleased she ate with him he gave her a map.  Then he showed her how to get out of the woods.  Her mother would never believe her.
 
 1: one: How long was the girl lost for?
- A) An hour
+*A) An hour
  B) Months
  C) She wasn't lost.
  D) Days
@@ -3960,16 +3960,16 @@ The girl was scared.  She had been lost in the woods for over an hour.  Then she
  A) He was having some salad.
  B) He was going to the grocery store.
  C) He was lost and couldn't find any.
- D) They tasted bad and he was full.
+*D) They tasted bad and he was full.
 
 3: multiple: How did the girl get home?
- A) The wolf gave her a map and showed her the way out.
+*A) The wolf gave her a map and showed her the way out.
  B) She followed a spaghetti trail out.
  C) Her mother came and found her.
  D) Someone at the grocery store showed her.
 
 4: one: What color was the wolf's fur?
- A) Grey
+*A) Grey
  B) Black
  C) He didn't have fur.
  D) White
@@ -3988,10 +3988,10 @@ Billy and his friend Jake were walking together to meet their friends Kevin and 
  A) Jake
  B) Gordon
  C) Kevin
- D) Billy
+*D) Billy
 
 2: multiple: What was Jake drinking?
- A) Pepsi
+*A) Pepsi
  B) blue Gatorade
  C) red Gatorade
  D) water
@@ -4000,10 +4000,10 @@ Billy and his friend Jake were walking together to meet their friends Kevin and 
  A) soccer
  B) baseball
  C) kickball
- D) Touch Football
+*D) Touch Football
 
 4: multiple: What time of year did Billy love?
- A) Summertime
+*A) Summertime
  B) Spring
  C) Fall
  D) Winter
@@ -4019,13 +4019,13 @@ Creativity Words: facing,first,licking,worm,mommy,cereal,chew,wear,take,yoghurt,
 There once was a boy named John who was a good superhero. He thought he was a superhero, at least. His mommy made him eat his cereal with yoghurt every morning so he could stay strong. Today he had to go to school and he wasn't very happy about that. After breakfast he walked to the bus stop. There he found his neighbor Ashley, who was also an evil superhero. John thought she was an evil superhero at least. When John got to the bus stop, Ashley made a silly face at him. Then she dared him to lick a worm she found on the sidewalk. John had super powers, so he said yes to the dare. He picked up the worm. It was slimy and gross. It wiggled around between his fingers. John closed his eyes and licked it. Ashley laughed so hard, she fell to the ground. But John felt like a real superhero who had won the day for good kids everywhere. First thing tomorrow, John would start wearing a cape to school. He hoped his mommy would let him wear it. The bus came and Ashley was still sitting on the ground laughing. John had a great, superhero kind of thought. He put the worm in her hair. Now Ashley was screaming! John the superhero got in trouble for that.
 
 1: multiple: Why did John lick the worm?
- A) Ashley dared him to
+*A) Ashley dared him to
  B) He wanted to be an evil superhero
  C) He had to for school
  D) His mommy made him
 
 2: multiple: What did John do before meeting the evil superhero?
- A) Ate his cereal and yoghurt
+*A) Ate his cereal and yoghurt
  B) Got on the bus to school
  C) Licked a worm
  D) Put a worm in Ashley's hair
@@ -4033,11 +4033,11 @@ There once was a boy named John who was a good superhero. He thought he was a su
 3: one: Who was a good superhero?
  A) Mommy
  B) The worm
- C) John
+*C) John
  D) Ashley
 
 4: multiple: What did John get in trouble for?
- A) Putting a worm in Ashley's hair
+*A) Putting a worm in Ashley's hair
  B) Missing the school bus
  C) Not eating his cereal and yoghurt
  D) Licking a worm
@@ -4067,23 +4067,23 @@ Billy and Beverly looked where the rock had been. In the middle of the circle of
 1: one: What does Billy find under the rock?
  A) Beverly
  B) lettuce
- C) bunnies
+*C) bunnies
  D) a spoon
 
 2: multiple: How many times does Billy go home in the story?
  A) four times
  B) once
- C) twice
+*C) twice
  D) three times
 
 3: one: Whose idea is it to use the spoon to dig around the rock?
  A) Billy's
- B) Judy's
+*B) Judy's
  C) Bunny's
  D) Beverly's
 
 4: multiple: What does Beverly NOT do in the story?
- A) feed the bunnies lettuce
+*A) feed the bunnies lettuce
  B) eat grass
  C) help Billy move the rock
  D) follow Billy
@@ -4101,23 +4101,23 @@ The kid was going for a quick swim. He loved to get out and hop back into the wa
 1: multiple: What did he not do at the pool?
  A) make friends
  B) football
- C) basketball
+*C) basketball
  D) play with toys
 
 2: multiple: What did the kid most like to do at the pool?
  A) Hop into the pool
- B) Football
+*B) Football
  C) Play with toys
  D) Make friends
 
 3: one: Who did the boy go to the pool with?
  A) his friend
- B) mom
+*B) mom
  C) Grandma
  D) another kid
 
 4: multiple: Why did he like the pool?
- A) He could make friends and play football
+*A) He could make friends and play football
  B) He didn't like the pool much.
  C) He could play with toys
  D) He could play with toys and make friends and play basketball
@@ -4134,7 +4134,7 @@ Sally wants to learn how to cook. She has only made peanut butter and jelly sand
 
 1: one: What did Sally make today?
  A) Fruit
- B) Spaghetti with meat sauce
+*B) Spaghetti with meat sauce
  C) Fried rice
  D) Peanut butter and jelly sandwiches
 
@@ -4142,16 +4142,16 @@ Sally wants to learn how to cook. She has only made peanut butter and jelly sand
  A) The kitchen
  B) The store
  C) Down the street
- D) The dining room
+*D) The dining room
 
 3: one: How many seconds does the water take to boil?
- A) Four hundred
+*A) Four hundred
  B) One
  C) Ten
  D) Six
 
 4: multiple: What does Sally do before she cuts up the beef and puts it in the pan?
- A) Boils the pasta
+*A) Boils the pasta
  B) Adds the cooked pasta
  C) Adds the seasoning
  D) Cuts the tomatoes
@@ -4170,10 +4170,10 @@ A boy named Pedro was walking down the street one day, and he met a pretty girl 
  A) A puppy
  B) A bird
  C) A pink dress
- D) A bell
+*D) A bell
 
 2: multiple: Which child lost her wish?
- A) Alice
+*A) Alice
  B) Carla
  C) Pedro
  D) The girl in the pink dress
@@ -4181,14 +4181,14 @@ A boy named Pedro was walking down the street one day, and he met a pretty girl 
 3: one: What was the magic item that can give wishes?
  A) A girl
  B) A puppy
- C) A bell
+*C) A bell
  D) A genie
 
 4: one: What color was Pedro's puppy?
  A) White with black spots
  B) Brown with white spots
  C) Tan
- D) Black with brown and white spots
+*D) Black with brown and white spots
 
 
 ***************************************************
@@ -4203,13 +4203,13 @@ Melissa was seven years old, and Justin was ten. Melissa waited until she didn't
 
 1: one: Who was Justin having dinner with?
  A) Mother, aunt and cousin
- B) His mother, father, and sister.
+*B) His mother, father, and sister.
  C) Mother, father and brother
  D) Father, mother and uncle.
 
 2: multiple: How old is Melissa?
  A) forty-five
- B) seven
+*B) seven
  C) forty
  D) ten
 
@@ -4217,11 +4217,11 @@ Melissa was seven years old, and Justin was ten. Melissa waited until she didn't
  A) forty
  B) seven
  C) forty-five
- D) ten
+*D) ten
 
 4: multiple: Who's meatloaf recipe did Justin's mother use?
  A) her friend's
- B) Her mother's
+*B) Her mother's
  C) her aunt's
  D) her sister's
 
@@ -4240,14 +4240,14 @@ Anne with a sad face said, " I don't want to look different from everybody else.
 Millisa being the best friend Anne had ever had hugged her dear friend and whispered in her ear, "It's OK to be different and not like everybody else. Why some of us are short, some of us are tall, some of us have dark hair, and some of us have light hair. There is often some of us who even have red ribbons with stripes on them. Everybody is their own person, never be afraid to be who you are." Anne hugged her friend and placed her red ribbons back in her hair.
 
 1: multiple: What did Anne love to wear in her hair?
- A) Anne loved to wear ribbons in her hair.
+*A) Anne loved to wear ribbons in her hair.
  B) Anne loved to wear bows in her hair.
  C) Anne loved to wear clips in her hair.
  D) Anne loved to wear headbands in her hair.
 
 2: one: Where did Ann live?
  A) Anne lived with her parents.
- B) Anne lived with her grandma
+*B) Anne lived with her grandma
  C) Anne lived with her favorite puppy.
  D) Anne lived in a shoe
 
@@ -4255,11 +4255,11 @@ Millisa being the best friend Anne had ever had hugged her dear friend and whisp
  A) It was a rainy day.
  B) It was a windy day.
  C) It was a hot day.
- D) It was a cold day.
+*D) It was a cold day.
 
 4: multiple: Who was Anne's best friend?
  A) Joe was Anne's best friend.
- B) Millisa was Anne's best friend.
+*B) Millisa was Anne's best friend.
  C) Amy was Anne's best friend.
  D) Beth was Anne's best friend.
 
@@ -4300,7 +4300,7 @@ Leah lifted up her line and took the small fish out of the water.
 "Daddy, I can catch fish" she happily said.
 
 1: multiple: How could Leah see her float on the water?
- A) It was red and white and and the water was blue and the sky was sunny
+*A) It was red and white and and the water was blue and the sky was sunny
  B) Leah didn't see it because she was bored.
  C) The float was blue and the sky was sunny.
  D) Daddy told her.
@@ -4309,18 +4309,18 @@ Leah lifted up her line and took the small fish out of the water.
  A) candy bears
  B) bean sandwich
  C) fish
- D) fries
+*D) fries
 
 3: one: What did Daddy put on the hook for Leah to get the fish?
  A) grasshopper
  B) corn
- C) worm
+*C) worm
  D) tiny fish
 
 4: multiple: What did Leah take with her for lunch?
  A) fish and candy bears
  B) fish, fries with ketchup, and candy bears
- C) fries with ketchup, bean sandwich, candy bears.
+*C) fries with ketchup, bean sandwich, candy bears.
  D) fries with ketchup and a bean sandwich
 
 
@@ -4350,12 +4350,12 @@ Leah tried several more times, and soon was riding!   She went down the street a
 1: multiple: How many friends did Leah see riding their bikes?
  A) 1
  B) 2
- C) 3
+*C) 3
  D) 4
 
 2: one: What did Leah get for her birthday?
  A) New training wheels for her bike
- B) A new bike with a basket and bell.
+*B) A new bike with a basket and bell.
  C) A new bike with training wheels
  D) A basket and a bell for her bike
 
@@ -4363,11 +4363,11 @@ Leah tried several more times, and soon was riding!   She went down the street a
  A) Her friends
  B) Only Daddy
  C) Her friends, Mommy, and Daddy
- D) Mommy and Daddy
+*D) Mommy and Daddy
 
 4: multiple: What did Leah's old bike have that was not on the new bike?
  A) a bell and a basket
- B) training wheels
+*B) training wheels
  C) training wheels, a bell, and a basket
  D) a basket and training wheels
 
@@ -4392,25 +4392,25 @@ The hamster and Piggy set off on their trip.
 1: one: What does the hamster want to eat his lunch with?
  A) A ceiling
  B) The farmhouse
- C) A fork
+*C) A fork
  D) Piggy
 
 2: one: Where do they have forks?
  A) In the lunch
- B) In the farmhouse
+*B) In the farmhouse
  C) On the stand
  D) In the walls
 
 3: multiple: Where did the hamster run to?
  A) The ceiling
  B) The white walls
- C) The lunch in the center of the room
+*C) The lunch in the center of the room
  D) The horse
 
 4: multiple: What does the hamster jump up to look at?
  A) Music
  B) Lunch
- C) Piggy
+*C) Piggy
  D) Walls
 
 
@@ -4437,27 +4437,27 @@ John Bill Bob lived on a boat in the sea.  He'd gone all around the world, but t
 
 1: multiple: What did he do in America?
  A) We do not know!
- B) Drank some milk from a big cup.
+*B) Drank some milk from a big cup.
  C) Ate a tuna salad sandwich.
  D) Talked with a cow on a farm.
 
 2: one: Where did John Bill Bob want to be?
  A) America
- B) The Sea
+*B) The Sea
  C) Africa
  D) Siberia
 
 3: multiple: What did John Bill Bob run away from in Africa?
  A) a cold winter
  B) a ham and cheese sandwich
- C) a tiger's growl
+*C) a tiger's growl
  D) a cow's milk
 
 4: one: What did he ride in England?
  A) a sandwich
  B) a tiger
  C) a boat
- D) a horse
+*D) a horse
 
 
 ***************************************************
@@ -4473,11 +4473,11 @@ Once there was a beautiful Queen.  She liked dancing.  She liked singing.  She l
  A) Chocolate
  B) Caramel
  C) Vanilla
- D) Strawberry
+*D) Strawberry
 
 2: one: What was the new flavor?
  A) vanilla chocolate
- B) chocolate strawberry
+*B) chocolate strawberry
  C) chocolate caramel
  D) vanilla strawberry
 
@@ -4485,10 +4485,10 @@ Once there was a beautiful Queen.  She liked dancing.  She liked singing.  She l
  A) Because he didn't like strawberry.
  B) Because he liked vanilla.
  C) Because he didn't like the queen's singing.
- D) Because his favorite flavor didn't win.
+*D) Because his favorite flavor didn't win.
 
 4: multiple: Which flavor did the most people like?
- A) Strawberry
+*A) Strawberry
  B) Caramel
  C) Vanilla
  D) Chocolate
@@ -4517,24 +4517,24 @@ We went there with my granddaughter and her grandson, and had a delicious meal. 
  A) Good Grades
  B) Matilda
  C) Thai
- D) The Black Triangles
+*D) The Black Triangles
 
 2: one: What was the narrator sitting on?
- A) a school bench
+*A) a school bench
  B) a restaurant chair
  C) a bus
  D) a triangle
 
 3: multiple: Who was Matilda there to pick up?
  A) the Triangle player
- B) Her grandson
+*B) Her grandson
  C) Sandra
  D) her granddaughter
 
 4: one: what is the name of the Black Triangle trumpet player?
  A) Thai
  B) York
- C) Matilda
+*C) Matilda
  D) Sandra
 
 
@@ -4550,24 +4550,24 @@ My brother Ryan is twelve years older than me. He is my best friend, and the coo
 1: one: What did Ryan send to him that Mom sewed on his jacket?
  A) stars
  B) flag
- C) stripes
+*C) stripes
  D) letters
 
 2: multiple: How many days did it take Ryan to get back to the Army?
  A) one day
  B) six days
  C) three days
- D) four days
+*D) four days
 
 3: multiple: When Ryan was in the Army, how could they see his face when they missed him?
  A) mirror
  B) TV
  C) letters
- D) Skype
+*D) Skype
 
 4: one: Ryan left home to join what?
  A) Navy
- B) Army
+*B) Army
  C) Air-Force
  D) Marines
 
@@ -4584,25 +4584,25 @@ In a big forest lived a fox named Manny. He was having a fun morning. Dad had gi
 1: multiple: Where did Manny hop to after his feelings were hurt?
  A) Out of the forest
  B) To get a cookie
- C) To his brother Greg
+*C) To his brother Greg
  D) To his mother
 
 2: multiple: Why did Tony call Manny a liar?
  A) Manny said bears were bad
  B) Manny shouted at Tony's mother
  C) Manny ate Tony's cookie
- D) Manny said he would hurt Tony's brother if they got into a fight
+*D) Manny said he would hurt Tony's brother if they got into a fight
 
 3: multiple: What snack did Manny get that morning?
  A) A frog
- B) A cookie
+*B) A cookie
  C) A log
  D) A bear
 
 4: one: What was the name of the frog?
  A) Greg
  B) Manny
- C) Tony
+*C) Tony
  D) Dad
 
 
@@ -4616,26 +4616,26 @@ Creativity Words: bath,belting,puppy,hurt,smell,winding,tomato,wear,ear,bear,son
 Annie's sister, Julia, was having a birthday party in the afternoon.  Annie's mother was going to bake the cake for the party.  Mother asked Annie to help her bake the cake.  They chose to make a chocolate cake with chocolate frosting.  Annie got the bowls and the ingredients they would need for the cake.  She helped measure the flour, the sugar and the cocoa.  Once her mother added the rest of the ingredients, Annie was allowed to stir the ingredients in the bowl.  She helped to pour the cake mix into two pans and then put them in the oven.  The smell of the cake made Annie hungry.  While the cake was baking, Annie helped her mother make the chocolate frosting.  Her mother let her lick the spoon when they were done mixing the frosting.  Once the cake was done, Annie and her mother took the cake out of the oven and let it cool, and then they frosted it.  They ate the chocolate cake at Julia's party with scoops of vanilla ice cream and fresh strawberries.  Annie gave their dog, Sunny, a little piece of cake too!
 
 1: one: What flavor was the birthday cake?
- A) Chocolate
+*A) Chocolate
  B) Vanilla
  C) Sugar
  D) Strawberry
 
 2: one: Who was the birthday cake for?
- A) Julia
+*A) Julia
  B) Annie
  C) Sunny
  D) Mother
 
 3: multiple: Who did Annie give Sunny during Julia's party?
  A) ice cream
- B) cake
+*B) cake
  C) cocoa
  D) strawberries
 
 4: multiple: What did Annie and her mother make?
  A) flour and sugar
- B) cake and frosting
+*B) cake and frosting
  C) ice cream and strawberries
  D) Julia and Sunny
 
@@ -4656,7 +4656,7 @@ Now, Marky is a very good doctor. Sometimes other doctors ask him questions, bec
 In his free time, Marky likes to play basketball. Marky works hard, and sometimes he wants to have fun. But really, his job is fun to him. When he wakes up in the morning, he always is excited thinking about how he can help people as a doctor.
 
 1: one: Why do other doctors ask Marky questions?
- A) He knows more about some things than they do.
+*A) He knows more about some things than they do.
  B) He is thirty years old, so the other doctors think he is old and wise.
  C) Marky works with another doctor, so he has the skills of two people.
  D) They ask him questions about basketball, because he plays it.
@@ -4664,11 +4664,11 @@ In his free time, Marky likes to play basketball. Marky works hard, and sometime
 2: one: How many nurses does Marky work with?
  A) seven
  B) two
- C) four
+*C) four
  D) 30
 
 3: multiple: How many years older than Marky is Jim?
- A) ten
+*A) ten
  B) seven
  C) four
  D) twenty-five
@@ -4677,7 +4677,7 @@ In his free time, Marky likes to play basketball. Marky works hard, and sometime
  A) Zeke
  B) Jim
  C) Marky
- D) Alice
+*D) Alice
 
 
 ***************************************************
@@ -4695,23 +4695,23 @@ After they had walked the whole neighborhood and filled their bags with candy, G
  A) Grace
  B) Amy
  C) Max
- D) Melissa
+*D) Melissa
 
 2: multiple: What was Max's sister's name?
  A) Mary
  B) Melissa
- C) Grace
+*C) Grace
  D) Amy
 
 3: one: What was Grace's costume?
  A) mummy
- B) princess
+*B) princess
  C) doggy
  D) zebra
 
 4: multiple: What color was Grace's dress?
  A) pink
- B) purple
+*B) purple
  C) blue
  D) red
 
@@ -4726,25 +4726,25 @@ Creativity Words: close,liar,call,rinse,orange,singing,fun,wet,wing,letting,frie
 It was a boring day out on the range for cowboy Bob. He was riding around on his horse. It was a good animal, and its name was Steve. Steve was an old friend to Bob. He had been carrying Bob around on his back for almost five years, and both of them knew every inch of the range on which they rode. Bob's job was to keep watch over the cattle who ate and grew fat off the nice grass which grew on the range near the farm. It was a good job for cowboy Bob. He was a friendly cowboy with a nice beard, but he still preferred to be alone most of the time. He never got lonely on the range, with his horse Steve to keep him company and the nice view. As he did his job, he would sometimes get wet from the rain, and every day he would have to rise before the sun did, but still Bob was very happy, and he was never sad or angry or scared. Watching the sun rise orange in the distance was always a fun way for Bob to start the day. Sometimes, Bob would even sing to keep the cattle calm. Bob also had to keep the other animals away from the cattle, the wolf and the snake and the coyote. Bob and Steve were happy having each other as friends.
 
 1: multiple: The name of the horse was what?
- A) Steve
+*A) Steve
  B) Bob
  C) Horse
  D) Friends
 
 2: multiple: What animals did Bob protect?
  A) Snake
- B) Cattle
+*B) Cattle
  C) Wolf
  D) Coyote
 
 3: one: What was the name of the cowboy?
- A) Bob
+*A) Bob
  B) Sun
  C) Steve
  D) Cattle
 
 4: one: How did Bob always feel?
- A) Happy
+*A) Happy
  B) Scared
  C) Angry
  D) Sad
@@ -4761,24 +4761,24 @@ Steve the penguin lived at the zoo. Steve loved to lie on his towel outside duri
 
 1: multiple: What was Steve's favorite food?
  A) bananas
- B) Fish
+*B) Fish
  C) oranges
  D) apples
 
 2: multiple: Who was Steve's favorite helper?
- A) Bob
+*A) Bob
  B) Joe
  C) Apple
  D) Tim
 
 3: one: What was the penguin's name?
- A) Steve
+*A) Steve
  B) Bob
  C) Joe
  D) Tim
 
 4: multiple: What was the penguin's favorite time of the year?
- A) summer
+*A) summer
  B) spring
  C) winter
  D) treat
@@ -4805,25 +4805,25 @@ Eventually Steve arrived back at his farm.  This confused him because he thought
  A) pear tree
  B) pine tree
  C) maple tree
- D) palm tree
+*D) palm tree
 
 2: one: Which direction did Steve ride?
  A) north
  B) west
- C) east
+*C) east
  D) south
 
 3: multiple: What did Steve leave on the beach to dry?
  A) his boots
  B) his farm
  C) his horse
- D) his hat
+*D) his hat
 
 4: multiple: In which town were people wearing large coats and mittens?
  A) Sunny
  B) Silence
  C) Raindrop
- D) Ice
+*D) Ice
 
 
 ***************************************************
@@ -4838,23 +4838,23 @@ Jake liked his old sneakers but they were getting too small.  He tried on sixtee
 1: one: What color sneakers did Jake and his mom buy?
  A) Green
  B) Blue
- C) White
+*C) White
  D) Yellow
 
 2: multiple: Why were Jake's shoes dripping?
  A) They were old.
  B) They were wet.
- C) He painted them as soon as he got home.
+*C) He painted them as soon as he got home.
  D) He bought them that way.
 
 3: multiple: What did Jake eat for lunch?
  A) A hot dog and some fries.
  B) A cheeseburger and a drink.
  C) Nachos and a drink.
- D) A hamburger and some fries.
+*D) A hamburger and some fries.
 
 4: one: What color shoes did Jake want?
- A) Green
+*A) Green
  B) Yellow
  C) Red
  D) Blue
@@ -4872,24 +4872,24 @@ Oil is plentiful in West Texas. When people think of West Texas they think of th
 1: multiple: Why does Robert come to West Texas?
  A) Oil
  B) Restaurants
- C) Pump-Jacks
+*C) Pump-Jacks
  D) Telephones
 
 2: one: What is a pump-jack?
  A) Warms up Oil
  B) Pushes water
  C) Pulls water out of the earth
- D) A pump-jack is a machine that pulls Oil out of the Earth.
+*D) A pump-jack is a machine that pulls Oil out of the Earth.
 
 3: multiple: What is Steve's problem?
- A) Keeping his pump-jacks working
+*A) Keeping his pump-jacks working
  B) its too hot
  C) finding Robert
  D) finding broken pump-jacks
 
 4: one: According to the Story, What is plentiful in West Texas?
  A) Luck
- B) Oil
+*B) Oil
  C) Machines
  D) Restaurants
 
@@ -4912,7 +4912,7 @@ That fall, the pumpkins were really big.  Bill picked the biggest one and brough
 Bill's parents had other plants in their garden.  They had strawberries, tomatoes, cucumbers, and many other fruits and vegetables.  But they all started as tiny seeds.
 
 1: multiple: What did Bill put in the ground?
- A) A seed.
+*A) A seed.
  B) A blue ribbon.
  C) A pumpkin.
  D) Leaves.
@@ -4921,18 +4921,18 @@ Bill's parents had other plants in their garden.  They had strawberries, tomatoe
  A) In the garden.
  B) At the store.
  C) From his parents.
- D) At the fair.
+*D) At the fair.
 
 3: one: What did Bill pour on the seed?
  A) Leaves.
  B) Ribbons.
- C) Water.
+*C) Water.
  D) Strawberries.
 
 4: multiple: When did Bill pick the pumpkin?
  A) At the fair.
  B) In the summer.
- C) In the fall.
+*C) In the fall.
  D) In the winter.
 
 
@@ -4949,22 +4949,22 @@ One day Poppy the puppy went outside to play. He ran around the yard as fast as 
  A) He played with his ball.
  B) He played catch.
  C) He sat in the yard waiting to go back inside.
- D) He ran around the yard as fast as he could.
+*D) He ran around the yard as fast as he could.
 
 2: multiple: What did Poppy do when he was outside?
  A) He sat down and took a nap.
  B) He played catch with a cat.
- C) He played with Mary.
+*C) He played with Mary.
  D) He chased a cat.
 
 3: one: What was the name of Mary's dog?
  A) Puppy
  B) Happy
  C) Jump
- D) Poppy
+*D) Poppy
 
 4: multiple: What did Poppy do after he played catch with Mary?
- A) He jumped on Mary and licked her.
+*A) He jumped on Mary and licked her.
  B) He went inside to eat.
  C) He played with the ball.
  D) He went inside for a nap.
@@ -4982,23 +4982,23 @@ There were four men who all played basketball. They did not play baseball, footb
 1: multiple: Who was the best shot?
  A) Ryan
  B) Henry
- C) Tanner
+*C) Tanner
  D) Seth
 
 2: one: What could Tanner NOT do?
  A) Run Fast
- B) Dunk it
+*B) Dunk it
  C) Shoot
  D) Dribble
 
 3: multiple: Which team did Tanner pick?
  A) The Shooters
- B) The Hoopsters
+*B) The Hoopsters
  C) The Dribblers
  D) The Dunkers
 
 4: one: What sport did the four men play?
- A) Basketball
+*A) Basketball
  B) Soccer
  C) Baseball
  D) Football
@@ -5014,19 +5014,19 @@ Creativity Words: word,stone,playground,lick,storm,road,family,string,roar,long,
 Jane went with her family swimming to the pool. Jane and her brother, Marky, get along really well and they always have so much fun at the pool together. This time, there was a huge storm coming. As they were swimming, the life guard told everyone to get out of the pool. The life guard also warned everyone of the storm. Jane and Marky got out of the pool as fast as they could and went to a safe place and waited until the storm was over. Jane started to get worried as the storm got worse and worse. Marky told her not to worry because he didn't think the storm was very bad and that he thought it was almost over. As he told her about the storm, a man walked by and told them that the storm was almost over and that they could go back and swim in a little bit. Jane was very happy to hear that she can go back to having fun in the pool with her brother. When the storm was over, Marky and Jane walked to the store to get some candy before they raced to the pool and jumped in.
 
 1: one: Who was Jane with at the pool?
- A) Her brother, Marky.
+*A) Her brother, Marky.
  B) Her friend and her brother, Marky.
  C) No one.
  D) Just a life guard.
 
 2: multiple: Who told Jane that the storm was almost over?
  A) Marky and her mom.
- B) Marky and a man who walked by.
+*B) Marky and a man who walked by.
  C) Marky.
  D) A man who walked by and her mom.
 
 3: one: Where did Jane and Marky go after they got out of the pool?
- A) To a safe place.
+*A) To a safe place.
  B) Home.
  C) To the store to get an umbrella.
  D) To the snack bar to get some candy.
@@ -5034,7 +5034,7 @@ Jane went with her family swimming to the pool. Jane and her brother, Marky, get
 4: multiple: Why did Jane and Marky have to get out of the pool?
  A) Jane and Marky got out because they were tired of playing.
  B) It had started storm and Marky told Jane to get out.
- C) The life guard said to get out because of the storm.
+*C) The life guard said to get out because of the storm.
  D) Jane and Marky never got out of the pool.
 
 
@@ -5064,11 +5064,11 @@ The girls walked in the house leaving a trail of mud on the floor.
  A) She went to town
  B) She wrote her ABCs
  C) She left a trail of mud on the floor
- D) She picked purple flowers off of a bush to give to Mrs. Jones
+*D) She picked purple flowers off of a bush to give to Mrs. Jones
 
 2: multiple: Why was June worried when she looked at her blue jeans?
  A) Michelle was making pies
- B) She had dirt on her and her mom said not to get dirty
+*B) She had dirt on her and her mom said not to get dirty
  C) She wanted purple flowers
  D) Her mommy said cooking was messy business
 
@@ -5076,12 +5076,12 @@ The girls walked in the house leaving a trail of mud on the floor.
  A) She got mud in her eye
  B) Michelle ate pies out of mud
  C) She picked her mom's purple flowers
- D) She had dirt on her blue jeans
+*D) She had dirt on her blue jeans
 
 4: multiple: What were the girls doing outside in the yard at the beginning of the story?
  A) making pies and going to town
  B) going to the store and picking flowers
- C) making pies and cakes and writing their ABCs in the dirt.
+*C) making pies and cakes and writing their ABCs in the dirt.
  D) singing about the store and tying their shoes
 
 
@@ -5115,24 +5115,24 @@ Mary and Susie played with the kittens all day.
 1: multiple: Why was Susie happy?
  A) Susie was going to take a kitten home.
  B) She had new kittens.
- C) Mary was coming to visit today and the new kittens.
+*C) Mary was coming to visit today and the new kittens.
  D) Her mother was cooking breakfast.
 
 2: one: Where are the kittens?
  A) The kittens are in a kitchen.
  B) The kittens are in the car.
  C) The kittens are in the house.
- D) The kittens are in the barn.
+*D) The kittens are in the barn.
 
 3: multiple: Why does Susie's mother want Mary to take a kitten?
  A) She doesn't want Mary to come visit.
- B) Six kittens is too many. She only wants to keep two kittens.
+*B) Six kittens is too many. She only wants to keep two kittens.
  C) She is cooking breakfast.
  D) She wants Susie to be happy.
 
 4: one: What is Susie's mother doing?
  A) She is playing with the kittens.
- B) She is cooking breakfast.
+*B) She is cooking breakfast.
  C) She is eating breakfast.
  D) She is waiting for Mary.
 
@@ -5150,23 +5150,23 @@ A little mouse lived in a little house.  The mouse would hurry along the walls a
  A) a wire
  B) a telephone
  C) a television
- D) food
+*D) food
 
 2: multiple: What was something the mouse found on a good day?
  A) a piggy
  B) a kitchen
- C) frosting
+*C) frosting
  D) a house
 
 3: one: What did the mouse trip over when phone rang?
  A) a paint can
- B) a wire
+*B) a wire
  C) a spoon
  D) a piggy
 
 4: multiple: What was something the mouse found on a bad day?
  A) a television
- B) paint from a paint can
+*B) paint from a paint can
  C) a piggy
  D) a wire
 
@@ -5202,23 +5202,23 @@ And so the dinosaur walked home, his new best buddy in hand.
  A) white fish
  B) black fish
  C) purple fish
- D) rainbow fish
+*D) rainbow fish
 
 2: multiple: Why did the worker put the fish in a bag of water?
  A) Goldfish love being in bags.
  B) The worker likes putting fish in bags.
  C) The dinosaur asked for the fish to be put in a bag.
- D) Fish always love to have something to swim in.
+*D) Fish always love to have something to swim in.
 
 3: multiple: Why is the dinosaur reading his book?
  A) He wants to see if the pet store is big enough for him to fit inside.
  B) He wants to go to Detroit.
- C) He wants to learn how to take care of a goldfish.
+*C) He wants to learn how to take care of a goldfish.
  D) He wants to go the pet store.
 
 4: one: Where is the pet store?
  A) Pakistan
- B) Oceanside
+*B) Oceanside
  C) St. Louis
  D) Detroit
 
@@ -5235,17 +5235,17 @@ Sue was going to make her auntie Wendy toast. Sue got out the bread. Sue put the
 1: multiple: What did Sue put on the tray?
  A) Sue did not take a tray.
  B) Only a flower
- C) A plate, a flower and the toast.
+*C) A plate, a flower and the toast.
  D) Only toast
 
 2: multiple: Where did Sue look for Auntie Wendy?
  A) In the hallway and the bathroom.
  B) Only in the hallway.
  C) In the bathroom and the kitchen.
- D) In the bathroom, kitchen, hallway and bedroom.
+*D) In the bathroom, kitchen, hallway and bedroom.
 
 3: multiple: What did Sue put on the toast?
- A) Sue put butter and jam on the toast.
+*A) Sue put butter and jam on the toast.
  B) only butter
  C) Sue didn't put anything on the toast.
  D) only jam
@@ -5254,7 +5254,7 @@ Sue was going to make her auntie Wendy toast. Sue got out the bread. Sue put the
  A) Only Sue
  B) Only Sue and Auntie Wendy
  C) Only Auntie Wendy
- D) Sue, Auntie Wendy and Tom
+*D) Sue, Auntie Wendy and Tom
 
 
 ***************************************************
@@ -5269,26 +5269,26 @@ John was very hungry.  So he chose to make a sandwich.  John invited Susan, Tim,
 1: multiple: What did Susan put down?
  A) Bread and tomato
  B) Bread and pickle
- C) Meat and Pickle
+*C) Meat and Pickle
  D) Meat and cheese
 
 2: one: What did Tim put down?
  A) Lettuce
  B) Cheese
- C) Tomato
+*C) Tomato
  D) Meat
 
 3: multiple: What did John put down?
  A) Bread and pickle
  B) Cheese and meat
  C) Bread and tomato
- D) Bread and cheese
+*D) Bread and cheese
 
 4: one: What did Jack put down?
  A) Meat
  B) Bread
  C) Cheese
- D) Lettuce
+*D) Lettuce
 
 
 ***************************************************
@@ -5301,7 +5301,7 @@ Creativity Words: paper,dig,house,change,hop,poop,right,dresser,coffee,wheel,qui
 A man named Albert had the choice to build a tree house, a garage, a desk, or a cabinet.  Albert chose to build something big to share with his kid, so he wanted to make a tree house.  Albert had to choose what kind of stuff to make the tree house out of.  Wood is popular, but splinters would hurt his son.  Metal is very strong, but it would also be very hard to use.  Plastic is not expensive, but it also bends a lot. The last choice was to give up, but Albert really wanted to do this for his son.  It would make him very happy.  Albert ended up choosing wood, as it was the most popular choice.  Albert went to the store to buy nails, tools, and wood, but forgot to buy glue.  He had to go back there and he finally had everything he needed.  He got started and it was very hard.  One hour went by, then two, then three, then four.  Finally, on the fifth hour, Albert finally finished the tree house.  His son ran out and jumped into his dad's arms.  They both looked at it, and Albert's son gave his dad a kiss for all the hard work he had done.  Albert looked at the tree house he had built and was very happy.  He had done it all by himself, and he was happy to see his son being so happy as well. They would have a long summer of playing together in the tree house that Albert built.  It was one of the best tree houses ever!
 
 1: one: How long did it take Albert to build the tree house?
- A) five hours
+*A) five hours
  B) three hours
  C) two hours
  D) four hours
@@ -5309,12 +5309,12 @@ A man named Albert had the choice to build a tree house, a garage, a desk, or a 
 2: multiple: What did Albert make the tree house out of?
  A) Albert chose not to make the tree house
  B) Metal
- C) WOod
+*C) WOod
  D) Plastic
 
 3: multiple: What did Albert choose to build?
  A) A desk
- B) A tree house
+*B) A tree house
  C) A garage
  D) A cabinet
 
@@ -5322,7 +5322,7 @@ A man named Albert had the choice to build a tree house, a garage, a desk, or a 
  A) Nails
  B) Tools
  C) Wood
- D) Glue
+*D) Glue
 
 
 ***************************************************
@@ -5338,24 +5338,24 @@ A man got fired from his job.  He was in such a bad mood after.  He walked out t
  A) a teacher
  B) a baby
  C) a mailman
- D) syrup
+*D) syrup
 
 2: multiple: Why was the baby crying?
  A) The baby wanted pancakes.
- B) The man pushed the mailman who fell on a teacher which made the baby cry.
+*B) The man pushed the mailman who fell on a teacher which made the baby cry.
  C) The baby was chewing gum.
  D) The baby got fired.
 
 3: multiple: What made the man forget about being fired?
  A) Making a baby cry.
- B) Eating the pancakes and sweeping the floor.
+*B) Eating the pancakes and sweeping the floor.
  C) Making a teacher fall.
  D) Pushing a mailman.
 
 4: one: What did the man take with him after he got fired?
  A) a broom
  B) a baby
- C) gum and gloves
+*C) gum and gloves
  D) a pancake
 
 
@@ -5383,26 +5383,26 @@ Anna saved up her money.  She had two whole dollars.  She went to the store to p
 1: multiple: Why did Anna buy a rattle?
  A) She wanted a toy for herself
  B) She wanted a present for her mom
- C) She wanted to give the baby a toy to play with
+*C) She wanted to give the baby a toy to play with
  D) She wanted to make music
 
 2: one: Where did the crib come from?
  A) Anna's mom built it
  B) Anna's dad used to sleep in it
- C) Anna used to sleep in it
+*C) Anna used to sleep in it
  D) the store
 
 3: one: What did Anna's dad say he would do to a crying baby?
  A) Feed him
  B) Clean him up
- C) Hold him
+*C) Hold him
  D) Put him in the crib
 
 4: multiple: How much did the rattle cost?
  A) three dollars
  B) one dollar
  C) it was free
- D) Two dollars
+*D) Two dollars
 
 
 ***************************************************
@@ -5416,12 +5416,12 @@ One day a man named John was walking down the block near the park when he came a
 
 1: multiple: Why did John pick up the telephone?
  A) Because he wanted to go to Otonga.
- B) Because he was curious about why Jill was sitting on the phone.
+*B) Because he was curious about why Jill was sitting on the phone.
  C) Because Bob told him to.
  D) Because he was tired.
 
 2: multiple: What did John do on Otonga?
- A) Followed Bob into the forest.
+*A) Followed Bob into the forest.
  B) Jumped into the volcano.
  C) Watched Jill sitting on the telephone.
  D) Realized that he was on Otonga.
@@ -5429,12 +5429,12 @@ One day a man named John was walking down the block near the park when he came a
 3: one: What did Jill do?
  A) Picked up the telephone.
  B) Passed out.
- C) Flew from the flower to the telephone.
+*C) Flew from the flower to the telephone.
  D) Followed Bob into the forest.
 
 4: one: What is the name of the man in the story?
  A) Jill
- B) John
+*B) John
  C) Otonga
  D) Bob
 
@@ -5453,24 +5453,24 @@ If Larry was going to see a panda, he would have find one himself. He packed up 
 1: one: What is Larry's favorite animal?
  A) Monkey
  B) Bear
- C) Panda
+*C) Panda
  D) Rabbit
 
 2: one: What is a panda's favorite food?
  A) Chocolate bars.
- B) Leaves.
+*B) Leaves.
  C) Bananas.
  D) Sandwiches.
 
 3: multiple: Which of the following did Larry not see the pandas do?
- A) Sleep.
+*A) Sleep.
  B) Eat.
  C) Climb trees.
  D) Play.
 
 4: multiple: Whose favorite animal wasn't found at the zoo?
  A) Ryan's
- B) Larry's
+*B) Larry's
  C) Tracy's
  D) Jim's
 
@@ -5487,24 +5487,24 @@ Greg and his mother were building a racing car. They were going to enter it into
 1: one: What day was the race?
  A) Wednesday
  B) Friday
- C) Saturday
+*C) Saturday
  D) Thursday
 
 2: one: What number did Greg put on his racing car?
- A) eight
+*A) eight
  B) three
  C) five
  D) ten
 
 3: multiple: How did Greg's father help with the racing car?
- A) He helped put the wheels on.
+*A) He helped put the wheels on.
  B) He colored in the number on the side.
  C) He helped color it red.
  D) He made the body of the car.
 
 4: multiple: Where was the race happening?
  A) At the park.
- B) On the track near his school.
+*B) On the track near his school.
  C) In a river.
  D) In their backyard.
 
@@ -5519,7 +5519,7 @@ Creativity Words: singing,taste,tailing,baseball,chair,mouth,winter,belting,eat,
 Joey went to a baseball game during the winter this year. He went by himself knowing he would enjoy the game much more than if he had gone with his friends Sam, Mark and David. His friends like to talk and hang out more than watch the game itself. The game was very exciting; Joey sat at the edge of his chair the whole game. The game ended with his home team winning by one run. The screams of the fans could be heard from very far away. On his way home he stopped at a dinner to have some dinner. When eating he saw some other fans come in and start belting out some songs and laughing. After dinner he looked at the menu and wanted some dessert. His choices were marshmallow and chocolate cake, apple pie with ice cream, warm brownies with ice cream, or a vanilla shake. He loved the taste of marshmallow so he went with that. On his way home he thought someone was tailing him so he turned off into a coffee store. When they drove by he went home.
 
 1: multiple: Who went to the baseball game and with how many people?
- A) Joey, nobody.
+*A) Joey, nobody.
  B) Mark, nobody
  C) Sam, two others
  D) Joey, three others.
@@ -5528,18 +5528,18 @@ Joey went to a baseball game during the winter this year. He went by himself kno
  A) Garden store
  B) Grocery store
  C) Car store
- D) Coffee store
+*D) Coffee store
 
 3: multiple: Which team won the game Joey went to and by how many runs?
  A) Home team, by two runs.
  B) Away team, by one run
  C) Away team, by two runs.
- D) Home team, by one run.
+*D) Home team, by one run.
 
 4: one: What dessert did Joey choose?
  A) warm brownie with ice cream
  B) Vanilla shake
  C) apple pie with ice cream
- D) Marshmallow and chocolate cake
+*D) Marshmallow and chocolate cake
 
 
