@@ -21,7 +21,7 @@ import java.io.*;
 
 
 public class PowerLoom {
-	private static String[] powerLoomWords = {"name","thing","empty","different","range","set","float","heap","function","fork","void","mark"};
+	private static String[] powerLoomWords = {"name","thing","empty","different","range","set","float","heap","function","fork","void","mark","list","cop"};
 	  private static void loadVerbosely (String filename) {
 	    System.out.print("  Loading " + filename + " ...");
 	    PLI.load(filename, null);
@@ -107,18 +107,26 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		    	}
 		    	for(String w : powerLoomWords){
 	        		for(String c : concepts){
-	        			if (c.equals(w)){c="concept"+c;}
+//			    		if (!c.equals("cop") && !c.equals("mark") && !c.equals("list")) {
+			    			if (c.equals(w)){c="concept"+c;}
+//			    		}
 	        		}
 	        		for(String r : relations){
-	        			if (r.equals(w)){r="relation"+r;}
+//			    		if (!r.equals("cop") && !r.equals("mark") && !r.equals("list")) {
+			    			if (r.equals(w)){r="relation"+r;}
+//			    		}
 	        		}
 	        	}
 		    	for (String c : concepts){
-		    		PLI.sCreateConcept(c, null, workingModule, null);
+//		    		if (!c.equals("cop") && !c.equals("mark") && !c.equals("list")) {
+		    			PLI.sCreateConcept(c, null, workingModule, null);
+//		    		}
 		    	}
 		    	assertSynonyms(concepts, workingModule, null);
 		    	for (String r : relations){
-		    		PLI.sCreateRelation(r, 2, workingModule, null);
+//		    		if (!r.equals("cop") && !r.equals("mark") && !r.equals("list")) {
+		    			PLI.sCreateRelation(r, 2, workingModule, null);
+//		    		}
 		    	}
 		    	
 		    	// All the triples in one sentence
@@ -311,7 +319,7 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 						  for (Synset synset : synSets){ 
 							  List<Word> words = synset.getWords();
 							  	for (Word word : words) { 
-							  		if (!word.equals("cop")) {
+							  		if (!word.equals("cop") && !word.equals("mark") && !word.equals("list")) {
 								  		if (word.getLemma().toString().split(" ").length == 1 && !word.toString().matches(".*\\d+.*"))
 								  			synonyms.add(word.getLemma().toString());
 							  		}
