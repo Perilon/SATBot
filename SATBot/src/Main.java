@@ -64,7 +64,9 @@ public class Main {
 //		}
 	
 		Parser p = new Parser();
+		CorefResolver cr  = new CorefResolver();
 		for(int i=0; i < stories.size();i++){
+			stories.get(i).text = cr.resolveAndReplace(stories.get(i).text);
 			ArrayList<String[]> relsToAssert = p.parseString(stories.get(i).text, lemmatizer);
 			storyTextRels.add(relsToAssert);
 		}

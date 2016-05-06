@@ -32,12 +32,13 @@ public class CorefResolver {
     }
 	public String resolveAndReplace(String text){
 		String replaced = "";
+		ArrayList<String> thingstorep = new ArrayList();
 		System.out.println("resolving corefs");
         // Create an empty Annotation just with the given text
         Annotation anno = new Annotation(text);
         // run all Annotators on this text
         this.pipeline.annotate(anno);
-        System.out.println(anno.get(CorefChainAnnotation.class));
+        //System.out.println(anno.get(CorefChainAnnotation.class));
         Map<Integer, CorefChain> coref = anno.get(CorefChainAnnotation.class);
         
         //for each sentence
@@ -53,6 +54,8 @@ public class CorefResolver {
         			if(c.getMentionsInTextualOrder().size() <= 1)
                         continue;
         			CorefMention reprMent = c.getRepresentativeMention();
+        			if (reprMent.toString().charAt(0) != reprMent.toString().toUpperCase().charAt(0)) //skip if reprMent not capitalized
+        				continue;
                     String clust = "";
                     List<CoreLabel> tks = anno.get(SentencesAnnotation.class).get(reprMent.sentNum-1).get(TokensAnnotation.class);
                     for(int i = reprMent.startIndex-1; i < reprMent.endIndex-1; i++)
@@ -64,6 +67,7 @@ public class CorefResolver {
                         if(cm.position.get(0)==s+1){//only if looking at right sentence
 	                        if(token.index() == cm.startIndex){
 	                    		newtok = clust;
+	                    		thingstorep.add(s+"|||"+token.index()+"|||"+clust);
 	                    	}
 	                    	if(token.index() > cm.startIndex && token.index() < cm.endIndex){
 	                    		newtok = "";

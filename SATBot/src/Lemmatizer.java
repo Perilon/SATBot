@@ -1,10 +1,16 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 import java.util.Properties;
 
+import edu.stanford.nlp.dcoref.CorefChain;
+import edu.stanford.nlp.dcoref.CorefChain.CorefMention;
+import edu.stanford.nlp.dcoref.CorefCoreAnnotations.CorefAnnotation;
+import edu.stanford.nlp.dcoref.CorefCoreAnnotations.CorefChainAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.LemmaAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.SentencesAnnotation;
+import edu.stanford.nlp.ling.CoreAnnotations.TextAnnotation;
 import edu.stanford.nlp.ling.CoreAnnotations.TokensAnnotation;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;
@@ -20,7 +26,7 @@ public class Lemmatizer {
         // (required for lemmatization), and lemmatization
         Properties props;
         props = new Properties();
-        props.put("annotators", "tokenize, ssplit, pos, lemma");
+        props.put("annotators", "tokenize, ssplit, pos, lemma, ner, parse, dcoref");
 
         /*
          * This is a pipeline that takes in a string and returns various analyzed linguistic forms. 
@@ -62,15 +68,18 @@ public class Lemmatizer {
     
     public ArrayList<String> lemmatizeSentence(String text)
     {
+    	System.out.println("lemmatizing");
         ArrayList<String> lemmas = new ArrayList<String>();
         // Create an empty Annotation just with the given text
         Annotation anno = new Annotation(text);
         // run all Annotators on this text
         this.pipeline.annotate(anno);
+        
         // Iterate over all of the sentences found
         List<CoreMap> sentences = anno.get(SentencesAnnotation.class);
         for(CoreMap sentence: sentences) {
             // Iterate over all tokens in a sentence
+  
             for (CoreLabel token: sentence.get(TokensAnnotation.class)) {
                 // Retrieve and add the lemma for each word into the
                 // list of lemmas
