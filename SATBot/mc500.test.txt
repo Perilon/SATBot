@@ -4651,7 +4651,7 @@ Marky is thirty years old, and lives in a big house. He is a doctor. Marky enjoy
 
 Marky had to study hard to become a doctor. He had to go to a special school for seven years. Learning to be a doctor is difficult. Only very smart and hardworking people can become doctors. Marky was not sad when he was studying. He enjoyed learning all about why people get sick and how to make them feel better.
 
-Now, Marky is a very good doctor. Sometimes other doctors ask him questions, because he knows more about some things that they do. Jim and Alice are two other doctors who became friends with Marky. Jim is forty years old, and Alice is twenty-five years old. Sometimes they all have dinner together, and at other times they listen to music at Mark's house.
+Now, Marky is a very good doctor. Sometimes other doctors ask him questions, because he knows more about some things that they do. Jim and Alice are two other doctors who became friends with Marky. Jim is forty years old, and Alice is twenty-five years old. Sometimes they all have dinner together, and at other times they listen to music at Marky's house.
 
 In his free time, Marky likes to play basketball. Marky works hard, and sometimes he wants to have fun. But really, his job is fun to him. When he wakes up in the morning, he always is excited thinking about how he can help people as a doctor.
 
@@ -5516,11 +5516,11 @@ Qual. score:      90
 Work Time(s):     2984
 Creativity Words: singing,taste,tailing,baseball,chair,mouth,winter,belting,eat,read,laugh,picture,scream,coin,marshmallow
 
-Joey went to a baseball game during the winter this year. He went by himself knowing he would enjoy the game much more than if he had gone with his friends Sam, Mark and David. His friends like to talk and hang out more than watch the game itself. The game was very exciting; Joey sat at the edge of his chair the whole game. The game ended with his home team winning by one run. The screams of the fans could be heard from very far away. On his way home he stopped at a dinner to have some dinner. When eating he saw some other fans come in and start belting out some songs and laughing. After dinner he looked at the menu and wanted some dessert. His choices were marshmallow and chocolate cake, apple pie with ice cream, warm brownies with ice cream, or a vanilla shake. He loved the taste of marshmallow so he went with that. On his way home he thought someone was tailing him so he turned off into a coffee store. When they drove by he went home.
+Joey went to a baseball game during the winter this year. He went by himself knowing he would enjoy the game much more than if he had gone with his friends Sam, Marky and David. His friends like to talk and hang out more than watch the game itself. The game was very exciting; Joey sat at the edge of his chair the whole game. The game ended with his home team winning by one run. The screams of the fans could be heard from very far away. On his way home he stopped at a dinner to have some dinner. When eating he saw some other fans come in and start belting out some songs and laughing. After dinner he looked at the menu and wanted some dessert. His choices were marshmallow and chocolate cake, apple pie with ice cream, warm brownies with ice cream, or a vanilla shake. He loved the taste of marshmallow so he went with that. On his way home he thought someone was tailing him so he turned off into a coffee store. When they drove by he went home.
 
 1: multiple: Who went to the baseball game and with how many people?
 *A) Joey, nobody.
- B) Mark, nobody
+ B) Marky, nobody
  C) Sam, two others
  D) Joey, three others.
 

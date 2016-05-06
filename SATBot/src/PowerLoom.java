@@ -116,7 +116,7 @@ ArrayList<ArrayList<ArrayList<String[]>>> storyQuestionRelations, ArrayList<Arra
 		    	for (String c : concepts){
 		    		PLI.sCreateConcept(c, null, workingModule, null);
 		    	}
-//		    	assertSynonyms(concepts, workingModule, null);
+		    	assertSynonyms(concepts, workingModule, null);
 		    	for (String r : relations){
 		    		PLI.sCreateRelation(r, 2, workingModule, null);
 		    	}

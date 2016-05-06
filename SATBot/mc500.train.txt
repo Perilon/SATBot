@@ -1773,27 +1773,27 @@ Qual. score:      95
 Work Time(s):     800
 Creativity Words: triangle,granddaddy,feed,spank,yes,television,lamp,trashcan,blood,goldfish,river,telephone,lunch,bed,round
 
-Mark got a letter from his granddaddy that said there was something cool to see. He called his granddaddy on the telephone and asked what it was. He was told that he needs to come over to see it for himself. After asking his parents if it was OK, Mark went to his granddaddy's house. When he got there, they turned off the television and lamp and went around to the backyard. In his granddaddy's backyard, there was a river and lots of plants and flowers. They followed the river and found a pond. The pond was full of goldfish because it was a goldfish pond. There were goldfish of every different color in the pond and it was an amazing sight. Mark had lunch with his granddaddy by the pond and thanked him for showing the interesting pond to him. After that, Mark went home and told his parents about how cool the trip was.
+Marky got a letter from his granddaddy that said there was something cool to see. He called his granddaddy on the telephone and asked what it was. He was told that he needs to come over to see it for himself. After asking his parents if it was OK, Marky went to his granddaddy's house. When he got there, they turned off the television and lamp and went around to the backyard. In his granddaddy's backyard, there was a river and lots of plants and flowers. They followed the river and found a pond. The pond was full of goldfish because it was a goldfish pond. There were goldfish of every different color in the pond and it was an amazing sight. Marky had lunch with his granddaddy by the pond and thanked him for showing the interesting pond to him. After that, Marky went home and told his parents about how cool the trip was.
 
-1: one: What did Mark and his granddaddy find by following the river?
+1: one: What did Marky and his granddaddy find by following the river?
  A) Many plants and flowers.
  B) His parents.
 *C) A pond.
  D) Another river.
 
 2: multiple: Where was the goldfish pond located?
-*A) By the river behind Mark's granddaddy's house.
- B) At Mark's house.
- C) At Mark's parents other house.
- D) In Mark's friend's backyard.
+*A) By the river behind Marky's granddaddy's house.
+ B) At Marky's house.
+ C) At Marky's parents other house.
+ D) In Marky's friend's backyard.
 
-3: multiple: When did Mark leave for his granddaddy's house?
+3: multiple: When did Marky leave for his granddaddy's house?
  A) Before he called his granddaddy.
  B) In the afternoon.
  C) After lunch.
 *D) Before lunch.
 
-4: one: What did Mark get that day?
+4: one: What did Marky get that day?
  A) A free lunch.
  B) A television for his room.
 *C) A letter from his granddaddy.
@@ -6767,12 +6767,12 @@ Qual. score:      90
 Work Time(s):     950
 Creativity Words: ring,pink,eraser,knee,arm,block,football,box,football,silly,chin,pancake,tape,shut,build
 
-Mark, Matthew, Zach and John love to play Football. They did not really care for baseball, basketball or soccer much. They enjoy it so much that they like to draw silly pictures on to their arms and notebooks showing footballs. Then when the teacher sees them they have to use the pink erasers to erase the drawings. One day Mark was out playing football when he tripped and hurt his knee, the next day Matthew was also playing football when he fell and hurt his arm. Both boys could not play their favorite games now. So to cheer them up, Matthew's parents bought them a new football game they could play at home. When Mark showed up to play, they had also made chocolate chip pancakes as a present to both of them, even if both of their favorite food was bacon, waffles and hamburgers. After some time both boys got bored with the game and thought to build their own. So they got some cardboard and tape and built a small table top football game. After that they were busy enough to forget their own hurt parts and had a lot of fun that day.
+Marky, Matthew, Zach and John love to play Football. They did not really care for baseball, basketball or soccer much. They enjoy it so much that they like to draw silly pictures on to their arms and notebooks showing footballs. Then when the teacher sees them they have to use the pink erasers to erase the drawings. One day Marky was out playing football when he tripped and hurt his knee, the next day Matthew was also playing football when he fell and hurt his arm. Both boys could not play their favorite games now. So to cheer them up, Matthew's parents bought them a new football game they could play at home. When Marky showed up to play, they had also made chocolate chip pancakes as a present to both of them, even if both of their favorite food was bacon, waffles and hamburgers. After some time both boys got bored with the game and thought to build their own. So they got some cardboard and tape and built a small table top football game. After that they were busy enough to forget their own hurt parts and had a lot of fun that day.
 
 1: multiple: Which of the boys hurt his knee, and from what?
  A) Matthew, soccer
  B) Zach, football
-*C) Mark, football
+*C) Marky, football
  D) John, baseball
 
 2: one: What was the boys favorite sport?
@@ -6783,7 +6783,7 @@ Mark, Matthew, Zach and John love to play Football. They did not really care for
 
 3: multiple: Which of the boys hurt his arm, and from what?
  A) Zach, soccer
- B) Mark, football
+ B) Marky, football
 *C) Matthew, football
  D) John, basketball
 
@@ -6983,7 +6983,7 @@ Qual. score:      95
 Work Time(s):     938
 Creativity Words: use,potato,fun,juice,pacifier,rock,house,wait,wood,bath,strawberry,beach,cat,have,smell
 
-Jim wanted to make a fun meal one day. After thinking about it for a long time, he chose to make a chicken dish. Jim made a trip to the store to collect all of the different things he would need to make this meal. He drove his blue truck to the store. On the way he passed a green car, a red van, and a yellow bus. When he got to the store, he met his friends Bob & Mark. He asked if they had seen his friend Joe, but they said no. At the store, Jim bought two pieces of chicken, tomato sauce, cheese, and bread. He drove back to the house, but he saw that something was missing. He had forgotten to grab the bag with the bread in it. He drove back to the store, apologized to the clerk, and grabbed his bag with the bread inside. When he got home, he began to get the food ready. It took him an hour to get the chicken ready to cook and the oven heated up. After that, it took him another hour to cook the food. He had to wait another hour after it was done cooking for his dinner guests to arrive. When they finally arrived, everyone told Jim how wonderful the food tasted, and everyone at the table asked for seconds. Jim smiled, glad that everyone loved this meal that he had worked so hard to make.
+Jim wanted to make a fun meal one day. After thinking about it for a long time, he chose to make a chicken dish. Jim made a trip to the store to collect all of the different things he would need to make this meal. He drove his blue truck to the store. On the way he passed a green car, a red van, and a yellow bus. When he got to the store, he met his friends Bob & Marky. He asked if they had seen his friend Joe, but they said no. At the store, Jim bought two pieces of chicken, tomato sauce, cheese, and bread. He drove back to the house, but he saw that something was missing. He had forgotten to grab the bag with the bread in it. He drove back to the store, apologized to the clerk, and grabbed his bag with the bread inside. When he got home, he began to get the food ready. It took him an hour to get the chicken ready to cook and the oven heated up. After that, it took him another hour to cook the food. He had to wait another hour after it was done cooking for his dinner guests to arrive. When they finally arrived, everyone told Jim how wonderful the food tasted, and everyone at the table asked for seconds. Jim smiled, glad that everyone loved this meal that he had worked so hard to make.
 
 1: multiple: How many trips did he make to the store?
 *A) Two
@@ -7005,7 +7005,7 @@ Jim wanted to make a fun meal one day. After thinking about it for a long time, 
 
 4: one: Who wanted to cook a fun meal?
  A) Bob
- B) Mark
+ B) Marky
  C) Joe
 *D) Jim
 
@@ -8603,7 +8603,7 @@ Qual. score:      90
 Work Time(s):     662
 Creativity Words: wrong,bicycle,horn,racer,dream,twinkle,chipmunk,hide,bell,road,shouting,fish,dug,turtle,tomato
 
-One day when driving home John saw a group of bicycle racers riding down the road. When they stopped at a store he pulled over to talk to them. Their names were David, Mark, and Sam. When he asked them how they got into racing they each had a different story to tell. Sam started with his dad when he was much younger. Mark started when he met Sam, who was racing. David started when he saw a race on TV. John was very interested in learning to race bicycles like the three men he met. So he asked them where he could buy a bike like theirs, and how much would it cost. Sam said he would give him his old bike for free. Mark told him of a store nearby, and David told him of a store on the web. John said goodbye to the racers so that they could keep going on their ride. John then went home and left Sam a note so that he could pick up his old bike. He then went to his desk to look up some stuff on bike racing. He was so excited his mother heard him from the other room shouting about wheels. He looked into the safety parts of bike riding including the wrong time to ride and the stuff he would need like, a helmet and horn.
+One day when driving home John saw a group of bicycle racers riding down the road. When they stopped at a store he pulled over to talk to them. Their names were David, Marky, and Sam. When he asked them how they got into racing they each had a different story to tell. Sam started with his dad when he was much younger. Marky started when he met Sam, who was racing. David started when he saw a race on TV. John was very interested in learning to race bicycles like the three men he met. So he asked them where he could buy a bike like theirs, and how much would it cost. Sam said he would give him his old bike for free. Marky told him of a store nearby, and David told him of a store on the web. John said goodbye to the racers so that they could keep going on their ride. John then went home and left Sam a note so that he could pick up his old bike. He then went to his desk to look up some stuff on bike racing. He was so excited his mother heard him from the other room shouting about wheels. He looked into the safety parts of bike riding including the wrong time to ride and the stuff he would need like, a helmet and horn.
 
 1: one: What was John shouting about that his mother heard.
  A) Helmets
@@ -8615,11 +8615,11 @@ One day when driving home John saw a group of bicycle racers riding down the roa
  A) Sam started when he saw a race on tv.
 *B) Sam started with his father when he was younger.
  C) Sam started with his mother.
- D) Sam started when he met Mark
+ D) Sam started when he met Marky
 
 3: multiple: Who said he would give John his old bike, and for how much.
  A) Sam for two hundred.
- B) Mark, for one hundred.
+ B) Marky, for one hundred.
 *C) Sam, for free.
  D) David for free.
 
@@ -8627,7 +8627,7 @@ One day when driving home John saw a group of bicycle racers riding down the roa
 *A) John was driving the car and he was going home.
  B) David was driving the car to the store
  C) Sam was driving the car to the store
- D) Mark was driving the car and he was going home.
+ D) Marky was driving the car and he was going home.
 
 
 ***************************************************
