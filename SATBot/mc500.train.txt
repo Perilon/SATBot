@@ -444,7 +444,7 @@ Qual. score:      90
 Work Time(s):     711
 Creativity Words: turn,get,god,ankle,cup,house,hair,thunder,shouting,weekend,driver,pink,lunch,peach,try
 
-Once upon a time, there was an old man named John. John loved to eat peaches. In fact, John's whole family, including his mother Stephanie, his father Bob, and his brother James loved to eat peaches. John would eat peaches in the morning for breakfast, in the afternoon for lunch, and in the evening for dinner. John and his best friend, Rick, shared their love for peaches. One day John and Rick started a peach farm so that they would never run out of their favorite fruit. They planted hundreds of peach trees and waited for them to bear fruit. After six years of waiting, one lonely peach finally grew on one of the trees John and Rick planted. They picked the peach and brought it home. They waited until the weekend to eat it in case more peaches grew, but none did. John and Rick were sad and confused about their farm. They planted hundreds of trees and were sure that there would be thousands of peaches for them to eat in no time. Another peach never grew on their farm for seventeen years. One day, a mighty crack of thunder led to a strong storm. Lightning hit the ground over and over, and John and Rick were scared their trees might be killed. The next morning, every tree on the farm had more than ten peaches on it. John and Rick started shouting for joy.
+Once upon a time, there was an old man named John. John loved to eat peaches. In fact, John's whole family, including his mother Stephanie, his father Bob, and his brother James loved to eat peaches. John would eat peaches in the morning for breakfast, in the afternoon for lunch, and in the evening for dinner. John and his best friend, Rick, shared their love for peaches. One day John and Rick started a peach farm so that they would never run out of their favorite fruit. They planted hundreds of peach trees and waited for them to bear fruit. After six years of waiting, one lonely peach finally grew on one of the trees John and Rick planted. They picked the peach and brought it home. They waited until the weekend to eat it if more peaches grew, but none did. John and Rick were sad and confused about their farm. They planted hundreds of trees and were sure that there would be thousands of peaches for them to eat in no time. Another peach never grew on their farm for seventeen years. One day, a mighty crack of thunder led to a strong storm. Lightning hit the ground over and over, and John and Rick were scared their trees might be killed. The next morning, every tree on the farm had more than ten peaches on it. John and Rick started shouting for joy.
 
 1: multiple: How many trees did John and Rick plant?
  A) Thousands
@@ -1925,7 +1925,7 @@ Qual. score:      100
 Work Time(s):     1548
 Creativity Words: eyeball,plane,firing,singing,bicycle,beach,start,short,ladder,body,friendly,try,towel,duck,walk
 
-Bob was flying a toy plane in his yard.  He was having a great time!  Bob had a dog and a cat that were also playing in the yard.  He was also singing "Twinkle, Twinkle Little Star."  Bob flew his toy plane too high.  It landed on the roof of his house.  Bob asked his dad to get it.  Bob's dad said he had to borrow a ladder from next door.  Bob's dad took a walk next door.  On the way, Bob's dad waited for a duck to cross the road.  Finally, Bob's dad went next door and asked his neighbor, Frank, for a ladder.  Frank gave the ladder to Bob's dad.  Frank also gave Bob's dad a toy car, a toy train, a toy boat, and a coloring book that Bob could play with in case he couldn't get the plane.  Bob's dad walked back to the house.  Bob's dad climbed the ladder and took the plane from the roof.  Bob laughed and flew the plane again.  Afterward, they wanted to go to the beach.  Bob wanted to bring his bicycle.  Bob's dad wanted to bring a towel and beach ball.  They made a big sand castle.  They saw a seagull walking on the sand.  It was getting late, so they went home and turned on the TV for a little bit.  They then went to bed, looking forward to another day of fun tomorrow!
+Bob was flying a toy plane in his yard.  He was having a great time!  Bob had a dog and a cat that were also playing in the yard.  He was also singing "Twinkle, Twinkle Little Star."  Bob flew his toy plane too high.  It landed on the roof of his house.  Bob asked his dad to get it.  Bob's dad said he had to borrow a ladder from next door.  Bob's dad took a walk next door.  On the way, Bob's dad waited for a duck to cross the road.  Finally, Bob's dad went next door and asked his neighbor, Frank, for a ladder.  Frank gave the ladder to Bob's dad.  Frank also gave Bob's dad a toy car, a toy train, a toy boat, and a coloring book that Bob could play with if he couldn't get the plane.  Bob's dad walked back to the house.  Bob's dad climbed the ladder and took the plane from the roof.  Bob laughed and flew the plane again.  Afterward, they wanted to go to the beach.  Bob wanted to bring his bicycle.  Bob's dad wanted to bring a towel and beach ball.  They made a big sand castle.  They saw a seagull walking on the sand.  It was getting late, so they went home and turned on the TV for a little bit.  They then went to bed, looking forward to another day of fun tomorrow!
 
 1: multiple: Which item was not taken to the beach?
  A) Towel
@@ -2701,7 +2701,7 @@ Qual. score:      85
 Work Time(s):     1457
 Creativity Words: princess,moon,playtime,cool,lake,smile,hot,dish,insect,shout,kiss,watch,plant,family,forward
 
-Lucy was walking with her family in the woods, far away from the city.  Her father helped her see all kinds of animals.  It was like going to the zoo.  They saw deer, a moose, a fox, and a bear.  The bear ran away when her brother shouted.  Lucy thought that was lucky, because she was a little scared of it.  Her father showed her a whistle to blow in case she got lost.  Her brother kept stealing it.  While they were walking down by a stream, Lucy's Mom was making sandwiches for everyone.  Lucy's brother Jim kept blowing the whistle.  He told her that he was going to steal her sandwich if he got there first.  That made her mad!  She really wanted her turkey sandwich and not a peanut butter and jelly sandwich.  When their mom called, they both ran back as fast as they could.  Since Jim was older, he was faster and beat her to the picnic.  Lucy started crying.  She thought Jim stole everything!
+Lucy was walking with her family in the woods, far away from the city.  Her father helped her see all kinds of animals.  It was like going to the zoo.  They saw deer, a moose, a fox, and a bear.  The bear ran away when her brother shouted.  Lucy thought that was lucky, because she was a little scared of it.  Her father showed her a whistle to blow if she got lost.  Her brother kept stealing it.  While they were walking down by a stream, Lucy's Mom was making sandwiches for everyone.  Lucy's brother Jim kept blowing the whistle.  He told her that he was going to steal her sandwich if he got there first.  That made her mad!  She really wanted her turkey sandwich and not a peanut butter and jelly sandwich.  When their mom called, they both ran back as fast as they could.  Since Jim was older, he was faster and beat her to the picnic.  Lucy started crying.  She thought Jim stole everything!
 
 1: multiple: Who did the whistle belong to?
  A) Jim
@@ -3153,7 +3153,7 @@ Qual. score:      90
 Work Time(s):     527
 Creativity Words: frown,bean,morning,orange,bib,kitten,racer,gum,chicken,pie,bush,lunch,fluff,frog,rainbow
 
-One day, a boy named Jack wanted take a trip on his red tricycle. He was not sure where he wanted to go, but he knew he wanted to go somewhere far away.  It was a cloudy and chilly day, so Jack wore a warm shirt.  Jack worried that he might get lonely on his trip.  He borrowed his mother's phone and taped it to the handle bars of his tricycle so he could call home. He also put his music player in his pocket. Jack put some left over pizza in his backpack in case he got hungry. Jack pedaled down his driveway, heading out on his big trip. When he got to the end of his driveway, Mrs. Jones, his teacher from school, was walking by on the sidewalk. "Hello Jack" said Mrs. Jones, "Where are you going on that nice red tricycle?" "I'm going on a trip to someplace far away" said Jack. Mrs. Jones smiled, and thought for a second. "Make sure you are back by morning, we have a field trip tomorrow" said Mrs. Jones.  Jack had been waiting for the field trip for weeks. He looked at Mrs. Jones and said, "I think I'll wait to take a trip until I can fly. I don't want to miss the field trip and this tricycle is not very fast."
+One day, a boy named Jack wanted take a trip on his red tricycle. He was not sure where he wanted to go, but he knew he wanted to go somewhere far away.  It was a cloudy and chilly day, so Jack wore a warm shirt.  Jack worried that he might get lonely on his trip.  He borrowed his mother's phone and taped it to the handle bars of his tricycle so he could call home. He also put his music player in his pocket. Jack put some left over pizza in his backpack if he got hungry. Jack pedaled down his driveway, heading out on his big trip. When he got to the end of his driveway, Mrs. Jones, his teacher from school, was walking by on the sidewalk. "Hello Jack" said Mrs. Jones, "Where are you going on that nice red tricycle?" "I'm going on a trip to someplace far away" said Jack. Mrs. Jones smiled, and thought for a second. "Make sure you are back by morning, we have a field trip tomorrow" said Mrs. Jones.  Jack had been waiting for the field trip for weeks. He looked at Mrs. Jones and said, "I think I'll wait to take a trip until I can fly. I don't want to miss the field trip and this tricycle is not very fast."
 
 1: multiple: Why did Jack wait to take his trip?
  A) He got hungry
@@ -3875,7 +3875,7 @@ Story:            mc500.train.105
 Author:           3143230529
 Qual. score:      90
 Work Time(s):     979
-Creativity Words: sugar,pee,cop,closer,coffee,share,toe,sleeve,sound,granddaughter,swing,reindeer,freeze,meal,triangle
+Creativity Words: sugar,pee,closer,coffee,share,toe,sleeve,sound,granddaughter,swing,reindeer,freeze,meal,triangle
 
 Santa Claus makes sure that every year at Christmas time that his reindeer are ready to deliver gifts to girls and boys all over the world. Without the reindeer, how would Santa fly from home to home? The most important thing that Santa has to do for the reindeer is to make sure they have their coffee on Christmas Eve. Without the coffee, they won't stay awake for very long. Sleeping reindeer are not very helpful. Santa also gives the reindeer candy to keep up their energy. In the North Pole, the main candy is candy canes in red and white. Reindeer love the candy canes that are different colors best and Santa says that helps them fly faster. Next, Santa has to make sure that the reindeer have a good meal before they go. Santa wants to make sure he doesn't have to share the cookies kids leave for him. The last thing Santa has to do is make sure the reindeer know where they are going. Santa has only been lost one time on Christmas Eve and he does not want that to happen again.
 
@@ -4561,7 +4561,7 @@ Qual. score:      90
 Work Time(s):     1892
 Creativity Words: farmer,red,pasting,saying,facing,ocean,horn,cheese,fruit,stove,baby,hit,girl,plant,skip
 
-There once was a business man named Red. Red owned his own business. He had his very own movie store. There are food stores, sporting goods stores, and even radio stores, but Red owned a movie store. Many people visited his movie store and watched a lot of movies. There were many different types of movies in his store. He had funny movies about dogs. He had scary movies about monsters. He had action movies about cops and even had silly movies about grown-ups. His movie store was known for its paint job. The paint job was the color red. It was not blue, purple, or yellow. The people in the town loved his red movie store and Red the movie store guy loved them. He gave them all the movies they could ever want. They kept watching his movies and soon Red opened another movie store. Red had two red movie stores and people loved watching his movies. Red even had popcorn at his movie store. He did not have ice cream, candy, or soda pop and this made people very sad.
+There once was a business man named Red. Red owned his own business. He had his very own movie store. There are food stores, sporting goods stores, and even radio stores, but Red owned a movie store. Many people visited his movie store and watched a lot of movies. There were many different types of movies in his store. He had funny movies about dogs. He had scary movies about monsters. He had action movies about police and even had silly movies about grown-ups. His movie store was known for its paint job. The paint job was the color red. It was not blue, purple, or yellow. The people in the town loved his red movie store and Red the movie store guy loved them. He gave them all the movies they could ever want. They kept watching his movies and soon Red opened another movie store. Red had two red movie stores and people loved watching his movies. Red even had popcorn at his movie store. He did not have ice cream, candy, or soda pop and this made people very sad.
 
 1: multiple: What kind of business did Red own?
  A) Grocery Store
@@ -4835,7 +4835,7 @@ So he left his home by Whipple Creek and went into town to visit the Edward the 
 
 "Your friends won't even know it's you, Jack!" said Edward the Barber as Jack the Pirate headed out the door.
 
-On the way back home, he took a short cut through the forest, and he met three people who were his friends. First he met Ichabod the Chief of Police, who was doing an important case. Jack said "Hello, Ichabod!" but Ichabod ignored him. The second person he met was Willy the Candy Man, who was delivering delicious treats. Jack said "Howdy, Willy!" but Willy didn't say anything back. The third person Jack met was Dean the Librarian, who was looking for a book he had lost. Jack said "Hey, Dean!" but Dean didn't stop looking for his book.
+On the way back home, he took a short cut through the forest, and he met three people who were his friends. First he met Ichabod the Chief of Police, who was doing an important job. Jack said "Hello, Ichabod!" but Ichabod ignored him. The second person he met was Willy the Candy Man, who was delivering delicious treats. Jack said "Howdy, Willy!" but Willy didn't say anything back. The third person Jack met was Dean the Librarian, who was looking for a book he had lost. Jack said "Hey, Dean!" but Dean didn't stop looking for his book.
 
 "That's odd," thought Jack to himself, as he arrived home. "Why did all of my friends ignore me today?"
 
@@ -5105,7 +5105,7 @@ Jamey wasn't sure he could give the little white dog all the time it needed to b
 
 "I promise," said Jamey.
 
-"In that case, I guess we have a dog!"
+"In that event, I guess we have a dog!"
 
 This made Jamey very happy.
 
@@ -6054,7 +6054,7 @@ Story:            mc500.train.163
 Author:           2433395958
 Qual. score:      90
 Work Time(s):     2112
-Creativity Words: candy,floor,letter,change,hold,marker,cop,dark,alligator,spoon,gentle,cousin,cousin,cousin,saying
+Creativity Words: candy,floor,letter,change,hold,marker,dark,alligator,spoon,gentle,cousin,cousin,cousin,saying
 
 Nick was so happy to finally meet his cousin. Just this morning he found out what a cousin is. A cousin is somebody who has the same grandmother and grandfather as you. He didn't even know he had a cousin and now they were going to play together. This was going to be a great day. 
 Right after he ate lunch and had a quick piece of candy for snack he pulled out the letter that his cousin Chris wrote to him. He read it over and over again. They liked so many of the same things, like riding bikes and playing games. It was only twelve o'clock and Nick did not know if he would make it until Chris got here. He had two more hours to go.
@@ -6663,7 +6663,7 @@ Story:            mc500.train.180
 Author:           31729763
 Qual. score:      80
 Work Time(s):     1296
-Creativity Words: turtle,cross,pie,face,drawing,middle,middle,tailing,move,ankle,cop,afternoon,duck,cheese,elbow
+Creativity Words: turtle,cross,pie,face,drawing,middle,middle,tailing,move,ankle,afternoon,duck,cheese,elbow
 
 Once upon a time there were four children.  Each of the children had a favorite color.  John's favorite color was blue.  Jack's favorite color was red.  Jenny's favorite color was purple and Alice's favorite color was yellow.  They walked along the road one day and stopped to pick flowers for their mother.  Jack picked a handful of red flowers.  "Mom is going to love these!" he said.  Jenny picked a handful of purple flowers.  "These are perfect for mother," She thought.  Alice picked two handfuls of yellow flowers.  "Yellow flowers are so pretty for mom's kitchen," she said.  John looked and looked, but couldn't find any blue flowers.  He looked along the road, but there were no blue flowers.  He looked by the stream, but there were no blue flowers. He was very sad.  They walked along the road toward home to give their flowers to their mother.  John walked very slowly and hung his head because he didn't have any flowers to give his mother.  As they neared their home, John saw a small bunch of blue flowers growing near the fence.  He was so happy he picked them all and rushed to catch up with his brother and sisters.  When they got home they gave their mother all the flowers they had picked.  She thanked them and put them on her kitchen table.  "I have the most thoughtful children in the world," She said.
 
@@ -9231,7 +9231,7 @@ Qual. score:      90
 Work Time(s):     1109
 Creativity Words: stinker,morning,car,stove,dig,welcome,elf,rattle,marker,keeping,sofa,book,mouse,take,mess
 
-The stinker was that no one let the elf in. He had waited at the door for four whole hours, but was afraid to knock in case the noise would wake the humans. This elf was the tooth fairy's helper, but one day hoped to work in the North Pole. That would never happen if he couldn't even help the tooth fairy with teeth on his first day working for her. 
+The stinker was that no one let the elf in. He had waited at the door for four whole hours, but was afraid to knock if the noise would wake the humans. This elf was the tooth fairy's helper, but one day hoped to work in the North Pole. That would never happen if he couldn't even help the tooth fairy with teeth on his first day working for her. 
 
 It was almost morning now. Soon the children would wake up and run out the front door with their books for school. Inside, the tooth fairy would be wondering what was keeping him. "It's too dangerous to stay at this door," the elf thought, "The children might see me." 
 
@@ -9503,7 +9503,7 @@ Story:            mc500.train.256
 Author:           2354660034
 Qual. score:      85
 Work Time(s):     727
-Creativity Words: cop,horn,pin,library,bathroom,red,outside,liar,cough,walk,ham,side,frosting,light,stick
+Creativity Words: horn,pin,library,bathroom,red,outside,liar,cough,walk,ham,side,frosting,light,stick
 
 So, there was this kid named Jack that came up to my beanstalk one day. I couldn't believe my eyes, so I put down my ham sandwich I was eating and looked at him. I'm not sure what he thought he was doing there, but he sure did talk a lot. He kept asking me questions about this and then he asked me some questions about that and I was getting a little bit tired of all of the questions.
 

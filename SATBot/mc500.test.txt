@@ -1086,7 +1086,7 @@ Story:            mc500.test.30
 Author:           4166664821
 Qual. score:      80
 Work Time(s):     2228
-Creativity Words: cop,soda,river,cool,god,sing,facing,popcorn,pea,sister,first,melon,freeze,football,tail
+Creativity Words: soda,river,cool,god,sing,facing,popcorn,pea,sister,first,melon,freeze,football,tail
 
 One day John and Sally's mother made up her mind to bake a very special cake for her son and daughter, but she didn't have the ingredients. She told John and Sally to go to the grocer's to buy the things she would need.
 

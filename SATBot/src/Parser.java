@@ -155,7 +155,7 @@ class Parser {
 	        	
 //	        	triples.add(triple);
 	        	
-	        	String[] triple = new String[]{m.group(1)+"+rel",lemmatizer.lemmatizeWord(m.group(2)),lemmatizer.lemmatizeWord(m.group(3))};
+	        	String[] triple = new String[]{m.group(1).replaceAll("root", "rootrel"),lemmatizer.lemmatizeWord(m.group(2)),lemmatizer.lemmatizeWord(m.group(3))};
 //	        	System.out.println("triple = " + triple[0].toString() + " "+ triple[1].toString() + " " + triple[2].toString());
 	        	triples.add(triple);
 	        	

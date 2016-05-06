@@ -715,7 +715,7 @@ Story:            mc500.dev.20
 Author:           3555112059
 Qual. score:      95
 Work Time(s):     1575
-Creativity Words: pink,moon,dug,wiggle,laugh,eye,ketchup,short,dad,behind,ring,cop,chipmunk,line,sofa
+Creativity Words: pink,moon,dug,wiggle,laugh,eye,ketchup,short,dad,behind,ring,chipmunk,line,sofa
 
 One day, a pink moon was looking down at an empty sand land. Although the pink moon could see all the lizards and cacti in the empty sand land, nobody could see the moon! The pink moon felt so lonely. So, the pink moon called on the sun for help. The great sun was very busy high in the sky, for it was his job to shine over the sand land, and it was hard to get his attention. So the moon wiggled closer and closer to the sun every second. The second turned to hours as the pink moon inched toward his friend, slowly moving across the sky. Finally, the sun saw the moon and asked, "Pink moon! What are you doing here? Don't you know the sky is my home during the day? Your time is coming soon enough. Look, I'm falling now toward my bed on the end of the earth..." But the pink moon could not be stopped and kept moving toward the great sun. "But great sun, I become so lonely during the day when your light is so bright the animals in the sand land can't see me. Please let me join your light during the day this once!" By this time, the great sun and pink moon were only inches apart. The great sun said, "Though by day you disappear, I always remember you are here. Come to me now. Stand in front of me, and show the sand land your shine!" So the pink moon inched in front of the great sun. At first, covering part of the sun's circle, then more, then...a complete covering of the sun! The pink moon was shining with the power and light of the sun! All the lizards, cacti and every animal stood still in awe of the daytime pink moon! But at that time, the sun slipped away, saying "Farewell, pink moon. We have to do this again!" And so, every few years, the sun and moon come together to show the pink moon's is always with us, even in the day time .
 
@@ -911,7 +911,7 @@ Story:            mc500.dev.25
 Author:           1753658650
 Qual. score:      85
 Work Time(s):     1684
-Creativity Words: banana,tub,facing,change,farm,cop,purple,helper,bottle,bench,tail,clock,kind,baseball,shoe
+Creativity Words: banana,tub,facing,change,farm,purple,helper,bottle,bench,tail,clock,kind,baseball,shoe
 
 Sammy loved playing baseball. He would play every day, even if there was no practice that day! One day, Sammy went to the park with his mom to play catch with his friends, but as he was playing, he tripped over a rock, and his shoe slipped off! His shoe went flying into the air, high up into the sky, and Sammy watched as the shoe fell into old man Mr. Grumpy's yard. 
 What was he going to do? His mom sat on a bench not too far away, reading a book. "Should I tell Mom?" Sammy thought to himself. He thought that maybe he shouldn't, because he might get in trouble. Instead, he was going to climb the fence into Mr. Grumpy's yard!
@@ -1316,7 +1316,7 @@ Bill and Sarah chose to meet at the park on Saturday to play ball and have a pic
 
 4: one: What boy does Sarah like to play with?
  A) Scott
- B) Mark
+ B) Marky
  C) Tom
 *D) Bill
 
@@ -1682,7 +1682,7 @@ Story:            mc500.dev.46
 Author:           4289699373
 Qual. score:      85
 Work Time(s):     4079
-Creativity Words: splinter,toy,switch,clap,sip,rule,cop,side,cut,elf,napkin,writing,floor,squirrel,ketchup
+Creativity Words: splinter,toy,switch,clap,sip,rule,side,cut,elf,napkin,writing,floor,squirrel,ketchup
 
 Sally the cat went outside to play. First she went on the trail to the river. Sally sat and watched the fish. She wanted to catch a fish. The fish swam away too fast. Next she went to the field. Sally laid down in the grass and took a nap. There's nothing like a cat nap on a warm day. When Sally woke up she saw a mouse. Sally ran after the mouse and tried to catch it. The mouse ran into a hole and got away. "That's okay" Sally said. "I'll get him next time." Sally went back to the trail and began to walk home. When she got back to the river she took a drink of water. "This water tastes good" said Sally. When she got back to her house, Sally went inside and ate a cat treat. She spent the rest of day playing with her favorite person. "This was a good day" said Sally.
 
